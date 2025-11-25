@@ -1,0 +1,104 @@
+[ {
+  "id": "event-jummah-khutbah-001",
+  "type": "event",
+  "priority": "high",
+  "title": "Special Jummah Khutbah",
+  "body": "Join us for a special Jummah khutbah on family values by Sheikh Ahmad.",
+  "createdAt": "2025-11-25T09:00:00Z",
+  "expiresAt": "2025-11-29T15:00:00Z",
+  "iconUrl": "https://example.com/icons/jummah.png",
+  "imageUrl": "https://example.com/banners/jummah-special.jpg",
+  "actionLabel": "Add to Planner",
+  "tags": ["jummah", "khutbah", "weekly", "community"],
+  "data": {
+    "eventData": {
+      "title": "Special Jummah Khutbah - Family Values",
+      "startTime": "2025-11-29T13:15:00Z",
+      "endTime": "2025-11-29T14:00:00Z",
+      "description": "Sheikh Ahmad will deliver a special khutbah on strengthening family bonds in Islam. Topics include:\n\n- Rights of parents\n- Raising righteous children\n- Marriage in Islam\n- Communication and conflict resolution\n\nAll community members are welcome.",
+      "location": "Main Prayer Hall, Ground Floor",
+      "priority": "high",
+      "showInTimeline": true,
+      "color": "#10B981",
+      "reminderMinutes": [15, 60],
+      "isRecurring": false,
+      "organizerName": "Islamic Center",
+      "organizerContact": "contact@islamiccenter.org",
+      "capacity": 500,
+      "registrationRequired": false,
+      "category": "Religious",
+      "subcategory": "Jummah"
+    }
+  }
+},
+{
+  "id": "notif-002",
+  "type": "dua",
+  "priority": "normal",
+  "title": "Dua of the Day",
+  "body": "Learn this powerful protection dua",
+   "notify_date_time":"2025-11-26T18:30:00Z"
+  "data": {
+    "duaData": {
+      "duaId": "0",
+      "categoryId": "44"
+    }
+  }
+},
+{
+  "id": "link-ramadan-survey-2025",
+  "type": "link",
+  "priority": "normal",
+  "title": "📋 Ramadan Survey 2025",
+  "body": "Help us improve! Share your feedback about our Ramadan programs.",
+  "createdAt": "2025-11-26T10:00:00Z",
+  "expiresAt": "2025-12-31T23:59:59Z",
+  "iconUrl": "https://example.com/icons/survey.png",
+  "imageUrl": "https://example.com/banners/ramadan-survey.jpg",
+  "actionLabel": "Take Survey",
+  "tags": ["feedback", "ramadan", "community"],
+  "data": {
+    "linkData": {
+      "url": "https://forms.google.com/ramadan-survey-2025",
+      "openInBrowser": true,
+      "trackClick": true
+    }
+  }
+},
+  {
+  "id": "link-quran-recitation-video",
+  "type": "link",
+  "priority": "low",
+  "title": "🎥 Beautiful Quran Recitation",
+  "body": "Watch Sheikh Mishary's new recitation of Surah Ar-Rahman",
+  "createdAt": "2025-11-26T08:00:00Z",
+  "expiresAt": "2025-12-01T23:59:59Z",
+  "imageUrl": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+  "actionLabel": "Watch Video",
+  "tags": ["quran", "recitation", "video"],
+  "data": {
+    "linkData": {
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID",
+      "openInBrowser": true,
+      "trackClick": true
+    }
+  }
+},
+  {
+      "id": "dua-morning-001",
+      "type": "dua",
+      "priority": "normal",
+      "title": "Morning Dua",
+      "body": "Protection dua",
+      "createdAt": "2025-11-26T06:00:00Z",
+      "expiresAt": "2025-11-26T23:59:59Z",
+      "actionLabel": "Read Dua",
+      "data": {
+        "duaData": {
+          "duaId": "0",
+          "categoryId": "44"
+        }
+      }
+    }
+
+]
