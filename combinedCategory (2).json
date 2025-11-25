@@ -1,0 +1,689 @@
+[
+  {
+    "categoryId": "44",
+    "nameInEnglish": " category with id [ph]44",
+    "nameInMalayalam": " category with id [ph]44",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "0",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Protection from Evil Whispers",
+    "assumedNameMalayalam": "ദുർമന്ത്രങ്ങളിൽ നിന്നുള്ള സംരക്ഷണം",
+    "assumedTime": "00:15"
+  },
+  {
+    "categoryId": "45",
+    "nameInEnglish": " category with id [ph]45",
+    "nameInMalayalam": " category with id [ph]45",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "1",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Prayers for Difficult Times",
+    "assumedNameMalayalam": "ബുദ്ധിമുട്ടുള്ള സമയങ്ങളിലെ പ്രാർത്ഥനകൾ",
+    "assumedTime": "01:00"
+  },
+  {
+    "categoryId": "46",
+    "nameInEnglish": " category with id [ph]46",
+    "nameInMalayalam": " category with id [ph]46",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "2",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Repentance and Forgiveness",
+    "assumedNameMalayalam": "തൗബയും പാപമോചനവും",
+    "assumedTime": "02:00"
+  },
+  {
+    "categoryId": "47",
+    "nameInEnglish": " category with id [ph]47",
+    "nameInMalayalam": " category with id [ph]47",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "3",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Expelling Satan",
+    "assumedNameMalayalam": "സാത്താനെ പുറത്താക്കൽ",
+    "assumedTime": "00:15"
+  },
+  {
+    "categoryId": "48",
+    "nameInEnglish": " category with id [ph]48",
+    "nameInMalayalam": " category with id [ph]48",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "4",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "During Calamities",
+    "assumedNameMalayalam": "വിപത്തുകളിൽ",
+    "assumedTime": "00:30"
+  },
+  {
+    "categoryId": "49",
+    "nameInEnglish": " category with id [ph]49",
+    "nameInMalayalam": " category with id [ph]49",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "5",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Birth Congratulations",
+    "assumedNameMalayalam": "ജനന അഭിനന്ദനങ്ങൾ",
+    "assumedTime": "01:30"
+  },
+  {
+    "categoryId": "28",
+    "nameInEnglish": " category with id [ph]28",
+    "nameInMalayalam": " category with id [ph]28",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "6",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Seeking Guidance (Istikharah)",
+    "assumedNameMalayalam": "മാർഗദർശനം തേടൽ (ഇസ്തിഖാറ)",
+    "assumedTime": "05:00"
+  },
+  {
+    "categoryId": "50",
+    "nameInEnglish": " category with id [ph]50",
+    "nameInMalayalam": " category with id [ph]50",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "7",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Protection of Children",
+    "assumedNameMalayalam": "കുട്ടികളുടെ സംരക്ഷണം",
+    "assumedTime": "00:45"
+  },
+  {
+    "categoryId": "52",
+    "nameInEnglish": " category with id [ph]52",
+    "nameInMalayalam": " category with id [ph]52",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "8",
+        "count": 1
+      },
+      {
+        "duaId": "9",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Visiting the Sick",
+    "assumedNameMalayalam": "രോഗി സന്ദർശനം",
+    "assumedTime": "00:30"
+  },
+  {
+    "categoryId": "30",
+    "nameInEnglish": " category with id [ph]30",
+    "nameInMalayalam": " category with id [ph]30",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "10",
+        "count": 1
+      },
+      {
+        "duaId": "11",
+        "count": 1
+      },
+      {
+        "duaId": "12",
+        "count": 1
+      },
+      {
+        "duaId": "13",
+        "count": 1
+      },
+      {
+        "duaId": "14",
+        "count": 1
+      },
+      {
+        "duaId": "16",
+        "count": 1
+      },
+      {
+        "duaId": "17",
+        "count": 1
+      },
+      {
+        "duaId": "18",
+        "count": 1
+      },
+      {
+        "duaId": "19",
+        "count": 1
+      },
+      {
+        "duaId": "20",
+        "count": 1
+      },
+      {
+        "duaId": "21",
+        "count": 1
+      },
+      {
+        "duaId": "22",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Before Sleep Prayers",
+    "assumedNameMalayalam": "ഉറക്കത്തിന് മുമ്പുള്ള പ്രാർത്ഥനകൾ",
+    "assumedTime": "03:00"
+  },
+  {
+    "categoryId": "31",
+    "nameInEnglish": " category with id [ph]31",
+    "nameInMalayalam": " category with id [ph]31",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "23",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Morning Prayers",
+    "assumedNameMalayalam": "പ്രഭാത പ്രാർത്ഥനകൾ",
+    "assumedTime": "02:00"
+  },
+  {
+    "categoryId": "32",
+    "nameInEnglish": " category with id [ph]32",
+    "nameInMalayalam": " category with id [ph]32",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "24",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Evening Prayers",
+    "assumedNameMalayalam": "സായാഹ്ന പ്രാർത്ഥനകൾ",
+    "assumedTime": "02:00"
+  },
+  {
+    "categoryId": "10",
+    "nameInEnglish": " category with id [ph]10",
+    "nameInMalayalam": " category with id [ph]10",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "25",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "After Prayer Supplications",
+    "assumedNameMalayalam": "നമസ്കാരത്തിന് ശേഷമുള്ള പ്രാർത്ഥനകൾ",
+    "assumedTime": "01:30"
+  },
+  {
+    "categoryId": "11",
+    "nameInEnglish": " category with id [ph]11",
+    "nameInMalayalam": " category with id [ph]11",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "26",
+        "count": 1
+      },
+      {
+        "duaId": "27",
+        "count": 1
+      },
+      {
+        "duaId": "28",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Entering Mosque",
+    "assumedNameMalayalam": "പള്ളിയിൽ പ്രവേശിക്കുമ്പോൾ",
+    "assumedTime": "00:30"
+  },
+  {
+    "categoryId": "34",
+    "nameInEnglish": " category with id [ph]34",
+    "nameInMalayalam": " category with id [ph]34",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "29",
+        "count": 1
+      },
+      {
+        "duaId": "30",
+        "count": 1
+      },
+      {
+        "duaId": "31",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Travel Prayers",
+    "assumedNameMalayalam": "യാത്രാ പ്രാർത്ഥനകൾ",
+    "assumedTime": "01:00"
+  },
+  {
+    "categoryId": "12",
+    "nameInEnglish": " category with id [ph]12",
+    "nameInMalayalam": " category with id [ph]12",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "32",
+        "count": 1
+      },
+      {
+        "duaId": "33",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Entering Home",
+    "assumedNameMalayalam": "വീട്ടിൽ പ്രവേശിക്കുമ്പോൾ",
+    "assumedTime": "00:30"
+  },
+  {
+    "categoryId": "35",
+    "nameInEnglish": " category with id [ph]35",
+    "nameInMalayalam": " category with id [ph]35",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "34",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Weather Prayers",
+    "assumedNameMalayalam": "കാലാവസ്ഥാ പ്രാർത്ഥനകൾ",
+    "assumedTime": "00:45"
+  },
+  {
+    "categoryId": "13",
+    "nameInEnglish": " category with id [ph]13",
+    "nameInMalayalam": " category with id [ph]13",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "35",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Before Meals",
+    "assumedNameMalayalam": "ഭക്ഷണത്തിന് മുമ്പ്",
+    "assumedTime": "00:15"
+  },
+  {
+    "categoryId": "36",
+    "nameInEnglish": " category with id [ph]36",
+    "nameInMalayalam": " category with id [ph]36",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "36",
+        "count": 1
+      },
+      {
+        "duaId": "37",
+        "count": 1
+      },
+      {
+        "duaId": "69",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "After Meals",
+    "assumedNameMalayalam": "ഭക്ഷണത്തിന് ശേഷം",
+    "assumedTime": "00:30"
+  },
+  {
+    "categoryId": "14",
+    "nameInEnglish": " category with id [ph]14",
+    "nameInMalayalam": " category with id [ph]14",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "38",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Wearing Clothes",
+    "assumedNameMalayalam": "വസ്ത്രം ധരിക്കുമ്പോൾ",
+    "assumedTime": "00:15"
+  },
+  {
+    "categoryId": "37",
+    "nameInEnglish": " category with id [ph]37",
+    "nameInMalayalam": " category with id [ph]37",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "39",
+        "count": 1
+      },
+      {
+        "duaId": "40",
+        "count": 1
+      },
+      {
+        "duaId": "41",
+        "count": 1
+      },
+      {
+        "duaId": "42",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Bathroom Etiquette",
+    "assumedNameMalayalam": "കക്കൂസ് മര്യാദകൾ",
+    "assumedTime": "00:30"
+  },
+  {
+    "categoryId": "15",
+    "nameInEnglish": " category with id [ph]15",
+    "nameInMalayalam": " category with id [ph]15",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "43",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Before Wudu",
+    "assumedNameMalayalam": "വുദുവിന് മുമ്പ്",
+    "assumedTime": "00:15"
+  },
+  {
+    "categoryId": "38",
+    "nameInEnglish": " category with id [ph]38",
+    "nameInMalayalam": " category with id [ph]38",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "44",
+        "count": 1
+      },
+      {
+        "duaId": "45",
+        "count": 1
+      },
+      {
+        "duaId": "46",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "After Wudu",
+    "assumedNameMalayalam": "വുദുവിന് ശേഷം",
+    "assumedTime": "00:30"
+  },
+  {
+    "categoryId": "16",
+    "nameInEnglish": " category with id [ph]16",
+    "nameInMalayalam": " category with id [ph]16",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "47",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Going to Mosque",
+    "assumedNameMalayalam": "പള്ളിയിലേക്ക് പോകുമ്പോൾ",
+    "assumedTime": "00:30"
+  },
+  {
+    "categoryId": "39",
+    "nameInEnglish": " category with id [ph]39",
+    "nameInMalayalam": " category with id [ph]39",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "48",
+        "count": 1
+      },
+      {
+        "duaId": "49",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Leaving Mosque",
+    "assumedNameMalayalam": "പള്ളിയിൽ നിന്ന് പുറത്തുപോകുമ്പോൾ",
+    "assumedTime": "00:30"
+  },
+  {
+    "categoryId": "17",
+    "nameInEnglish": " category with id [ph]17",
+    "nameInMalayalam": " category with id [ph]17",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "50",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Call to Prayer Response",
+    "assumedNameMalayalam": "അസാൻ കേൾക്കുമ്പോൾ",
+    "assumedTime": "01:00"
+  },
+  {
+    "categoryId": "18",
+    "nameInEnglish": " category with id [ph]18",
+    "nameInMalayalam": " category with id [ph]18",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "51",
+        "count": 1
+      },
+      {
+        "duaId": "52",
+        "count": 1
+      },
+      {
+        "duaId": "53",
+        "count": 1
+      },
+      {
+        "duaId": "54",
+        "count": 1
+      },
+      {
+        "duaId": "55",
+        "count": 1
+      },
+      {
+        "duaId": "56",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Before Prayer",
+    "assumedNameMalayalam": "നമസ്കാരത്തിന് മുമ്പ്",
+    "assumedTime": "01:00"
+  },
+  {
+    "categoryId": "1",
+    "nameInEnglish": " category with id [ph]1",
+    "nameInMalayalam": " category with id [ph]1",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "15",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Quranic Verses",
+    "assumedNameMalayalam": "ഖുർആൻ വാക്യങ്ങൾ",
+    "assumedTime": "02:00"
+  },
+  {
+    "categoryId": "4",
+    "nameInEnglish": " category with id [ph]4",
+    "nameInMalayalam": " category with id [ph]4",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "57",
+        "count": 1
+      },
+      {
+        "duaId": "58",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Friday Prayers",
+    "assumedNameMalayalam": "വെള്ളിയാഴ്ച പ്രാർത്ഥനകൾ",
+    "assumedTime": "01:30"
+  },
+  {
+    "categoryId": "6",
+    "nameInEnglish": " category with id [ph]6",
+    "nameInMalayalam": " category with id [ph]6",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "59",
+        "count": 1
+      },
+      {
+        "duaId": "60",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Night Prayers",
+    "assumedNameMalayalam": "രാത്രി പ്രാർത്ഥനകൾ",
+    "assumedTime": "02:30"
+  },
+  {
+    "categoryId": "7",
+    "nameInEnglish": " category with id [ph]7",
+    "nameInMalayalam": " category with id [ph]7",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "61",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Tahajjud Prayers",
+    "assumedNameMalayalam": "തഹജ്ജുദ് പ്രാർത്ഥനകൾ",
+    "assumedTime": "03:00"
+  },
+  {
+    "categoryId": "8",
+    "nameInEnglish": " category with id [ph]8",
+    "nameInMalayalam": " category with id [ph]8",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "62",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Witr Prayers",
+    "assumedNameMalayalam": "വിത്ർ പ്രാർത്ഥനകൾ",
+    "assumedTime": "01:30"
+  },
+  {
+    "categoryId": "9",
+    "nameInEnglish": " category with id [ph]9",
+    "nameInMalayalam": " category with id [ph]9",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "63",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "After Fajr",
+    "assumedNameMalayalam": "ഫജറിന് ശേഷം",
+    "assumedTime": "01:00"
+  },
+  {
+    "categoryId": "40",
+    "nameInEnglish": " category with id [ph]40",
+    "nameInMalayalam": " category with id [ph]40",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "64",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "Seeking Knowledge",
+    "assumedNameMalayalam": "വിദ്യാഭ്യാസം തേടൽ",
+    "assumedTime": "01:00"
+  },
+  {
+    "categoryId": "41",
+    "nameInEnglish": " category with id [ph]41",
+    "nameInMalayalam": " category with id [ph]41",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "65",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "For Parents",
+    "assumedNameMalayalam": "മാതാപിതാക്കൾക്കായി",
+    "assumedTime": "01:30"
+  },
+  {
+    "categoryId": "42",
+    "nameInEnglish": " category with id [ph]42",
+    "nameInMalayalam": " category with id [ph]42",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "66",
+        "count": 1
+      },
+      {
+        "duaId": "67",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "For Spouse",
+    "assumedNameMalayalam": "ജീവിതപങ്കാളിക്കായി",
+    "assumedTime": "01:00"
+  },
+  {
+    "categoryId": "43",
+    "nameInEnglish": " category with id [ph]43",
+    "nameInMalayalam": " category with id [ph]43",
+    "duaTime": "00:30",
+    "duaIds": [
+      {
+        "duaId": "68",
+        "count": 1
+      }
+    ],
+    "assumedNameEnglish": "For Children",
+    "assumedNameMalayalam": "കുട്ടികൾക്കായി",
+    "assumedTime": "01:30"
+  }
+]
