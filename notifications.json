@@ -1,4 +1,4 @@
-[ {
+[{
   "id": "event-jummah-khutbah-001",
   "type": "event",
   "priority": "high",
@@ -37,7 +37,8 @@
   "priority": "normal",
   "title": "Dua of the Day",
   "body": "Learn this powerful protection dua",
-   "notify_date_time":"2025-11-26T18:30:00Z"
+    "createdAt": "2025-11-25T09:00:00Z",
+  "expiresAt": "2025-11-29T15:00:00Z",
   "data": {
     "duaData": {
       "duaId": "0",
@@ -100,5 +101,4 @@
         }
       }
     }
-
 ]
