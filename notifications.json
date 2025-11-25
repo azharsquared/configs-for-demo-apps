@@ -1,4 +1,5 @@
-[{
+{
+"notifications":[{
   "id": "event-jummah-khutbah-001",
   "type": "event",
   "priority": "high",
@@ -101,4 +102,4 @@
         }
       }
     }
-]
+]}
