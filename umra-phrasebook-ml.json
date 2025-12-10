@@ -1,0 +1,160 @@
+{
+  "categories": [
+    {
+      "id": "essentials",
+      "title": "അത്യാവശ്യമായവ",
+      "phrases": [
+        {
+          "id": 1,
+          "arabic": "السلام عليكم",
+          "transliteration": "അസ്സലാമു അലൈക്കും",
+          "english": "സമാധാനം ഉണ്ടാവട്ടെ (ഹലോ)"
+        },
+        {
+          "id": 2,
+          "arabic": "شكراً",
+          "transliteration": "ഷുക്റൻ",
+          "english": "നന്ദി"
+        },
+        {
+          "id": 3,
+          "arabic": "نعم / لا",
+          "transliteration": "നഅം / ലാ",
+          "english": "അതെ / അല്ല"
+        },
+        {
+          "id": 4,
+          "arabic": "من فضلك",
+          "transliteration": "മിൻ ഫദ്‌ലിക്",
+          "english": "ദയവായി"
+        },
+        {
+          "id": 5,
+          "arabic": "أنا لا أتكلم العربية",
+          "transliteration": "അന ലാ അതകല്ലം അൽ-അറബിയ്യ",
+          "english": "എനിക്ക് അറബി സംസാരിക്കാൻ അറിയില്ല"
+        },
+        {
+          "id": 6,
+          "arabic": "هل تتكلم الإنجليزية؟",
+          "transliteration": "ഹൽ തതകല്ലം അൽ-ഇഞ്ചിലീസിയ്യ?",
+          "english": "നിങ്ങൾക്ക് ഇംഗ്ലീഷ് സംസാരിക്കാൻ അറിയാമോ?"
+        }
+      ]
+    },
+    {
+      "id": "directions",
+      "title": "വഴികൾ / ദിശകൾ",
+      "phrases": [
+        {
+          "id": 7,
+          "arabic": "أين الحرم؟",
+          "transliteration": "ഐന അൽ-ഹറം?",
+          "english": "ഹറം എവിടെയാണ്?"
+        },
+        {
+          "id": 8,
+          "arabic": "أين الحمام؟",
+          "transliteration": "ഐന അൽ-ഹമ്മാം?",
+          "english": "ബാത്ത്റൂം എവിടെയാണ്?"
+        },
+        {
+          "id": 9,
+          "arabic": "أين الفندق؟",
+          "transliteration": "ഐന അൽ-ഫുന്ദുഖ്?",
+          "english": "ഹോട്ടൽ എവിടെയാണ്?"
+        },
+        {
+          "id": 10,
+          "arabic": "يمين / يسار",
+          "transliteration": "യമീൻ / യസാർ",
+          "english": "വലത് / ഇടത്"
+        },
+        {
+          "id": 11,
+          "arabic": "مستقيم",
+          "transliteration": "മുസ്തഖീം",
+          "english": "നേരെ"
+        },
+        {
+          "id": 12,
+          "arabic": "بوابة",
+          "transliteration": "ബവ്വാബ",
+          "english": "കവാടം (ഗേറ്റ്)"
+        }
+      ]
+    },
+    {
+      "id": "shopping",
+      "title": "ഷോപ്പിംഗ് & യാത്ര",
+      "phrases": [
+        {
+          "id": 13,
+          "arabic": "بكم هذا؟",
+          "transliteration": "ബികം ഹാദാ?",
+          "english": "ഇതിന് എത്രയാണ് വില?"
+        },
+        {
+          "id": 14,
+          "arabic": "غالي جداً",
+          "transliteration": "ഗാലി ജിദ്ദൻ",
+          "english": "വളരെ കൂടിയ വിലയാണ്"
+        },
+        {
+          "id": 15,
+          "arabic": "تاكسي",
+          "transliteration": "ടാക്സി",
+          "english": "ടാക്സി"
+        },
+        {
+          "id": 16,
+          "arabic": "أريد الذهاب إلى...",
+          "transliteration": "ഉരീദ് അൽ-ദഹാബ് ഇലാ...",
+          "english": "എനിക്ക് ... പോകണം"
+        },
+        {
+          "id": 17,
+          "arabic": "وقف هنا",
+          "transliteration": "വഗ്ഗിഫ് ഹുനാ",
+          "english": "ഇവിടെ നിർത്തൂ"
+        }
+      ]
+    },
+    {
+      "id": "emergency_phrases",
+      "title": "അടിയന്തിര ഘട്ടങ്ങൾ",
+      "phrases": [
+        {
+          "id": 18,
+          "arabic": "ساعدني",
+          "transliteration": "സാഇദ്‌നി",
+          "english": "എന്നെ സഹായിക്കൂ"
+        },
+        {
+          "id": 19,
+          "arabic": "أنا تائه",
+          "transliteration": "അന താഇഹ്",
+          "english": "എനിക്ക് വഴി തെറ്റി"
+        },
+        {
+          "id": 20,
+          "arabic": "أحتاج طبيب",
+          "transliteration": "അഹ്‌താജ് തബീബ്",
+          "english": "എനിക്ക് ഒരു ഡോക്ടറെ കാണണം"
+        },
+        {
+          "id": 21,
+          "arabic": "الشرطة",
+          "transliteration": "അൽ-ഷുർത്ത",
+          "english": "പോലീസ്"
+        },
+        {
+          "id": 22,
+          "arabic": "مستشفى",
+          "transliteration": "മുസ്തശ്ഫ",
+          "english": "ആശുപത്രി"
+        }
+      ]
+    }
+  ]
+}
