@@ -1,0 +1,232 @@
+{
+      "title": "Umrah Guide",
+      "type": "umrah",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Ihram",
+          "subtitle": "Enter the state of consecration",
+          "description": "The first step of Umrah is to enter the state of Ihram before crossing the Miqat.",
+          "duration": "1-2 hours",
+          "icon": "person",
+          "details": {
+            "preparation": [
+              "Perform Ghusl (ritual bath)",
+              "Trim nails and remove unwanted hair",
+              "Apply non-scented products before Ihram",
+              "Men: Wear 2 white unstitched cloths",
+              "Women: Wear modest dress (no specific color required)"
+            ],
+            "procedure": [
+              "Make intention (Niyyah) for Umrah",
+              "Recite Talbiyah: \"Labbayk Allahumma Labbayk...\"",
+              "Continue reciting Talbiyah frequently",
+              "Observe all Ihram restrictions until completing Umrah"
+            ],
+            "duas": [
+              {
+                "arabic": "لَبَّيْكَ اللَّهُمَّ عُمْرَةً",
+                "transliteration": "Labbayk Allahumma Umrah",
+                "translation": "Here I am, O Allah, for Umrah."
+              },
+              {
+                "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ",
+                "transliteration": "Labbayk Allahumma Labbayk, Labbayka Laa Shareeka Laka Labbayk",
+                "translation": "Here I am, O Allah, here I am. Here I am, You have no partner, here I am."
+              }
+            ],
+            "restrictions": [
+              "No cutting hair or nails",
+              "No perfume or scented products",
+              "No marital relations",
+              "No hunting or killing game",
+              "Men: No covered headwear, no stitched garments",
+              "Women: No face veil (niqab) or gloves, though can cover face when men are nearby"
+            ],
+            "tips": [
+              "Enter Ihram at or before Miqat based on your location",
+              "For those in Makkah: Ihram from Masjid Aisha (Tan'im)",
+              "Wear comfortable footwear (sandals)",
+              "Keep money belt for important documents",
+              "Stay in state of Wudu"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "title": "Tawaf",
+          "subtitle": "Circumambulate the Kaaba",
+          "description": "Circle the Kaaba seven times counterclockwise as an act of worship.",
+          "duration": "1-2 hours",
+          "icon": "sync",
+          "details": {
+            "preparation": [
+              "Enter Masjid al-Haram with right foot",
+              "Recite entry dua",
+              "First sight of Kaaba - make heartfelt dua",
+              "Perform Wudu if needed",
+              "Men: Uncover right shoulder (Idtiba) for Tawaf"
+            ],
+            "procedure": [
+              "Face the Black Stone (Hajar al-Aswad)",
+              "Make intention for Tawaf",
+              "Start with Takbir: \"Bismillahi Allahu Akbar\"",
+              "Kiss/touch Black Stone if possible, otherwise point to it",
+              "Begin walking counterclockwise, keeping Kaaba on your left",
+              "Men: Walk briskly (Raml) during first 3 circuits",
+              "Touch Yemeni corner if possible without causing harm",
+              "Between Yemeni corner and Black Stone, recite: \"Rabbana atina...\"",
+              "Complete all 7 circuits",
+              "Cover right shoulder after Tawaf",
+              "Pray 2 Rakah Salah near Maqam Ibrahim"
+            ],
+            "duas": [
+              {
+                "arabic": "بِسْمِ اللَّهِ اللَّهُ أَكْبَرُ",
+                "transliteration": "Bismillahi Allahu Akbar",
+                "translation": "In the name of Allah, Allah is the Greatest."
+              },
+              {
+                "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+                "transliteration": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan waqina adhaban-nar",
+                "translation": "Our Lord, give us good in this world and good in the Hereafter, and save us from the punishment of the Fire."
+              }
+            ],
+            "tips": [
+              "Don't harm others to kiss Black Stone",
+              "Pointing from distance is sufficient",
+              "Keep making dua and dhikr",
+              "If you lose count, assume the lower number",
+              "Stay focused despite crowds",
+              "Wheelchairs available for those who need"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "title": "Sa'i",
+          "subtitle": "Walk between Safa and Marwah",
+          "description": "Walk seven times between the hills of Safa and Marwah, commemorating Hajar's search for water.",
+          "duration": "1-2 hours",
+          "icon": "directions-walk",
+          "details": {
+            "preparation": [
+              "After Tawaf and 2 Rakah prayer",
+              "Exit from Safa gate",
+              "Drink Zamzam water",
+              "Proceed to Safa hill"
+            ],
+            "procedure": [
+              "Climb Safa hill (or stand at base if crowded)",
+              "Face the Kaaba",
+              "Recite: \"Indeed, Safa and Marwah are among the symbols of Allah\"",
+              "Raise hands and make dua (3 times)",
+              "Descend and walk toward Marwah",
+              "Men: Jog between the green markers",
+              "Women: Walk at normal pace throughout",
+              "Reach Marwah, face Kaaba, raise hands and make dua",
+              "This completes one lap (Safa to Marwah = 1)",
+              "Return from Marwah to Safa (= 2)",
+              "Continue until 7 laps complete",
+              "End at Marwah hill"
+            ],
+            "duas": [
+              {
+                "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَآئِرِ اللَّهِ",
+                "transliteration": "Inna Safa wal-Marwata min sha'a'irillah",
+                "translation": "Indeed, Safa and Marwah are among the symbols of Allah."
+              },
+              {
+                "arabic": "اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+                "transliteration": "Allahu Akbar Allahu Akbar Allahu Akbar, La ilaha illallahu wahdahu la sharika lah",
+                "translation": "Allah is the Greatest (3x), there is no deity but Allah alone with no partner."
+              }
+            ],
+            "tips": [
+              "Wudu not required but recommended",
+              "Pace yourself - it's about 450m each way",
+              "Drink Zamzam water during Sa'i",
+              "Wheelchairs available",
+              "Can rest between laps if needed",
+              "Make abundant dua"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "title": "Halq or Taqsir",
+          "subtitle": "Cut or shave hair",
+          "description": "The final step of Umrah - shaving or trimming the hair.",
+          "duration": "30 minutes",
+          "icon": "content-cut",
+          "details": {
+            "preparation": [
+              "Complete Sa'i at Marwah",
+              "Many barbers available nearby",
+              "No specific dua required"
+            ],
+            "procedure": [
+              "Men have two options:",
+              "  1. Halq (complete shaving) - more rewarding",
+              "  2. Taqsir (trimming) - at least 1-2 cm from all over head",
+              "Women: Trim fingertip length (about 1-2 cm) from end of hair",
+              "Women should not shave",
+              "This releases you from Ihram",
+              "All restrictions are now lifted"
+            ],
+            "duas": [
+              {
+                "arabic": "اللَّهُمَّ اغْفِرْ لِلْمُحَلِّقِينَ وَالْمُقَصِّرِينَ",
+                "transliteration": "Allahumma ghfir lil-muhalliqeen wal-muqassireen",
+                "translation": "O Allah, forgive those who shave and those who trim."
+              }
+            ],
+            "tips": [
+              "Shaving (Halq) is better than trimming",
+              "Barbers work very quickly during busy times",
+              "Women can trim in hotel room",
+              "After this, you can wear normal clothes and use perfume",
+              "Umrah is now complete - may Allah accept it"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "title": "After Umrah",
+          "subtitle": "Recommended acts",
+          "description": "Maximize your time in the blessed city.",
+          "duration": "Remaining stay",
+          "icon": "mosque",
+          "details": {
+            "preparation": [
+              "Umrah is complete",
+              "Continue good deeds",
+              "Maximize reward"
+            ],
+            "procedure": [
+              "Perform voluntary Tawaf (no Ihram needed)",
+              "Pray in Masjid al-Haram (100,000 times reward)",
+              "Drink Zamzam with dua",
+              "Visit historical sites in Makkah",
+              "Give charity",
+              "Read Quran",
+              "Perform Tawaf al-Wida before leaving Makkah"
+            ],
+            "duas": [
+              {
+                "arabic": "اللَّهُمَّ تَقَبَّلْ مِنِّي",
+                "transliteration": "Allahumma taqabbal minni",
+                "translation": "O Allah, accept from me."
+              }
+            ],
+            "tips": [
+              "Every prayer in Haram = 100,000 prayers",
+              "Make dua for yourself and all Muslims",
+              "Seek forgiveness abundantly",
+              "Maintain good character",
+              "Help fellow pilgrims"
+            ]
+          }
+        }
+      ]
+    }
