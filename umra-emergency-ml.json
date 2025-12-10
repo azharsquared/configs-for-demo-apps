@@ -1,0 +1,64 @@
+{
+  "sections": [
+    {
+      "title": "അടിയന്തര സേവനങ്ങൾ",
+      "contacts": [
+        {
+          "title": "ജനറൽ എമർജൻസി",
+          "number": "112",
+          "icon": "warning"
+        },
+        {
+          "title": "പോലീസ്",
+          "number": "999",
+          "icon": "local-police"
+        },
+        {
+          "title": "ആംബുലൻസ്",
+          "number": "997",
+          "icon": "medical-services"
+        },
+        {
+          "title": "ട്രാഫിക് പോലീസ്",
+          "number": "993",
+          "icon": "traffic"
+        },
+        {
+          "title": "സിവിൽ ഡിഫൻസ് (ഫയർ ഫോഴ്സ്)",
+          "number": "998",
+          "icon": "fire-truck"
+        }
+      ]
+    },
+    {
+      "title": "ഹജ്ജ് & ഉംറ സേവനങ്ങൾ",
+      "contacts": [
+        {
+          "title": "ഹജ്ജ് & ഉംറ മന്ത്രാലയം",
+          "number": "1966",
+          "icon": "mosque"
+        },
+        {
+          "title": "നഷ്ടപ്പെട്ട വസ്തുക്കൾ (Lost & Found)",
+          "number": "012-570-0000",
+          "icon": "search"
+        },
+        {
+          "title": "നജ്മ് (വാഹനാപകടങ്ങൾ)",
+          "number": "920000560",
+          "icon": "car-crash"
+        }
+      ]
+    },
+    {
+      "title": "എംബസികൾ",
+      "contacts": [
+        {
+          "title": "എംബസി ഡയറക്ടറി",
+          "description": "പാസ്‌പോർട്ട് സേവനങ്ങൾക്കായി നിങ്ങളുടെ രാജ്യത്തെ എംബസിയുമായി ബന്ധപ്പെടുക.",
+          "icon": "flag"
+        }
+      ]
+    }
+  ]
+}
