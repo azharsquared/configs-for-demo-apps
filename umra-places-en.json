@@ -1,0 +1,136 @@
+{
+        "makkah": [
+          {
+            "id": 1,
+            "title": "Masjid al-Haram",
+            "arabic": "المسجد الحرام",
+            "description": "The Great Mosque of Mecca, surrounding the Holy Kaaba. It is the holiest site in Islam.",
+            "location": "Makkah City Center",
+            "coordinates": {
+              "lat": 21.4225,
+              "lng": 39.8262
+            },
+            "significance": "Contains the Kaaba, Maqam Ibrahim, and Zamzam Well.",
+            "image": "mosque"
+          },
+          {
+            "id": 2,
+            "title": "Jabal al-Nour (Cave of Hira)",
+            "arabic": "جبل النور",
+            "description": "The mountain housing the Cave of Hira, where Prophet Muhammad (PBUH) received the first revelation.",
+            "location": "4km Northeast of Makkah",
+            "coordinates": {
+              "lat": 21.4578,
+              "lng": 39.8596
+            },
+            "significance": "Site of the first revelation of the Quran.",
+            "image": "terrain"
+          },
+          {
+            "id": 3,
+            "title": "Jabal Thawr",
+            "arabic": "جبل ثور",
+            "description": "The mountain containing the cave where Prophet Muhammad (PBUH) and Abu Bakr (RA) hid from the Quraish.",
+            "location": "South regarding Makkah",
+            "coordinates": {
+              "lat": 21.3789,
+              "lng": 39.8497
+            },
+            "significance": "Historic site of migration (Hijrah).",
+            "image": "terrain"
+          },
+          {
+            "id": 4,
+            "title": "Mina",
+            "arabic": "منى",
+            "description": "The city of tents where pilgrims stay during Hajj.",
+            "location": "8km East of Makkah",
+            "coordinates": {
+              "lat": 21.4133,
+              "lng": 39.8953
+            },
+            "significance": "Site of stoning the Jamarat.",
+            "image": "home"
+          },
+          {
+            "id": 5,
+            "title": "Arafat",
+            "arabic": "عرفات",
+            "description": "The plain where pilgrims stand on the 9th of Dhul Hijjah.",
+            "location": "20km Southeast of Makkah",
+            "coordinates": {
+              "lat": 21.3549,
+              "lng": 39.9841
+            },
+            "significance": "The most critical pillar of Hajj.",
+            "image": "landscape"
+          },
+          {
+            "id": 6,
+            "title": "Masjid Aisha (Al-Tan'im)",
+            "arabic": "مسجد عائشة",
+            "description": "The nearest Miqat for people inside Makkah to enter Ihram for Umrah.",
+            "location": "7.5km from Haram",
+            "coordinates": {
+              "lat": 21.4697,
+              "lng": 39.8078
+            },
+            "significance": "Place to enter Ihram.",
+            "image": "mosque"
+          }
+        ],
+        "madinah": [
+          {
+            "id": 7,
+            "title": "Al-Masjid an-Nabawi",
+            "arabic": "المسجد النبوي",
+            "description": "The Prophet's Mosque, the second holiest site in Islam.",
+            "location": "Madinah City Center",
+            "coordinates": {
+              "lat": 24.4672,
+              "lng": 39.6109
+            },
+            "significance": "Contains the Prophet's (PBUH) grave and Rawdah.",
+            "image": "mosque"
+          },
+          {
+            "id": 8,
+            "title": "Masjid Quba",
+            "arabic": "مسجد قباء",
+            "description": "The first mosque built in Islam by Prophet Muhammad (PBUH).",
+            "location": "Outskirts of Madinah",
+            "coordinates": {
+              "lat": 24.4449,
+              "lng": 39.6149
+            },
+            "significance": "Prayer here equals the reward of an Umrah.",
+            "image": "mosque"
+          },
+          {
+            "id": 9,
+            "title": "Mount Uhud",
+            "arabic": "جبل أحد",
+            "description": "Site of the Battle of Uhud and the martyrs' cemetery.",
+            "location": "North of Madinah",
+            "coordinates": {
+              "lat": 24.5037,
+              "lng": 39.612
+            },
+            "significance": "Historical battle site and graveyard of Hamza (RA).",
+            "image": "terrain"
+          },
+          {
+            "id": 10,
+            "title": "Masjid al-Qiblatayn",
+            "arabic": "مسجد القبلتين",
+            "description": "The mosque where the direction of prayer (Qibla) was changed from Jerusalem to Makkah.",
+            "location": "Northwest Madinah",
+            "coordinates": {
+              "lat": 24.4842,
+              "lng": 39.5786
+            },
+            "significance": "Site of Qibla change.",
+            "image": "mosque"
+          }
+        ]
+      }
