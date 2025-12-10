@@ -1,0 +1,246 @@
+{
+      "categories": [
+        {
+          "id": "essential",
+          "title": "Essential Documents",
+          "items": [
+            {
+              "id": 1,
+              "text": "Passport (valid for 6+ months)"
+            },
+            {
+              "id": 2,
+              "text": "Hajj/Umrah visa"
+            },
+            {
+              "id": 3,
+              "text": "Flight tickets"
+            },
+            {
+              "id": 4,
+              "text": "Hotel booking confirmation"
+            },
+            {
+              "id": 5,
+              "text": "Travel insurance"
+            },
+            {
+              "id": 6,
+              "text": "Vaccination certificates"
+            },
+            {
+              "id": 7,
+              "text": "Emergency contact information"
+            },
+            {
+              "id": 8,
+              "text": "Copies of all documents"
+            }
+          ]
+        },
+        {
+          "id": "ihram",
+          "title": "Ihram Clothing",
+          "items": [
+            {
+              "id": 9,
+              "text": "Ihram (2 white unstitched cloths for men)"
+            },
+            {
+              "id": 10,
+              "text": "Safety pins"
+            },
+            {
+              "id": 11,
+              "text": "Ihram belt/money belt"
+            },
+            {
+              "id": 12,
+              "text": "Modest clothing for women"
+            },
+            {
+              "id": 13,
+              "text": "Extra white socks (recommended)"
+            }
+          ]
+        },
+        {
+          "id": "clothing",
+          "title": "Regular Clothing",
+          "items": [
+            {
+              "id": 14,
+              "text": "Comfortable sandals/flip-flops"
+            },
+            {
+              "id": 15,
+              "text": "Walking shoes"
+            },
+            {
+              "id": 16,
+              "text": "Modest daily wear (3-4 sets)"
+            },
+            {
+              "id": 17,
+              "text": "Undergarments"
+            },
+            {
+              "id": 18,
+              "text": "Prayer clothes"
+            },
+            {
+              "id": 19,
+              "text": "Light jacket or shawl"
+            },
+            {
+              "id": 20,
+              "text": "Sleepwear"
+            }
+          ]
+        },
+        {
+          "id": "toiletries",
+          "title": "Toiletries",
+          "items": [
+            {
+              "id": 21,
+              "text": "Unscented soap/body wash"
+            },
+            {
+              "id": 22,
+              "text": "Unscented shampoo"
+            },
+            {
+              "id": 23,
+              "text": "Toothbrush and toothpaste"
+            },
+            {
+              "id": 24,
+              "text": "Deodorant (unscented for Ihram)"
+            },
+            {
+              "id": 25,
+              "text": "Towels"
+            },
+            {
+              "id": 26,
+              "text": "Tissues/wet wipes"
+            },
+            {
+              "id": 27,
+              "text": "Hand sanitizer"
+            },
+            {
+              "id": 28,
+              "text": "Nail clippers (use before Ihram)"
+            }
+          ]
+        },
+        {
+          "id": "health",
+          "title": "Health & Medicine",
+          "items": [
+            {
+              "id": 29,
+              "text": "Personal medications"
+            },
+            {
+              "id": 30,
+              "text": "Pain relievers"
+            },
+            {
+              "id": 31,
+              "text": "Digestive medicine"
+            },
+            {
+              "id": 32,
+              "text": "Band-aids/first aid"
+            },
+            {
+              "id": 33,
+              "text": "Sunscreen (SPF 50+)"
+            },
+            {
+              "id": 34,
+              "text": "Lip balm"
+            },
+            {
+              "id": 35,
+              "text": "Eye drops"
+            },
+            {
+              "id": 36,
+              "text": "Face masks"
+            }
+          ]
+        },
+        {
+          "id": "accessories",
+          "title": "Essential Accessories",
+          "items": [
+            {
+              "id": 37,
+              "text": "Phone and charger"
+            },
+            {
+              "id": 38,
+              "text": "Power bank"
+            },
+            {
+              "id": 39,
+              "text": "Universal adapter"
+            },
+            {
+              "id": 40,
+              "text": "Small backpack/bag"
+            },
+            {
+              "id": 41,
+              "text": "Umbrella (sun/rain)"
+            },
+            {
+              "id": 42,
+              "text": "Reusable water bottle"
+            },
+            {
+              "id": 43,
+              "text": "Small Quran"
+            },
+            {
+              "id": 44,
+              "text": "Dua book"
+            },
+            {
+              "id": 45,
+              "text": "Prayer mat (portable)"
+            },
+            {
+              "id": 46,
+              "text": "Tasbeeh (prayer beads)"
+            }
+          ]
+        },
+        {
+          "id": "money",
+          "title": "Money & Valuables",
+          "items": [
+            {
+              "id": 47,
+              "text": "Saudi Riyals (cash)"
+            },
+            {
+              "id": 48,
+              "text": "Credit/debit cards"
+            },
+            {
+              "id": 49,
+              "text": "Money belt"
+            },
+            {
+              "id": 50,
+              "text": "Small lock for luggage"
+            }
+          ]
+        }
+      ]
+    }
