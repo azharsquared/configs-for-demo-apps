@@ -1,0 +1,160 @@
+{
+      "categories": [
+        {
+          "id": "essentials",
+          "title": "Essentials",
+          "phrases": [
+            {
+              "id": 1,
+              "arabic": "السلام عليكم",
+              "transliteration": "As-salamu alaykum",
+              "english": "Peace be upon you (Hello)"
+            },
+            {
+              "id": 2,
+              "arabic": "شكراً",
+              "transliteration": "Shukran",
+              "english": "Thank you"
+            },
+            {
+              "id": 3,
+              "arabic": "نعم / لا",
+              "transliteration": "Na'am / La",
+              "english": "Yes / No"
+            },
+            {
+              "id": 4,
+              "arabic": "من فضلك",
+              "transliteration": "Min fadlik",
+              "english": "Please"
+            },
+            {
+              "id": 5,
+              "arabic": "أنا لا أتكلم العربية",
+              "transliteration": "Ana la atakallam al-arabiyyah",
+              "english": "I don't speak Arabic"
+            },
+            {
+              "id": 6,
+              "arabic": "هل تتكلم الإنجليزية؟",
+              "transliteration": "Hal tatakallam al-injiliziyyah?",
+              "english": "Do you speak English?"
+            }
+          ]
+        },
+        {
+          "id": "directions",
+          "title": "Directions",
+          "phrases": [
+            {
+              "id": 7,
+              "arabic": "أين الحرم؟",
+              "transliteration": "Ayna al-Haram?",
+              "english": "Where is the Haram?"
+            },
+            {
+              "id": 8,
+              "arabic": "أين الحمام؟",
+              "transliteration": "Ayna al-hammam?",
+              "english": "Where is the bathroom?"
+            },
+            {
+              "id": 9,
+              "arabic": "أين الفندق؟",
+              "transliteration": "Ayna al-funduq?",
+              "english": "Where is the hotel?"
+            },
+            {
+              "id": 10,
+              "arabic": "يمين / يسار",
+              "transliteration": "Yameen / Yasar",
+              "english": "Right / Left"
+            },
+            {
+              "id": 11,
+              "arabic": "مستقيم",
+              "transliteration": "Mustaqeem",
+              "english": "Straight ahead"
+            },
+            {
+              "id": 12,
+              "arabic": "بوابة",
+              "transliteration": "Bawwabah",
+              "english": "Gate"
+            }
+          ]
+        },
+        {
+          "id": "shopping",
+          "title": "Shopping & Transport",
+          "phrases": [
+            {
+              "id": 13,
+              "arabic": "بكم هذا؟",
+              "transliteration": "Bikam hadha?",
+              "english": "How much is this?"
+            },
+            {
+              "id": 14,
+              "arabic": "غالي جداً",
+              "transliteration": "Ghali jiddan",
+              "english": "Too expensive"
+            },
+            {
+              "id": 15,
+              "arabic": "تاكسي",
+              "transliteration": "Taxi",
+              "english": "Taxi"
+            },
+            {
+              "id": 16,
+              "arabic": "أريد الذهاب إلى...",
+              "transliteration": "Ureed al-dhahab ila...",
+              "english": "I want to go to..."
+            },
+            {
+              "id": 17,
+              "arabic": "وقف هنا",
+              "transliteration": "Waggif huna",
+              "english": "Stop here"
+            }
+          ]
+        },
+        {
+          "id": "emergency_phrases",
+          "title": "Emergency",
+          "phrases": [
+            {
+              "id": 18,
+              "arabic": "ساعدني",
+              "transliteration": "Sa'idni",
+              "english": "Help me"
+            },
+            {
+              "id": 19,
+              "arabic": "أنا تائه",
+              "transliteration": "Ana ta'ih",
+              "english": "I am lost"
+            },
+            {
+              "id": 20,
+              "arabic": "أحتاج طبيب",
+              "transliteration": "Ahtaj tabib",
+              "english": "I need a doctor"
+            },
+            {
+              "id": 21,
+              "arabic": "الشرطة",
+              "transliteration": "Al-shurta",
+              "english": "Police"
+            },
+            {
+              "id": 22,
+              "arabic": "مستشفى",
+              "transliteration": "Mustashfa",
+              "english": "Hospital"
+            }
+          ]
+        }
+      ]
+    }
