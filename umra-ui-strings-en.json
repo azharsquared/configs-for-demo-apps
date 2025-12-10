@@ -1,0 +1,36 @@
+{
+    "ui-strings": {
+      "language_code": "en",
+      "direction": "ltr",
+      "strings": {
+        "home": {
+          "title": "Hajj & Umrah",
+          "subtitle": "Pilgrimage Guide",
+          "verse_arabic": "وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ",
+          "verse_translation": "\"And complete the Hajj and Umrah for Allah.\"",
+          "verse_reference": "- Surah Al-Baqarah 2:196",
+          "footer_greeting": "May Allah accept your journey",
+          "begin_guide": "Begin Guide",
+          "app_by": "app by zyc.com"
+        },
+        "common": {
+          "back": "Back",
+          "loading": "Loading...",
+          "retry": "Retry",
+          "save": "Save",
+          "cancel": "Cancel",
+          "delete": "Delete",
+          "edit": "Edit",
+          "ok": "OK",
+          "error": "Error"
+        },
+        "menu": {
+          "checklist": "Checklist",
+          "holy_sites": "Holy Sites",
+          "phrasebook": "Phrasebook",
+          "my_journey": "My Journey",
+          "emergency": "Emergency",
+          "duas": "Duas"
+        }
+      }
+    }
