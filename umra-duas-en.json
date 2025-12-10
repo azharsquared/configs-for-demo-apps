@@ -1,0 +1,39 @@
+{
+      "categories": [
+        {
+          "title": "Hajj & Umrah Duas",
+          "duas": [
+            {
+              "title": "Talbiyah",
+              "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ",
+              "transliteration": "Labbayk Allahumma Labbayk, Labbayka Laa Shareeka Laka Labbayk",
+              "translation": "Here I am, O Allah, here I am. Here I am, You have no partner, here I am."
+            },
+            {
+              "title": "Entry Dua",
+              "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+              "transliteration": "Allahumma iftah li abwaba rahmatik",
+              "translation": "O Allah, open for me the doors of Your mercy."
+            },
+            {
+              "title": "Tawaf Dua (Between Corners)",
+              "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+              "transliteration": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan waqina adhaban-nar",
+              "translation": "Our Lord, give us good in this world and good in the Hereafter, and save us from the punishment of the Fire."
+            },
+            {
+              "title": "Safa & Marwa",
+              "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَآئِرِ اللَّهِ",
+              "transliteration": "Inna Safa wal-Marwata min sha'a'irillah",
+              "translation": "Indeed, Safa and Marwah are among the symbols of Allah."
+            },
+            {
+              "title": "Day of Arafah",
+              "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+              "transliteration": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku walahul-hamd, wahuwa ala kulli shay'in qadir",
+              "translation": "There is no deity but Allah alone, with no partner. To Him belongs the dominion, and to Him belongs all praise, and He has power over everything."
+            }
+          ]
+        }
+      ]
+    }
