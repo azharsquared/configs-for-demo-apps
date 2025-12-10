@@ -1,35 +1,72 @@
 {
-      "language_code": "en",
-      "direction": "ltr",
-      "strings": {
-        "home": {
-          "title": "Hajj & Umrah",
-          "subtitle": "Pilgrimage Guide",
-          "verse_arabic": "وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ",
-          "verse_translation": "\"And complete the Hajj and Umrah for Allah.\"",
-          "verse_reference": "- Surah Al-Baqarah 2:196",
-          "footer_greeting": "May Allah accept your journey",
-          "begin_guide": "Begin Guide",
-          "app_by": "app by zyc.com"
-        },
-        "common": {
-          "back": "Back",
-          "loading": "Loading...",
-          "retry": "Retry",
-          "save": "Save",
-          "cancel": "Cancel",
-          "delete": "Delete",
-          "edit": "Edit",
-          "ok": "OK",
-          "error": "Error"
-        },
-        "menu": {
-          "checklist": "Checklist",
-          "holy_sites": "Holy Sites",
-          "phrasebook": "Phrasebook",
-          "my_journey": "My Journey",
-          "emergency": "Emergency",
-          "duas": "Duas"
-        }
-      }
+  "language_code": "en",
+  "direction": "ltr",
+  "strings": {
+    "home": {
+      "title": "Hajj & Umrah",
+      "subtitle": "Pilgrimage Guide",
+      "verse_arabic": "...",
+      "verse_translation": "...",
+      "verse_reference": "...",
+	  "footer_greeting": "...",
+	  "begin_guide": "...",
+	  "app_by": "...",
+	  "makkah": "Makkah",
+	  "madinah": "Madinah",
+	  "hajj": "Hajj Guide",
+	  "umrah": "Umrah Guide"
+    },
+    "common": {
+      "back": "Back",
+      "loading": "Loading...",
+      "retry": "Retry",
+      "save": "Save",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "edit": "Edit",
+      "ok": "OK",
+      "error": "Error",
+      "view_map": "View Map",
+      "info": "Info",
+      "success": "Success",
+      "error_saving": "Failed to save location.",
+      "progress": "Your Progress",
+      "of": "of",
+      "steps_completed": "steps completed"
+    },
+    "menu": {
+      "checklist": "Checklist",
+      "holy_sites": "Holy Sites",
+      "phrasebook": "Phrasebook",
+      "my_journey": "My Journey",
+      "emergency": "Emergency",
+      "duas": "Duas"
+    },
+    "guide": {
+      "step_details": "Step Details",
+      "preparation": "Preparation",
+      "procedure": "Procedure",
+      "restrictions": "Restrictions",
+      "tips": "Tips & Advice"
+    },
+    "checklist": {
+      "packing": "Packing",
+      "pre_departure": "Pre-Departure"
+    },
+    "places": {
+      "already_saved": "is already saved in My Journey.",
+      "saved_success": "Location added to My Journey!"
+    },
+    "emergency": {
+      "my_contacts": "My Contacts",
+      "add_contact": "Add Contact",
+      "name": "Name",
+      "number": "Number",
+      "police": "Police",
+      "ambulance": "Ambulance"
+    },
+    "phrasebook": {
+      "show_card_helper": "Show this card to communicate"
     }
+  }
+}
