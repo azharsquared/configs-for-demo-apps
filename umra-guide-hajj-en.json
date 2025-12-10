@@ -1,0 +1,490 @@
+ {
+      "title": "Hajj Guide",
+      "type": "hajj",
+      "steps": [
+        {
+          "id": 1,
+          "title": "Ihram",
+          "subtitle": "Enter the state of consecration",
+          "description": "The first step of Hajj is to enter the state of Ihram before crossing the Miqat.",
+          "duration": "1-2 hours",
+          "icon": "person",
+          "details": {
+            "preparation": [
+              "Perform Ghusl (ritual bath)",
+              "Trim nails and remove unwanted hair",
+              "Apply non-scented products",
+              "Wear Ihram garments (2 white unstitched cloths for men, modest dress for women)"
+            ],
+            "procedure": [
+              "Make intention (Niyyah) for Hajj",
+              "Recite Talbiyah: \"Labbayk Allahumma Labbayk...\"",
+              "Continue reciting Talbiyah frequently",
+              "Observe Ihram restrictions"
+            ],
+            "duas": [
+              {
+                "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ",
+                "transliteration": "Labbayk Allahumma Labbayk, Labbayka Laa Shareeka Laka Labbayk",
+                "translation": "Here I am, O Allah, here I am. Here I am, You have no partner, here I am."
+              }
+            ],
+            "restrictions": [
+              "No cutting hair or nails",
+              "No perfume or scented products",
+              "No marital relations",
+              "No hunting",
+              "Men: No covered headwear, no stitched garments"
+            ],
+            "tips": [
+              "Wear comfortable footwear (sandals that don't cover ankle)",
+              "Keep important documents in a money belt",
+              "Stay hydrated",
+              "Carry a small bag for essentials"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "title": "Arrival in Makkah",
+          "subtitle": "Enter the sacred city",
+          "description": "Arrive in Makkah with humility and devotion.",
+          "duration": "Varies",
+          "icon": "location-city",
+          "details": {
+            "preparation": [
+              "Continue reciting Talbiyah",
+              "Make dua for safe arrival",
+              "Refresh your ablution (Wudu)",
+              "Approach the Haram with humility"
+            ],
+            "procedure": [
+              "Enter Masjid al-Haram with right foot",
+              "Recite entry dua",
+              "First sight of the Kaaba - make heartfelt dua",
+              "Proceed to perform Tawaf al-Qudum (arrival Tawaf)"
+            ],
+            "duas": [
+              {
+                "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+                "transliteration": "Allahumma iftah li abwaba rahmatik",
+                "translation": "O Allah, open for me the doors of Your mercy."
+              }
+            ],
+            "tips": [
+              "Be patient with crowds",
+              "Take care of elderly and children",
+              "Keep group together",
+              "Note your hotel location and landmarks"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "title": "Tawaf",
+          "subtitle": "Circumambulate the Kaaba",
+          "description": "Circle the Kaaba seven times counterclockwise.",
+          "duration": "1-2 hours",
+          "icon": "sync",
+          "details": {
+            "preparation": [
+              "Perform Wudu",
+              "Men: Uncover right shoulder (Idtiba)",
+              "Face the Black Stone (Hajar al-Aswad)",
+              "Make intention for Tawaf"
+            ],
+            "procedure": [
+              "Start at the Black Stone - point and say \"Bismillahi Allahu Akbar\"",
+              "Walk counterclockwise keeping Kaaba on your left",
+              "Touch/kiss Black Stone if possible; otherwise point to it",
+              "Walk at normal pace, men jog first 3 rounds (Raml)",
+              "Touch Yemeni corner if possible without causing harm",
+              "Recite duas between Yemeni corner and Black Stone",
+              "Complete 7 circuits",
+              "Pray 2 Rakah near Maqam Ibrahim"
+            ],
+            "duas": [
+              {
+                "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+                "transliteration": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan waqina adhaban-nar",
+                "translation": "Our Lord, give us good in this world and good in the Hereafter, and save us from the punishment of the Fire."
+              }
+            ],
+            "tips": [
+              "Stay focused despite crowds",
+              "Don't harm others to reach the Black Stone",
+              "Keep reciting duas and Quran",
+              "If you lose count, assume the lower number",
+              "Wheelchair users can perform Tawaf on upper levels"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "title": "Sa'i",
+          "subtitle": "Walk between Safa and Marwah",
+          "description": "Walk seven times between the hills of Safa and Marwah.",
+          "duration": "1-2 hours",
+          "icon": "directions-walk",
+          "details": {
+            "preparation": [
+              "After Tawaf and prayer at Maqam Ibrahim",
+              "Go to Safa hill",
+              "Face the Kaaba and make dua",
+              "Make intention for Sa'i"
+            ],
+            "procedure": [
+              "Start at Safa - recite: \"Indeed, Safa and Marwah are among the symbols of Allah\"",
+              "Walk toward Marwah",
+              "Men: Jog between green markers",
+              "Reach Marwah, face Kaaba, make dua",
+              "Return to Safa (this is 2 rounds)",
+              "Continue until 7 rounds complete",
+              "End at Marwah"
+            ],
+            "duas": [
+              {
+                "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَآئِرِ اللَّهِ",
+                "transliteration": "Inna Safa wal-Marwata min sha'a'irillah",
+                "translation": "Indeed, Safa and Marwah are among the symbols of Allah."
+              }
+            ],
+            "tips": [
+              "Drink Zamzam water",
+              "Pace yourself",
+              "Use wheelchairs if needed",
+              "Keep making dua"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "title": "Day of Tarwiyah (8th Dhul Hijjah)",
+          "subtitle": "Depart to Mina",
+          "description": "Spend the day and night in Mina in worship.",
+          "duration": "1 day",
+          "icon": "wb-sunny",
+          "details": {
+            "preparation": [
+              "Renew Ihram if needed",
+              "Make intention for Hajj",
+              "Prepare overnight essentials",
+              "Leave for Mina after Fajr"
+            ],
+            "procedure": [
+              "Travel to Mina",
+              "Pray Dhuhr, Asr, Maghrib, Isha, and next Fajr in Mina",
+              "Shorten 4-unit prayers to 2 units",
+              "Do not combine prayers",
+              "Engage in worship, dhikr, and dua",
+              "Rest for the next day"
+            ],
+            "duas": [
+              {
+                "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ",
+                "transliteration": "Allahumma inni as'alukal-afwa wal-afiyah",
+                "translation": "O Allah, I ask You for forgiveness and well-being."
+              }
+            ],
+            "tips": [
+              "Stay hydrated",
+              "Protect yourself from sun",
+              "Keep belongings secure",
+              "Stay with your group"
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "title": "Day of Arafah (9th Dhul Hijjah)",
+          "subtitle": "Stand at Mount Arafat",
+          "description": "The most important day of Hajj - standing at Arafat.",
+          "duration": "1 day",
+          "icon": "landscape",
+          "details": {
+            "preparation": [
+              "Pray Fajr in Mina",
+              "Depart to Arafat after sunrise",
+              "Find your camp location",
+              "Perform Ghusl if possible"
+            ],
+            "procedure": [
+              "Arrive at Arafat",
+              "Pray Dhuhr and Asr combined and shortened at Dhuhr time",
+              "Stand anywhere in Arafat (not necessary to climb the mount)",
+              "Engage in dua, dhikr, and worship until sunset",
+              "Raise hands in supplication",
+              "Seek forgiveness",
+              "Make dua for yourself, family, and all Muslims"
+            ],
+            "duas": [
+              {
+                "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+                "transliteration": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku walahul-hamd, wahuwa ala kulli shay'in qadir",
+                "translation": "There is no deity but Allah alone, with no partner. To Him belongs the dominion, and to Him belongs all praise, and He has power over everything."
+              }
+            ],
+            "tips": [
+              "THIS IS THE MOST IMPORTANT DAY",
+              "Stay in Arafat until sunset",
+              "Make abundant dua",
+              "Read Quran",
+              "The Prophet said: \"Hajj is Arafat\""
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "title": "Muzdalifah",
+          "subtitle": "Night under the open sky",
+          "description": "Proceed to Muzdalifah after sunset and spend the night there.",
+          "duration": "Evening to next morning",
+          "icon": "nights-stay",
+          "details": {
+            "preparation": [
+              "Leave Arafat after sunset",
+              "Do NOT pray Maghrib at Arafat",
+              "Travel calmly to Muzdalifah",
+              "Continue with Talbiyah and dhikr"
+            ],
+            "procedure": [
+              "Arrive at Muzdalifah",
+              "Pray Maghrib (3) and Isha (2) combined at Isha time",
+              "Collect 49-70 pebbles for stoning (size of chickpeas)",
+              "Sleep under open sky if possible",
+              "Pray Fajr at earliest time",
+              "Make dua at Masharul Haram",
+              "Women, elderly, and weak may leave after midnight",
+              "Others leave after Fajr before sunrise"
+            ],
+            "duas": [
+              {
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ",
+                "transliteration": "Allahumma inni a'udhu bika min adhabil-qabr",
+                "translation": "O Allah, I seek refuge in You from the punishment of the grave."
+              }
+            ],
+            "tips": [
+              "Pebbles don't need to be from Muzdalifah",
+              "No need to wash pebbles",
+              "Marble or stone can be used",
+              "Rest for the activities ahead"
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "title": "Rami (Stoning) - Day 1",
+          "subtitle": "Stone the largest pillar",
+          "description": "Return to Mina and stone Jamarat al-Aqabah.",
+          "duration": "Morning",
+          "icon": "album",
+          "details": {
+            "preparation": [
+              "Leave Muzdalifah before sunrise",
+              "Head to Mina",
+              "Have pebbles ready (7 for today)",
+              "Can be done between Fajr and sunset"
+            ],
+            "procedure": [
+              "Go to Jamarat Bridge",
+              "Stone only the large pillar (Jamarat al-Aqabah)",
+              "Throw 7 pebbles one by one",
+              "Say \"Allahu Akbar\" with each throw",
+              "No dua after stoning today",
+              "Stop reciting Talbiyah after first stone"
+            ],
+            "duas": [
+              {
+                "arabic": "اللَّهُ أَكْبَرُ",
+                "transliteration": "Allahu Akbar",
+                "translation": "Allah is the Greatest."
+              }
+            ],
+            "tips": [
+              "Go during less crowded times",
+              "Be patient and gentle",
+              "Don't need to hit the pillar exactly",
+              "Stone must land in the pit",
+              "Can appoint someone if unable"
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "title": "Sacrifice (Qurbani)",
+          "subtitle": "Offer animal sacrifice",
+          "description": "Offer sacrifice on Eid day (10th Dhul Hijjah).",
+          "duration": "10-13 Dhul Hijjah",
+          "icon": "eco",
+          "details": {
+            "preparation": [
+              "Arrange for sacrifice (sheep, goat, cow, or camel)",
+              "Can be done through voucher system",
+              "Ensure sacrifice is valid"
+            ],
+            "procedure": [
+              "Make intention",
+              "Sacrifice can be done from 10th-13th",
+              "Meat distributed to the poor",
+              "If using voucher, sacrifice done on your behalf"
+            ],
+            "duas": [
+              {
+                "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ، اللَّهُمَّ مِنْكَ وَلَكَ",
+                "transliteration": "Bismillahi wallahu Akbar, Allahumma minka wa lak",
+                "translation": "In the name of Allah, and Allah is the Greatest. O Allah, from You and for You."
+              }
+            ],
+            "tips": [
+              "Book sacrifice in advance",
+              "Voucher system is convenient and trusted",
+              "No need to be present",
+              "Must be done before sunset on 13th"
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "title": "Halq or Taqsir",
+          "subtitle": "Cut or shave hair",
+          "description": "Men shave or trim hair, women trim fingertip length.",
+          "duration": "30 minutes",
+          "icon": "content-cut",
+          "details": {
+            "preparation": [
+              "Done after stoning and sacrifice",
+              "Many barbers available in Mina"
+            ],
+            "procedure": [
+              "Men: Complete shaving (Halq) is better, or trim (Taqsir)",
+              "Women: Trim fingertip length from each section",
+              "This releases you from most Ihram restrictions",
+              "Perfume and normal clothes now allowed",
+              "Marital relations still prohibited until Tawaf al-Ifadah"
+            ],
+            "duas": [
+              {
+                "arabic": "اللَّهُمَّ اغْفِرْ لِلْمُحَلِّقِينَ",
+                "transliteration": "Allahumma ghfir lil-muhalliqeen",
+                "translation": "O Allah, forgive those who shave."
+              }
+            ],
+            "tips": [
+              "Barbers work quickly during Hajj",
+              "Keep some hair as memory if desired",
+              "Women should not shave"
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "title": "Tawaf al-Ifadah",
+          "subtitle": "The main Tawaf of Hajj",
+          "description": "Perform Tawaf and Sa'i (if not done earlier).",
+          "duration": "2-3 hours",
+          "icon": "autorenew",
+          "details": {
+            "preparation": [
+              "Can be done on 10th, 11th, 12th, or 13th",
+              "Go to Makkah from Mina",
+              "Perform Wudu",
+              "Wear normal clothes"
+            ],
+            "procedure": [
+              "Perform Tawaf (7 circuits) around Kaaba",
+              "Pray 2 Rakah at Maqam Ibrahim",
+              "Perform Sa'i if not done after Tawaf al-Qudum",
+              "Drink Zamzam water",
+              "All Ihram restrictions now lifted"
+            ],
+            "duas": [
+              {
+                "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+                "transliteration": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan waqina adhaban-nar",
+                "translation": "Our Lord, give us good in this world and good in the Hereafter."
+              }
+            ],
+            "tips": [
+              "This is obligatory",
+              "Can go any time during these days",
+              "Avoid peak hours if possible"
+            ]
+          }
+        },
+        {
+          "id": 12,
+          "title": "Days of Tashriq (11-13 Dhul Hijjah)",
+          "subtitle": "Stone all three pillars",
+          "description": "Spend nights in Mina and stone all three Jamarat.",
+          "duration": "2-3 days",
+          "icon": "view-week",
+          "details": {
+            "preparation": [
+              "Return to Mina",
+              "Stay overnight (Wajib)",
+              "Stone after Zawal (sun past meridian)",
+              "Have 21 pebbles ready (7 for each Jamrah)"
+            ],
+            "procedure": [
+              "Stone all three Jamarat in order after Zawal:",
+              "1. Small pillar (Jamarat al-Ula) - 7 pebbles, then make dua",
+              "2. Middle pillar (Jamarat al-Wusta) - 7 pebbles, then make dua",
+              "3. Large pillar (Jamarat al-Aqabah) - 7 pebbles, no dua after",
+              "Do this on 11th and 12th (mandatory)",
+              "If staying 13th, must stone on 13th too",
+              "Must leave Mina before sunset on 12th to skip 13th"
+            ],
+            "duas": [
+              {
+                "arabic": "اللَّهُ أَكْبَرُ",
+                "transliteration": "Allahu Akbar",
+                "translation": "Allah is the Greatest."
+              }
+            ],
+            "tips": [
+              "Stone after Zawal, not before",
+              "Can stone until Fajr next day",
+              "Evening times less crowded",
+              "Take turns in group for convenience"
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "title": "Tawaf al-Wida (Farewell Tawaf)",
+          "subtitle": "Bid farewell to the Kaaba",
+          "description": "The last rite of Hajj before leaving Makkah.",
+          "duration": "1 hour",
+          "icon": "waving-hand",
+          "details": {
+            "preparation": [
+              "Done after all Hajj rites complete",
+              "Should be last thing before leaving Makkah",
+              "Perform Wudu"
+            ],
+            "procedure": [
+              "Perform Tawaf (7 circuits) around Kaaba",
+              "Pray 2 Rakah at Maqam Ibrahim",
+              "Make final duas",
+              "Look at Kaaba with longing",
+              "Ask Allah to accept Hajj",
+              "Ask Allah to return you to His House"
+            ],
+            "duas": [
+              {
+                "arabic": "اللَّهُمَّ تَقَبَّلْ مِنِّي وَارْزُقْنِي الْعَوْدَ إِلَى بَيْتِكَ",
+                "transliteration": "Allahumma taqabbal minni warzuqni al-awda ila baytik",
+                "translation": "O Allah, accept from me and grant me a return to Your House."
+              }
+            ],
+            "tips": [
+              "This is Wajib (required)",
+              "Menstruating women excused",
+              "Don't engage in trade after this",
+              "Can get supplies but don't delay extensively"
+            ]
+          }
+        }
+      ]
+    }
