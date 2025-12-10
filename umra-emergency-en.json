@@ -1,0 +1,64 @@
+{
+      "sections": [
+        {
+          "title": "General Emergency",
+          "contacts": [
+            {
+              "title": "General Emergency",
+              "number": "112",
+              "icon": "warning"
+            },
+            {
+              "title": "Police",
+              "number": "999",
+              "icon": "local-police"
+            },
+            {
+              "title": "Ambulance",
+              "number": "997",
+              "icon": "medical-services"
+            },
+            {
+              "title": "Traffic Police",
+              "number": "993",
+              "icon": "traffic"
+            },
+            {
+              "title": "Civil Defense (Fire)",
+              "number": "998",
+              "icon": "fire-truck"
+            }
+          ]
+        },
+        {
+          "title": "Hajj & Umrah Services",
+          "contacts": [
+            {
+              "title": "Hajj & Umrah Ministry",
+              "number": "1966",
+              "icon": "mosque"
+            },
+            {
+              "title": "Lost & Found",
+              "number": "012-570-0000",
+              "icon": "search"
+            },
+            {
+              "title": "Najm (Traffic Accidents)",
+              "number": "920000560",
+              "icon": "car-crash"
+            }
+          ]
+        },
+        {
+          "title": "Embassies",
+          "contacts": [
+            {
+              "title": "Embassy Directory",
+              "description": "Contact your country's embassy for passport assistance.",
+              "icon": "flag"
+            }
+          ]
+        }
+      ]
+    }
