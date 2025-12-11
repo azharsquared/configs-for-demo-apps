@@ -1,0 +1,247 @@
+{
+    "version": "1.0",
+    "lastUpdated": "2025-12-11",
+    "bannerImage": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200&h=400&fit=crop",
+    "introVideo": "https://www.youtube.com/watch?v=VQ3mZy6KeZk",
+    "guide": {
+        "beforeBirth": {
+            "title": "Before Birth - Islamic Practices",
+            "icon": "book",
+            "videoOverview": "https://www.youtube.com/watch?v=dTgRwN8ekG4",
+            "sections": [
+                {
+                    "heading": "Making Dua for Righteous Offspring",
+                    "content": "Throughout pregnancy, make sincere dua asking Allah for a healthy, righteous child. The Prophet (PBUH) taught us that children are a trust from Allah.",
+                    "reference": "وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
+                    "videoGuide": "https://www.youtube.com/watch?v=mqcfPZGS8Jc",
+                    "duaAudio": "https://www.youtube.com/watch?v=HCW8XBWdUfU"
+                },
+                {
+                    "heading": "Reciting Quran",
+                    "content": "Recite Quran regularly, especially Surah Maryam and Surah Yusuf. The baby can hear sounds in the womb, and Quran recitation brings barakah.",
+                    "videoGuide": "https://www.youtube.com/watch?v=3g-yrjh58ms",
+                    "tips": [
+                        "Recite daily",
+                        "Play Quran audio",
+                        "Memorize short surahs"
+                    ],
+                    "surahMaryamAudio": "https://www.youtube.com/watch?v=0RhkY4JHLmI",
+                    "surahYusufAudio": "https://www.youtube.com/watch?v=rCl72OXvaKk"
+                },
+                {
+                    "heading": "Good Character and Halal Food",
+                    "content": "Maintain good character, eat halal and tayyib food, and avoid haram. What the mother consumes and how she behaves affects the child.",
+                    "videoGuide": "https://www.youtube.com/watch?v=8qF5wHVJbEQ",
+                    "tips": [
+                        "Eat halal only",
+                        "Be patient and kind",
+                        "Avoid anger and negativity"
+                    ]
+                }
+            ]
+        },
+        "afterBirth": {
+            "title": "After Birth - Sunnah Practices",
+            "icon": "heart",
+            "videoOverview": "https://www.youtube.com/watch?v=dTgRwN8ekG4",
+            "sections": [
+                {
+                    "heading": "Adhan and Iqamah",
+                    "content": "Recite the Adhan in the baby's right ear and Iqamah in the left ear. This is a beautiful Sunnah that welcomes the baby with the words of Allah's greatness.",
+                    "reference": "The Prophet (PBUH) called Adhan in the ear of Al-Hasan when Fatimah gave birth to him.",
+                    "videoGuide": "https://www.youtube.com/watch?v=pGVSp19UkxQ",
+                    "adhanAudio": "https://www.youtube.com/watch?v=7dW0TyNzIpg"
+                },
+                {
+                    "heading": "Tahnik (Sweet Date)",
+                    "content": "Soften a date and rub a small amount on the baby's palate with your finger. This follows the Sunnah of the Prophet (PBUH).",
+                    "videoGuide": "https://www.youtube.com/watch?v=FFfJ4LYhGOw",
+                    "steps": [
+                        "Use a ripe date",
+                        "Soften it",
+                        "Rub gently on upper palate",
+                        "Make dua for barakah"
+                    ]
+                },
+                {
+                    "heading": "Choosing a Good Name",
+                    "content": "Choose a beautiful Islamic name with good meaning within 7 days. The child will be called by this name on the Day of Judgment.",
+                    "videoGuide": "https://www.youtube.com/watch?v=bHRUWJGSx9o",
+                    "tips": [
+                        "Names of Prophets are best",
+                        "Names with good meanings",
+                        "Easy to pronounce",
+                        "Avoid weird or shameful names"
+                    ]
+                },
+                {
+                    "heading": "Aqiqah (Sacrifice)",
+                    "content": "Perform Aqiqah on the 7th day. Sacrifice 2 sheep for a boy and 1 for a girl. Distribute the meat to the poor and share with family.",
+                    "details": "This is an act of gratitude to Allah and provides food for the needy.",
+                    "videoGuide": "https://www.youtube.com/watch?v=Qa-_ZXgU7N0"
+                },
+                {
+                    "heading": "Shaving the Hair",
+                    "content": "Shave the baby's hair on the 7th day and give charity equal to the weight of the hair in silver.",
+                    "reference": "This is a Sunnah that brings barakah and cleanses the child.",
+                    "videoGuide": "https://www.youtube.com/watch?v=9LtZ2lQJazY"
+                },
+                {
+                    "heading": "Circumcision (Khitan)",
+                    "content": "For boys, circumcision is an important Sunnah. It is recommended to do it on the 7th day, but can be done later.",
+                    "videoGuide": "https://www.youtube.com/watch?v=3XpJBVUDzRA",
+                    "benefits": [
+                        "Follows Fitrah",
+                        "Health benefits",
+                        "Islamic identity"
+                    ]
+                }
+            ]
+        },
+        "dailyDuas": {
+            "title": "Daily Duas for Children",
+            "icon": "star",
+            "videoOverview": "https://www.youtube.com/watch?v=8_c-9vK8zxo",
+            "duas": [
+                {
+                    "occasion": "Protection from Evil Eye",
+                    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+                    "translation": "I seek refuge in the Perfect Words of Allah from every devil, harmful thing, and every evil eye.",
+                    "reference": "Said by Prophet Ibrahim (AS) for his sons",
+                    "audioRecitation": "https://www.youtube.com/watch?v=dW8Cbxklz-s",
+                    "videoGuide": "https://www.youtube.com/watch?v=8Ef4IXVWL_M"
+                },
+                {
+                    "occasion": "Before Sleep",
+                    "arabic": "اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا",
+                    "translation": "O Allah, in Your Name I die and I live.",
+                    "reference": "Hadith - Bukhari",
+                    "audioRecitation": "https://www.youtube.com/watch?v=O-k_75qbxDY",
+                    "videoGuide": "https://www.youtube.com/watch?v=nGP6lqYYhkU"
+                },
+                {
+                    "occasion": "Upon Waking",
+                    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+                    "translation": "All praise is for Allah who gave us life after having taken it from us, and unto Him is the resurrection.",
+                    "reference": "Hadith - Bukhari",
+                    "audioRecitation": "https://www.youtube.com/watch?v=nsdIHK8O5yo",
+                    "videoGuide": "https://www.youtube.com/watch?v=O-k_75qbxDY"
+                },
+                {
+                    "occasion": "Before Eating",
+                    "arabic": "بِسْمِ اللَّهِ",
+                    "translation": "In the name of Allah",
+                    "reference": "Essential for every meal",
+                    "audioRecitation": "https://www.youtube.com/watch?v=kdD0WYrO0iw",
+                    "videoGuide": "https://www.youtube.com/watch?v=Zz7Rx-SYWWM"
+                },
+                {
+                    "occasion": "After Eating",
+                    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+                    "translation": "All praise is for Allah who fed me this and provided it for me without any might or power from myself.",
+                    "reference": "Hadith - Tirmidhi",
+                    "audioRecitation": "https://www.youtube.com/watch?v=nsdIHK8O5yo",
+                    "videoGuide": "https://www.youtube.com/watch?v=kdD0WYrO0iw"
+                }
+            ]
+        },
+        "upbringing": {
+            "title": "Child Upbringing Basics",
+            "icon": "people",
+            "videoOverview": "https://www.youtube.com/watch?v=5-4CDftB_AU",
+            "principles": [
+                {
+                    "title": "Teach Tawhid First",
+                    "description": "The first thing to teach your child is the belief in One Allah. Let 'La ilaha illallah' be among their first words.",
+                    "age": "From infancy",
+                    "videoGuide": "https://www.youtube.com/watch?v=jFqrWvRcAz0",
+                    "tips": [
+                        "Repeat often",
+                        "Make it part of daily routine",
+                        "Explain in simple terms as they grow"
+                    ]
+                },
+                {
+                    "title": "Love and Mercy",
+                    "description": "Show love, kindness, and mercy. The Prophet (PBUH) was very gentle with children. Kiss them, hug them, and spend quality time.",
+                    "reference": "The Prophet (PBUH) kissed children and said 'He who does not show mercy will not be shown mercy'",
+                    "videoGuide": "https://www.youtube.com/watch?v=u0nLhLBxYqI",
+                    "tips": [
+                        "Be affectionate",
+                        "Listen to them",
+                        "Never humiliate",
+                        "Be patient"
+                    ]
+                },
+                {
+                    "title": "Teach Salah Early",
+                    "description": "Command children to pray at age 7, and encourage practice before that through example and gentle teaching.",
+                    "reference": "Hadith: 'Teach your children to pray when they are seven years old'",
+                    "videoGuide": "https://www.youtube.com/watch?v=Wsx23cNWqiA",
+                    "tips": [
+                        "Pray in front of them",
+                        "Make it fun",
+                        "Explain importance",
+                        "Be patient with mistakes"
+                    ]
+                },
+                {
+                    "title": "Good Character (Akhlaq)",
+                    "description": "Teach honesty, kindness, respect, and good manners. Character is the foundation of faith.",
+                    "videoGuide": "https://www.youtube.com/watch?v=NePUOTZ5TaM",
+                    "tips": [
+                        "Be a role model",
+                        "Praise good behavior",
+                        "Correct with wisdom",
+                        "Tell stories of Prophets and Sahaba"
+                    ]
+                },
+                {
+                    "title": "Quran Connection",
+                    "description": "Build love for Quran from a young age. Recite to them, teach them short surahs, and enroll them in Quran classes.",
+                    "videoGuide": "https://www.youtube.com/watch?v=PKJ7RP2cXDg",
+                    "tips": [
+                        "Daily Quran time",
+                        "Start with short surahs",
+                        "Make it enjoyable",
+                        "Reward progress"
+                    ]
+                },
+                {
+                    "title": "Balance and Moderation",
+                    "description": "Islam is balanced. Allow play, fun, and childhood while teaching deen. Don't be too harsh or too lenient.",
+                    "reference": "The Prophet (PBUH) played with children and raced with his wife",
+                    "videoGuide": "https://www.youtube.com/watch?v=5-4CDftB_AU",
+                    "tips": [
+                        "Allow play",
+                        "Join in their fun",
+                        "Set boundaries with love",
+                        "Be consistent"
+                    ]
+                }
+            ]
+        }
+    },
+    "additionalResources": {
+        "parentingPlaylist": {
+            "youtubePlaylist": "https://www.youtube.com/playlist?list=PLwSVhj-wFF3_bslnKUd9_JH5dqFwEewOC",
+            "description": "Complete Islamic parenting video series"
+        },
+        "quranForKids": {
+            "youtubePlaylist": "https://www.youtube.com/playlist?list=PLrYwj0K9kMxeM9BDq0R8DgHbQK6znF8WO",
+            "description": "Quran learning playlist for children"
+        },
+        "islamicStoriesForKids": {
+            "youtubePlaylist": "https://www.youtube.com/playlist?list=PLJ7tHRGbDK6T4jEJwz7HgHSLz8g2L0UpA",
+            "description": "Islamic stories and prophets stories for children"
+        },
+        "completeGuidePDF": {
+            "downloadUrl": "https://drive.google.com/file/d/islamic-parenting-guide/view",
+            "description": "Complete Islamic parenting guide PDF"
+        },
+        "supportGroup": {
+            "facebookGroup": "https://www.facebook.com/groups/islamicparenting",
+            "description": "Islamic parenting support community"
+        }
+    }
+}
