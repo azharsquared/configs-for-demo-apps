@@ -1,0 +1,458 @@
+{
+    "totalMonths": 9,
+    "currentPage": 1,
+    "bannerImage": "https://images.unsplash.com/photo-1493238792000-8113da705763?w=1200&h=400&fit=crop",
+    "introVideo": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "months": [
+        {
+            "id": 1,
+            "month": 1,
+            "title": "Month 1 - The Beginning",
+            "bannerImage": "https://images.unsplash.com/photo-1493238792000-8113da705763?w=800&h=400&fit=crop",
+            "videoGuide": "https://www.youtube.com/watch?v=KY44zvhWhp4",
+            "dua": {
+                "arabic": "رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ الدُّعَاءِ",
+                "translation": "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.",
+                "reference": "Surah Al-Imran 3:38",
+                "audioRecitation": "https://www.youtube.com/watch?v=9Fzpx_aDrum"
+            },
+            "surahs": [
+                {
+                    "name": "Surah Al-Fatiha",
+                    "audioUrl": "https://www.youtube.com/watch?v=LldcVJEeZxI",
+                    "translation": "The Opening"
+                },
+                {
+                    "name": "Surah Maryam",
+                    "audioUrl": "https://www.youtube.com/watch?v=0RhkY4JHLmI",
+                    "translation": "Mary"
+                }
+            ],
+            "wellnessTips": [
+                "Take folic acid supplements (400-800 mcg daily)",
+                "Stay hydrated - drink at least 8 glasses of water",
+                "Get adequate rest and sleep",
+                "Begin prenatal vitamins",
+                "Maintain a balanced diet with fresh fruits and vegetables"
+            ],
+            "thingsToAvoid": [
+                "Alcohol and smoking",
+                "Raw or undercooked meats",
+                "Unpasteurized dairy products",
+                "High-mercury fish",
+                "Excessive caffeine"
+            ],
+            "nutritionGuide": {
+                "videoUrl": "https://www.youtube.com/watch?v=wZzYA_doJKw",
+                "description": "Nutrition in early pregnancy"
+            },
+            "exerciseGuide": {
+                "videoUrl": "https://www.youtube.com/watch?v=8NpYf_hfnHo",
+                "description": "Gentle pregnancy exercises month 1"
+            }
+        },
+        {
+            "id": 2,
+            "month": 2,
+            "title": "Month 2 - Early Development",
+            "bannerImage": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=800&h=400&fit=crop",
+            "videoGuide": "https://www.youtube.com/watch?v=tM1ER7TnRe4",
+            "dua": {
+                "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+                "translation": "Our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
+                "reference": "Surah Al-Baqarah 2:201",
+                "audioRecitation": "https://www.youtube.com/watch?v=SgJz5KZS0X4"
+            },
+            "surahs": [
+                {
+                    "name": "Surah Maryam",
+                    "audioUrl": "https://www.youtube.com/watch?v=0RhkY4JHLmI",
+                    "translation": "Mary"
+                },
+                {
+                    "name": "Surah Yusuf",
+                    "audioUrl": "https://www.youtube.com/watch?v=rCl72OXvaKk",
+                    "translation": "Joseph"
+                }
+            ],
+            "wellnessTips": [
+                "Continue prenatal vitamins",
+                "Eat small, frequent meals to manage nausea",
+                "Include protein-rich foods in diet",
+                "Light exercise like walking",
+                "Practice deep breathing and relaxation"
+            ],
+            "thingsToAvoid": [
+                "Heavy lifting",
+                "Hot tubs and saunas",
+                "Contact sports",
+                "Certain medications (consult doctor)",
+                "Stressful situations"
+            ],
+            "nauseaManagement": {
+                "videoUrl": "https://www.youtube.com/watch?v=NKx9oN_jW_M",
+                "tips": [
+                    "Ginger tea",
+                    "Small frequent meals",
+                    "Avoid strong smells"
+                ]
+            },
+            "exerciseGuide": {
+                "videoUrl": "https://www.youtube.com/watch?v=LGUD-fCcPog",
+                "description": "Pregnancy exercises for month 2"
+            }
+        },
+        {
+            "id": 3,
+            "month": 3,
+            "title": "Month 3 - First Trimester End",
+            "bannerImage": "https://images.unsplash.com/photo-1584516150909-b34676440b75?w=800&h=400&fit=crop",
+            "videoGuide": "https://www.youtube.com/watch?v=3g-yrjh58ms",
+            "dua": {
+                "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ وَرَحْمَتِكَ، فَإِنَّهُ لَا يَمْلِكُهَا إِلَّا أَنْتَ",
+                "translation": "O Allah, I ask You for Your favor and mercy, for no one has power over them except You.",
+                "reference": "Hadith",
+                "audioRecitation": "https://www.youtube.com/watch?v=nsdIHK8O5yo"
+            },
+            "surahs": [
+                {
+                    "name": "Surah Yusuf",
+                    "audioUrl": "https://www.youtube.com/watch?v=rCl72OXvaKk",
+                    "translation": "Joseph"
+                },
+                {
+                    "name": "Surah Al-Mu'minun",
+                    "audioUrl": "https://www.youtube.com/watch?v=H-3OrSRwYCc",
+                    "translation": "The Believers"
+                }
+            ],
+            "wellnessTips": [
+                "First ultrasound appointment",
+                "Increase calcium intake",
+                "Stay active with prenatal yoga",
+                "Keep healthy snacks available",
+                "Monitor weight gain"
+            ],
+            "thingsToAvoid": [
+                "X-rays and radiation",
+                "Changing cat litter",
+                "Certain cleaning chemicals",
+                "Processed foods high in sugar",
+                "Lack of sleep"
+            ],
+            "ultrasoundGuide": {
+                "videoUrl": "https://www.youtube.com/watch?v=ZMZdFM0sYKU",
+                "description": "What to expect at your first ultrasound"
+            },
+            "exerciseGuide": {
+                "videoUrl": "https://www.youtube.com/watch?v=sQ7yISG8Izc",
+                "description": "Prenatal yoga for first  trimester"
+            }
+        },
+        {
+            "id": 4,
+            "month": 4,
+            "title": "Month 4 - Second Trimester Begins",
+            "bannerImage": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&h=400&fit=crop",
+            "videoGuide": "https://www.youtube.com/watch?v=K5WzvB4Xhq8",
+            "dua": {
+                "arabic": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ",
+                "translation": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me.",
+                "reference": "Surah An-Naml 27:19",
+                "audioRecitation": "https://www.youtube.com/watch?v=tYUFhAg4sME"
+            },
+            "surahs": [
+                {
+                    "name": "Surah Luqman",
+                    "audioUrl": "https://www.youtube.com/watch?v=JzSVGnPDVzM",
+                    "translation": "Luqman"
+                },
+                {
+                    "name": "Surah Maryam",
+                    "audioUrl": "https://www.youtube.com/watch?v=0RhkY4JHLmI",
+                    "translation": "Mary"
+                }
+            ],
+            "wellnessTips": [
+                "Energy levels may improve",
+                "Begin pelvic floor exercises",
+                "Increase iron-rich foods",
+                "Stay hydrated",
+                "Practice good posture"
+            ],
+            "thingsToAvoid": [
+                "Sleeping on your back",
+                "Standing for long periods",
+                "Tight clothing around abdomen",
+                "Skipping meals",
+                "Excessive stress"
+            ],
+            "pelvicFloorExercises": {
+                "videoUrl": "https://www.youtube.com/watch?v=mPBTHJKZMkc",
+                "description": "Kegel exercises during pregnancy"
+            },
+            "exerciseGuide": {
+                "videoUrl": "https://www.youtube.com/watch?v=Fl0G8gkL2sQ",
+                "description": "Second trimester workout routine"
+            }
+        },
+        {
+            "id": 5,
+            "month": 5,
+            "title": "Month 5 - Feeling Movement",
+            "bannerImage": "https://images.unsplash.com/photo-1566396317477-26aa3279f1cb?w=800&h=400&fit=crop",
+            "videoGuide": "https://www.youtube.com/watch?v=fvZUOFFg7Y0",
+            "dua": {
+                "arabic": "الْحَمْدُ لِلَّهِ الَّذِي وَهَبَ لِي عَلَى الْكِبَرِ إِسْمَاعِيلَ وَإِسْحَاقَ",
+                "translation": "Praise to Allah, who has granted to me in old age Ishmael and Isaac.",
+                "reference": "Surah Ibrahim 14:39",
+                "audioRecitation": "https://www.youtube.com/watch?v=K0tFk39-GGo"
+            },
+            "surahs": [
+                {
+                    "name": "Surah Ibrahim",
+                    "audioUrl": "https://www.youtube.com/watch?v=d0gPJC2gM18",
+                    "translation": "Abraham"
+                },
+                {
+                    "name": "Surah Maryam",
+                    "audioUrl": "https://www.youtube.com/watch?v=0RhkY4JHLmI",
+                    "translation": "Mary"
+                }
+            ],
+            "wellnessTips": [
+                "Feel baby's first movements",
+                "Continue balanced nutrition",
+                "Stay physically active",
+                "Talk and bond with baby",
+                "Attend prenatal classes"
+            ],
+            "thingsToAvoid": [
+                "High heels",
+                "Prolonged sitting",
+                "Dehydration",
+                "Poor nutrition",
+                "Anxiety and worry"
+            ],
+            "bondingGuide": {
+                "videoUrl": "https://www.youtube.com/watch?v=VJE8Gn0xtP0",
+                "description": "Bonding with your unborn baby"
+            },
+            "prenatalClasses": {
+                "videoUrl": "https://www.youtube.com/watch?v=j7O7jEB2yg8",
+                "description": "Online prenatal class overview"
+            }
+        },
+        {
+            "id": 6,
+            "month": 6,
+            "title": "Month 6 - Rapid Growth",
+            "bannerImage": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=800&h=400&fit=crop",
+            "videoGuide": "https://www.youtube.com/watch?v=M0JITUWLVWE",
+            "dua": {
+                "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً",
+                "translation": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy.",
+                "reference": "Surah Al-Imran 3:8",
+                "audioRecitation": "https://www.youtube.com/watch?v=9Fzpx_aDrum"
+            },
+            "surahs": [
+                {
+                    "name": "Surah Maryam",
+                    "audioUrl": "https://www.youtube.com/watch?v=0RhkY4JHLmI",
+                    "translation": "Mary"
+                },
+                {
+                    "name": "Surah Al-Mu'minun",
+                    "audioUrl": "https://www.youtube.com/watch?v=H-3OrSRwYCc",
+                    "translation": "The Believers"
+                }
+            ],
+            "wellnessTips": [
+                "Monitor baby's movements",
+                "Increase protein intake",
+                "Stay active with swimming",
+                "Get enough sleep",
+                "Practice breathing techniques"
+            ],
+            "thingsToAvoid": [
+                "Heavy physical labor",
+                "Long car trips without breaks",
+                "Excessive salt",
+                "Skipping doctor appointments",
+                "Negative thinking"
+            ],
+            "breathingTechniques": {
+                "videoUrl": "https://www.youtube.com/watch?v=XMh1mHsHd2M",
+                "description": "Lamaze breathing techniques"
+            },
+            "swimmingGuide": {
+                "videoUrl": "https://www.youtube.com/watch?v=yKiGQzVs3sY",
+                "description": "Swimming exercises for pregnancy"
+            }
+        },
+        {
+            "id": 7,
+            "month": 7,
+            "title": "Month 7 - Third Trimester",
+            "bannerImage": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800&h=400&fit=crop",
+            "videoGuide": "https://www.youtube.com/watch?v=RpVBOgzjLa8",
+            "dua": {
+                "arabic": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+                "translation": "My Lord, make me an establisher of prayer, and from my descendants. Our Lord, and accept my supplication.",
+                "reference": "Surah Ibrahim 14:40",
+                "audioRecitation": "https://www.youtube.com/watch?v=K0tFk39-GGo"
+            },
+            "surahs": [
+                {
+                    "name": "Surah Maryam",
+                    "audioUrl": "https://www.youtube.com/watch?v=0RhkY4JHLmI",
+                    "translation": "Mary"
+                },
+                {
+                    "name": "Surah Luqman",
+                    "audioUrl": "https://www.youtube.com/watch?v=JzSVGnPDVzM",
+                    "translation": "Luqman"
+                }
+            ],
+            "wellnessTips": [
+                "Count baby kicks daily",
+                "Prepare hospital bag",
+                "Practice relaxation techniques",
+                "Eat smaller, frequent meals",
+                "Elevate legs to reduce swelling"
+            ],
+            "thingsToAvoid": [
+                "Long standing periods",
+                "Strenuous exercise",
+                "Spicy and acidic foods (if heartburn)",
+                "Stress and anxiety",
+                "Ignoring warning signs"
+            ],
+            "hospitalBagChecklist": {
+                "videoUrl": "https://www.youtube.com/watch?v=T4nYBQjJR-s",
+                "description": "Hospital bag packing guide"
+            },
+            "relaxationTechniques": {
+                "videoUrl": "https://www.youtube.com/watch?v=aEqlQvczMJQ",
+                "description": "Pregnancy meditation and relaxation"
+            }
+        },
+        {
+            "id": 8,
+            "month": 8,
+            "title": "Month 8 - Almost There",
+            "bannerImage": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800&h=400&fit=crop",
+            "videoGuide": "https://www.youtube.com/watch?v=Lx7gm4oZMOk",
+            "dua": {
+                "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
+                "translation": "Our Lord, grant us from among our spouses and offspring comfort to our eyes.",
+                "reference": "Surah Al-Furqan 25:74",
+                "audioRecitation": "https://www.youtube.com/watch?v=HCW8XBWdUfU"
+            },
+            "surahs": [
+                {
+                    "name": "Surah Maryam",
+                    "audioUrl": "https://www.youtube.com/watch?v=0RhkY4JHLmI",
+                    "translation": "Mary"
+                },
+                {
+                    "name": "Surah Al-Insan",
+                    "audioUrl": "https://www.youtube.com/watch?v=wgUK06P8gDA",
+                    "translation": "Man"
+                }
+            ],
+            "wellnessTips": [
+                "Regular prenatal checkups",
+                "Practice birth positions",
+                "Pack hospital essentials",
+                "Rest frequently",
+                "Stay positive and pray"
+            ],
+            "thingsToAvoid": [
+                "Travel to distant places",
+                "Being alone for long periods",
+                "Overexertion",
+                "Dehydration",
+                "Panic and fear"
+            ],
+            "birthPositions": {
+                "videoUrl": "https://www.youtube.com/watch?v=k9RwRPDu4n0",
+                "description": "Labor and birth positions"
+            },
+            "laborSigns": {
+                "videoUrl": "https://www.youtube.com/watch?v=wOV-fGhHAOc",
+                "description": "Signs of labor approaching"
+            }
+        },
+        {
+            "id": 9,
+            "month": 9,
+            "title": "Month 9 - Welcome Baby",
+            "bannerImage": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=800&h=400&fit=crop",
+            "videoGuide": "https://www.youtube.com/watch?v=k7smYZ02nHM",
+            "dua": {
+                "arabic": "إِنِّي نَذَرْتُ لَكَ مَا فِي بَطْنِي مُحَرَّرًا فَتَقَبَّلْ مِنِّي",
+                "translation": "Indeed, I have vowed to You what is in my womb, dedicated, so accept this from me.",
+                "reference": "Surah Al-Imran 3:35",
+                "audioRecitation": "https://www.youtube.com/watch?v=9Fzpx_aDrum"
+            },
+            "surahs": [
+                {
+                    "name": "Surah Maryam",
+                    "audioUrl": "https://www.youtube.com/watch?v=0RhkY4JHLmI",
+                    "translation": "Mary"
+                },
+                {
+                    "name": "Surah Al-Insan",
+                    "audioUrl": "https://www.youtube.com/watch?v=wgUK06P8gDA",
+                    "translation": "Man"
+                },
+                {
+                    "name": "Surah Al-Fatiha",
+                    "audioUrl": "https://www.youtube.com/watch?v=LldcVJEeZxI",
+                    "translation": "The Opening"
+                }
+            ],
+            "wellnessTips": [
+                "Know labor signs",
+                "Stay calm and make dua",
+                "Keep phone charged",
+                "Have support person ready",
+                "Trust in Allah's plan"
+            ],
+            "thingsToAvoid": [
+                "Panic",
+                "Ignoring labor signs",
+                "Being far from hospital",
+                "Negative thoughts",
+                "Overexertion before labor"
+            ],
+            "laborGuide": {
+                "videoUrl": "https://www.youtube.com/watch?v=tZsqqx1gIYo",
+                "description": "Complete labor and delivery guide"
+            },
+            "postpartumPreparation": {
+                "videoUrl": "https://www.youtube.com/watch?v=aWO5JcM5Ydw",
+                "description": "Preparing for postpartum period"
+            },
+            "duasForLabor": {
+                "audioPlaylist": "https://www.youtube.com/watch?v=nsdIHK8O5yo",
+                "description": "Duas for easy labor and delivery"
+            }
+        }
+    ],
+    "additionalResources": {
+        "pregnancyAppGuide": {
+            "videoUrl": "https://www.youtube.com/watch?v=vQ4g5aSnkp4",
+            "description": "How to track your pregnancy journey"
+        },
+        "islamicPregnancyPlaylist": {
+            "youtubePlaylist": "https://www.youtube.com/playlist?list=PLExjQlOZDmCvHIILLg_B1t6rS_6WqZJhZ",
+            "description": "Islamic pregnancy guide playlist"
+        },
+        "completeGuidePDF": {
+            "downloadUrl": "https://drive.google.com/file/d/pregnancy-guide-9months/view",
+            "description": "Downloadable complete 9-month pregnancy guide"
+        }
+    }
+}
