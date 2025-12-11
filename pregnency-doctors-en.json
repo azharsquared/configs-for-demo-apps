@@ -1,0 +1,191 @@
+{
+    "totalDoctors": 8,
+    "page": 1,
+    "specialties": [
+        "All",
+        "Maternity",
+        "Kids"
+    ],
+    "doctors": [
+        {
+            "id": "d1",
+            "name": "Dr. Sarah Ahmed",
+            "specialty": "Maternity",
+            "qualification": "MBBS, MD (Obstetrics & Gynecology)",
+            "experience": "15 years",
+            "hospital": "City Women's Hospital",
+            "address": "123 Medical Center, Downtown",
+            "phone": "+1-555-0101",
+            "whatsapp": "+15550101",
+            "email": "dr.sarah@example.com",
+            "consultationFee": "$100",
+            "availability": "Mon-Sat, 9 AM - 5 PM",
+            "languages": [
+                "English",
+                "Arabic"
+            ],
+            "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&h=400&fit=crop",
+            "rating": 4.8,
+            "reviews": 234,
+            "verified": true
+        },
+        {
+            "id": "d2",
+            "name": "Dr. Fatima Hassan",
+            "specialty": "Maternity",
+            "qualification": "MBBS, MS (Obstetrics)",
+            "experience": "12 years",
+            "hospital": "Islamic Medical Center",
+            "address": "456 Health Plaza, North District",
+            "phone": "+1-555-0102",
+            "whatsapp": "+15550102",
+            "email": "dr.fatima@example.com",
+            "consultationFee": "$90",
+            "availability": "Mon-Fri, 10 AM - 6 PM",
+            "languages": [
+                "English",
+                "Urdu",
+                "Arabic"
+            ],
+            "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400&h=400&fit=crop",
+            "rating": 4.9,
+            "reviews": 312,
+            "verified": true
+        },
+        {
+            "id": "d3",
+            "name": "Dr. Aisha Rahman",
+            "specialty": "Maternity",
+            "qualification": "MBBS, DGO (Gynecology)",
+            "experience": "10 years",
+            "hospital": "Mother Care Hospital",
+            "address": "789 Wellness Street, South Area",
+            "phone": "+1-555-0103",
+            "whatsapp": "+15550103",
+            "email": "dr.aisha@example.com",
+            "consultationFee": "$85",
+            "availability": "Tue-Sun, 8 AM - 4 PM",
+            "languages": [
+                "English",
+                "Bengali"
+            ],
+            "image": "https://images.unsplash.com/photo-1638202993928-7267aad84c31?w=400&h=400&fit=crop",
+            "rating": 4.7,
+            "reviews": 187,
+            "verified": true
+        },
+        {
+            "id": "d4",
+            "name": "Dr. Muhammad Ali",
+            "specialty": "Kids",
+            "qualification": "MBBS, MD (Pediatrics)",
+            "experience": "18 years",
+            "hospital": "Children's Health Center",
+            "address": "321 Kids Care Lane, East Side",
+            "phone": "+1-555-0201",
+            "whatsapp": "+15550201",
+            "email": "dr.ali@example.com",
+            "consultationFee": "$80",
+            "availability": "Mon-Sat, 9 AM - 7 PM",
+            "languages": [
+                "English",
+                "Arabic",
+                "Urdu"
+            ],
+            "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&h=400&fit=crop",
+            "rating": 4.9,
+            "reviews": 421,
+            "verified": true
+        },
+        {
+            "id": "d5",
+            "name": "Dr. Zainab Khan",
+            "specialty": "Kids",
+            "qualification": "MBBS, DCH (Child Health)",
+            "experience": "14 years",
+            "hospital": "Little Angels Pediatric Clinic",
+            "address": "654 Family Avenue, West District",
+            "phone": "+1-555-0202",
+            "whatsapp": "+15550202",
+            "email": "dr.zainab@example.com",
+            "consultationFee": "$75",
+            "availability": "Mon-Fri, 10 AM - 6 PM",
+            "languages": [
+                "English",
+                "Arabic"
+            ],
+            "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=400&h=400&fit=crop",
+            "rating": 4.8,
+            "reviews": 298,
+            "verified": true
+        },
+        {
+            "id": "d6",
+            "name": "Dr. Omar Ibrahim",
+            "specialty": "Kids",
+            "qualification": "MBBS, MD (Pediatrics), MRCPCH",
+            "experience": "16 years",
+            "hospital": "Noor Children's Hospital",
+            "address": "987 Care Center Road, Central",
+            "phone": "+1-555-0203",
+            "whatsapp": "+15550203",
+            "email": "dr.omar@example.com",
+            "consultationFee": "$90",
+            "availability": "Tue-Sat, 11 AM - 7 PM",
+            "languages": [
+                "English",
+                "Arabic",
+                "French"
+            ],
+            "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=400&h=400&fit=crop",
+            "rating": 5.0,
+            "reviews": 567,
+            "verified": true
+        },
+        {
+            "id": "d7",
+            "name": "Dr. Maryam Siddiqui",
+            "specialty": "Maternity",
+            "qualification": "MBBS, FCPS (Gynecology)",
+            "experience": "20 years",
+            "hospital": "Blessed Birth Center",
+            "address": "147 Maternity Drive, Green Valley",
+            "phone": "+1-555-0104",
+            "whatsapp": "+15550104",
+            "email": "dr.maryam@example.com",
+            "consultationFee": "$110",
+            "availability": "Mon-Sat, 8 AM - 4 PM",
+            "languages": [
+                "English",
+                "Urdu",
+                "Hindi"
+            ],
+            "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400&h=400&fit=crop",
+            "rating": 4.9,
+            "reviews": 389,
+            "verified": true
+        },
+        {
+            "id": "d8",
+            "name": "Dr. Hassan Malik",
+            "specialty": "Kids",
+            "qualification": "MBBS, FRCP (Pediatrics)",
+            "experience": "22 years",
+            "hospital": "Happy Kids Medical Center",
+            "address": "258 Smile Boulevard, Sunshine Area",
+            "phone": "+1-555-0204",
+            "whatsapp": "+15550204",
+            "email": "dr.hassan@example.com",
+            "consultationFee": "$95",
+            "availability": "Mon-Fri, 9 AM - 5 PM",
+            "languages": [
+                "English",
+                "Arabic"
+            ],
+            "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=400&h=400&fit=crop",
+            "rating": 4.8,
+            "reviews": 276,
+            "verified": true
+        }
+    ]
+}
