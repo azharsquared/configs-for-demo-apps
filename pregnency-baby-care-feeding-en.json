@@ -1,0 +1,336 @@
+{
+    "version": "1.0",
+    "lastUpdated": "2025-12-11",
+    "bannerImage": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=1200&h=400&fit=crop",
+    "introVideo": "https://www.youtube.com/watch?v=XhSKm2vyV7k",
+    "sections": {
+        "breastfeeding": {
+            "title": "Breastfeeding Guide",
+            "icon": "nutrition",
+            "videoGuide": "https://www.youtube.com/watch?v=R0dB8E5Zwsk",
+            "sections": [
+                {
+                    "heading": "First Hour After Birth (Golden Hour)",
+                    "content": "Place baby skin-to-skin immediately after birth. This helps with bonding and initiates breastfeeding. Baby will naturally search for the breast.",
+                    "videoUrl": "https://www.youtube.com/watch?v=PrI2sMRdaIk",
+                    "tips": [
+                        "Skin-to-skin contact for at least 1 hour",
+                        "Let baby latch naturally",
+                        "Don't worry if milk doesn't come immediately",
+                        "Colostrum (first milk) is enough for baby"
+                    ]
+                },
+                {
+                    "heading": "First Few Days (0-3 days)",
+                    "content": "Baby's stomach is very small (size of a cherry). Colostrum, the first thick yellowish milk, is perfect nutrition. Feed on demand, 8-12 times per day.",
+                    "videoUrl": "https://www.youtube.com/watch?v=wjmL42hVM4E",
+                    "tips": [
+                        "Feed every 2-3 hours",
+                        "Let baby feed 10-15 minutes per breast",
+                        "Don't give water or formula",
+                        "Normal to lose some weight initially"
+                    ]
+                },
+                {
+                    "heading": "First Week (3-7 days)",
+                    "content": "Milk comes in around day 3-5. Breasts will feel full and heavy. Baby should have 6-8 wet diapers and 3-4 dirty diapers per day.",
+                    "videoUrl": "https://www.youtube.com/watch?v=rV9hGMJ9YyE",
+                    "tips": [
+                        "Feed 8-12 times in 24 hours",
+                        "Burp baby after feeding",
+                        "Alternate starting breast",
+                        "Drink plenty of water yourself"
+                    ]
+                },
+                {
+                    "heading": "Islamic Sunnah",
+                    "content": "Prophet Muhammad (ﷺ) emphasized breastfeeding for 2 years. Quran mentions breastfeeding as a mother's right and baby's need.",
+                    "videoUrl": "https://www.youtube.com/watch?v=5-4CDftB_AU",
+                    "reference": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ (Mothers shall breastfeed their children for two complete years) - Surah Al-Baqarah 2:233",
+                    "audioRecitation": "https://www.youtube.com/watch?v=SgJz5KZS0X4"
+                }
+            ]
+        },
+        "feedingSchedule": {
+            "title": "Baby Feeding Schedule by Age",
+            "icon": "time",
+            "videoOverview": "https://www.youtube.com/watch?v=R0dB8E5Zwsk",
+            "ageGroups": [
+                {
+                    "age": "0-6 Months",
+                    "title": "Exclusive Breastfeeding/Formula",
+                    "description": "Only breast milk or formula. No water, juice, or solid foods needed.",
+                    "frequency": "On demand, 8-12 times per day",
+                    "amount": "2-4 oz per feeding (if formula)",
+                    "videoGuide": "https://www.youtube.com/watch?v=QqZPHDIAKVQ",
+                    "tips": [
+                        "Feed on demand, watch for hunger cues",
+                        "Breast milk is complete nutrition",
+                        "No need for additional water",
+                        "Growth spurts at 2 weeks, 6 weeks, 3 months"
+                    ]
+                },
+                {
+                    "age": "6-8 Months",
+                    "title": "Introduction to Solid Foods",
+                    "description": "Continue breastfeeding while introducing pureed foods. Start with single ingredients.",
+                    "frequency": "Breast/formula: 4-6 times + 1-2 solid meals",
+                    "videoGuide": "https://www.youtube.com/watch?v=gAK0s7e_Ems",
+                    "firstFoods": [
+                        "Rice cereal mixed with breast milk",
+                        "Pureed vegetables (carrots, sweet potato, squash)",
+                        "Pureed fruits (banana, avocado, apple)",
+                        "Start with 1-2 teaspoons, gradually increase"
+                    ],
+                    "tips": [
+                        "Introduce one food at a time (3-day rule)",
+                        "Watch for allergic reactions",
+                        "No honey before 1 year",
+                        "Make dua before feeding"
+                    ]
+                },
+                {
+                    "age": "8-10 Months",
+                    "title": "Expanding Food Variety",
+                    "description": "Introduce thicker textures and finger foods. Continue breastfeeding.",
+                    "videoGuide": "https://www.youtube.com/watch?v=kKH8tJqZKfI",
+                    "foods": [
+                        "Mashed vegetables and fruits",
+                        "Soft cooked pasta",
+                        "Small pieces of soft bread",
+                        "Scrambled eggs (if no allergy)",
+                        "Yogurt (full-fat, plain)",
+                        "Well-cooked lentils and beans"
+                    ],
+                    "tips": [
+                        "Offer 3 meals + 2 snacks",
+                        "Let baby self-feed",
+                        "Keep breastfeeding on demand",
+                        "Introduce sippy cup with water"
+                    ]
+                },
+                {
+                    "age": "10-12 Months",
+                    "title": "Family Foods",
+                    "description": "Baby can eat most family foods, chopped into small pieces. Transition to cup drinking.",
+                    "videoGuide": "https://www.youtube.com/watch?v=vVImV00S_IU",
+                    "foods": [
+                        "Chopped fruits and vegetables",
+                        "Rice, bread, pasta",
+                        "Meat, chicken, fish (deboned)",
+                        "Cheese and yogurt",
+                        "Halal foods from family table"
+                    ],
+                    "tips": [
+                        "Continue breastfeeding",
+                        "Avoid added salt and sugar",
+                        "No cow's milk until 1 year",
+                        "Establish routine meal times"
+                    ]
+                },
+                {
+                    "age": "12+ Months",
+                    "title": "Toddler Diet",
+                    "description": "Can eat all family foods. Continue breastfeeding as long as desired (Sunnah recommends up to 2 years).",
+                    "videoGuide": "https://www.youtube.com/watch?v=uI9gMEmd_yc",
+                    "foods": [
+                        "Full variety of halal foods",
+                        "Whole milk (after 1 year)",
+                        "3 main meals + 2-3 snacks",
+                        "Finger foods for independence"
+                    ],
+                    "tips": [
+                        "Encourage self-feeding",
+                        "Offer variety and balance",
+                        "Continue breastfeeding if desired",
+                        "Teach 'Bismillah' before eating"
+                    ]
+                }
+            ]
+        },
+        "postpartumMother": {
+            "title": "Postpartum Mother Care",
+            "icon": "heart",
+            "videoGuide": "https://www.youtube.com/watch?v=jFPdzUNUPbw",
+            "sections": [
+                {
+                    "heading": "First 40 Days (Nifas Period)",
+                    "content": "Focus on rest, recovery, and bonding with baby. Accept help from family. This is a special time in Islam.",
+                    "videoUrl": "https://www.youtube.com/watch?v=6P_bckL-vXw",
+                    "tips": [
+                        "Rest as much as possible - sleep when baby sleeps",
+                        "Eat nutritious, warm foods",
+                        "Stay hydrated - drink water frequently",
+                        "Accept help with housework",
+                        "Avoid heavy lifting and strenuous activity"
+                    ],
+                    "islamicNote": "During nifas (postpartum bleeding), you are excused from prayer. Make dhikr and dua instead.",
+                    "duaAudio": "https://www.youtube.com/watch?v=nsdIHK8O5yo"
+                },
+                {
+                    "heading": "Nutrition for Breastfeeding",
+                    "content": "Eat well to produce good milk and recover your strength. Islamic tradition recommends dates and specific foods.",
+                    "videoUrl": "https://www.youtube.com/watch?v=ErgZdxJ5ygk",
+                    "foods": [
+                        "Dates - Sunnah food, rich in iron",
+                        "Oatmeal - increases milk supply",
+                        "Almonds and nuts - healthy fats",
+                        "Chicken and meat - protein for recovery",
+                        "Vegetables and fruits - vitamins",
+                        "Plenty of water - 8-10 glasses daily"
+                    ],
+                    "avoidFoods": [
+                        "Excessive caffeine",
+                        "Very spicy foods (may upset baby)",
+                        "Alcohol (haram)",
+                        "Raw/undercooked foods"
+                    ]
+                },
+                {
+                    "heading": "Emotional Well-being",
+                    "content": "Postpartum emotions are normal. Hormones are adjusting. Reach out for support if feeling overwhelmed.",
+                    "videoUrl": "https://www.youtube.com/watch?v=L_x95J5m8QA",
+                    "tips": [
+                        "Talk to your spouse and family",
+                        "Make dua and dhikr regularly",
+                        "Join a mothers support group",
+                        "Don't hesitate to ask for help",
+                        "Consult doctor if feeling very sad or anxious"
+                    ],
+                    "dua": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، عَلَيْكَ تَوَكَّلْتُ (O Allah, You are my Lord, there is no deity except You, upon You I have relied)",
+                    "duaAudio": "https://www.youtube.com/watch?v=nsdIHK8O5yo"
+                }
+            ]
+        },
+        "babyCareEssentials": {
+            "title": "Newborn Care Basics",
+            "icon": "baby",
+            "videoOverview": "https://www.youtube.com/watch?v=HiJY6NSTGEU",
+            "topics": [
+                {
+                    "heading": "Bathing Baby",
+                    "content": "Wait until umbilical cord falls off (1-2 weeks). Give sponge baths until then.",
+                    "videoGuide": "https://www.youtube.com/watch?v=kFJGPT6IEho",
+                    "steps": [
+                        "Use warm (not hot) water",
+                        "Support baby's head and neck",
+                        "Clean face first with plain water",
+                        "Wash body gently with baby soap",
+                        "Dry thoroughly, especially creases",
+                        "Apply baby lotion if needed"
+                    ],
+                    "frequency": "2-3 times per week is enough for newborns"
+                },
+                {
+                    "heading": "Diaper Changing",
+                    "content": "Change diapers frequently to prevent rash. Say 'Bismillah' and make baby comfortable.",
+                    "videoGuide": "https://www.youtube.com/watch?v=9FlLHYkjLQU",
+                    "tips": [
+                        "Change every 2-3 hours when awake",
+                        "Clean thoroughly with wipes or water",
+                        "Pat dry before new diaper",
+                        "Apply diaper cream if rash appears",
+                        "Expect 6-8 wet diapers per day"
+                    ]
+                },
+                {
+                    "heading": "Sleep Safety",
+                    "content": "Always place baby on back to sleep. Room should be comfortable temperature.",
+                    "videoGuide": "https://www.youtube.com/watch?v=YKpIaH7MYDg",
+                    "tips": [
+                        "Back to sleep, always",
+                        "Firm mattress, no pillows or toys",
+                        "Room temperature 68-72°F",
+                        "Swaddle for comfort (arms in)",
+                        "Co-sleeping: follow safe guidelines"
+                    ],
+                    "islamicNote": "Recite Ayat al-Kursi and the last two verses of Surah Al-Baqarah for protection",
+                    "ayatKursiAudio": "https://www.youtube.com/watch?v=QdWuk8rM64E"
+                },
+                {
+                    "heading": "Umbilical Cord Care",
+                    "content": "Keep cord stump clean and dry. It will fall off in 1-3 weeks.",
+                    "videoGuide": "https://www.youtube.com/watch?v=M17Wp5cXRlY",
+                    "tips": [
+                        "Fold diaper below cord",
+                        "Clean base with water if dirty",
+                        "Let it air dry",
+                        "Don't pull it off - let it fall naturally",
+                        "Call doctor if red, swollen, or smelly"
+                    ]
+                },
+                {
+                    "heading": "When to Call Doctor",
+                    "content": "Trust your instincts. Call if you're worried. Better safe than sorry.",
+                    "videoGuide": "https://www.youtube.com/watch?v=U7g2gVV75WM",
+                    "urgentSigns": [
+                        "Fever over 100.4°F (38°C)",
+                        "Difficulty breathing or blue lips",
+                        "Not feeding well or very lethargic",
+                        "Fewer than 6 wet diapers in 24 hours",
+                        "Excessive vomiting or diarrhea",
+                        "Yellowing skin (jaundice, especially first week)"
+                    ]
+                }
+            ]
+        },
+        "islamicPractices": {
+            "title": "Islamic Newborn Practices",
+            "icon": "mosque",
+            "videoOverview": "https://www.youtube.com/watch?v=dTgRwN8ekG4",
+            "practices": [
+                {
+                    "name": "Adhan in Baby's Ear",
+                    "description": "Recite Adhan in right ear and Iqamah in left ear shortly after birth",
+                    "wisdom": "Baby's first words heard are about Allah's greatness",
+                    "videoGuide": "https://www.youtube.com/watch?v=pGVSp19UkxQ",
+                    "adhanAudio": "https://www.youtube.com/watch?v=7dW0TyNzIpg"
+                },
+                {
+                    "name": "Tahnik (Date Softening)",
+                    "description": "Soften a date and rub it on baby's palate",
+                    "timing": "Shortly after birth or on first day",
+                    "videoGuide": "https://www.youtube.com/watch?v=FFfJ4LYhGOw"
+                },
+                {
+                    "name": "Shaving Hair on 7th Day",
+                    "description": "Shave baby's birth hair and give charity equal to hair's weight in silver",
+                    "benefit": "Sunnah practice, promotes cleanliness",
+                    "videoGuide": "https://www.youtube.com/watch?v=9LtZ2lQJazY"
+                },
+                {
+                    "name": "Aqiqah (Sacrifice)",
+                    "description": "Sacrifice 2 sheep for boy, 1 for girl on 7th day",
+                    "purpose": "Gratitude to Allah, feed the poor",
+                    "videoGuide": "https://www.youtube.com/watch?v=Qa-_ZXgU7N0"
+                },
+                {
+                    "name": "Good Name",
+                    "description": "Choose a meaningful Islamic name within 7 days",
+                    "importance": "Child will be called by this name on Day of Judgment",
+                    "videoGuide": "https://www.youtube.com/watch?v=bHRUWJGSx9o"
+                },
+                {
+                    "name": "Circumcision (Boys)",
+                    "description": "Recommended on 7th day or shortly after",
+                    "benefit": "Part of fitrah (natural way)",
+                    "videoGuide": "https://www.youtube.com/watch?v=3XpJBVUDzRA"
+                }
+            ]
+        }
+    },
+    "additionalResources": {
+        "completeGuidePDF": {
+            "downloadUrl": "https://drive.google.com/file/d/babycare-complete-guide/view",
+            "description": "Complete baby care and feeding guide PDF"
+        },
+        "islamicParentingPlaylist": {
+            "youtubePlaylist": "https://www.youtube.com/playlist?list=PLwSVhj-wFF3_bslnKUd9_JH5dqFwEewOC",
+            "description": "Islamic baby care video series"
+        },
+        "breastfeedingSupportGroup": {
+            "facebookGroup": "https://www.facebook.com/groups/islamicbreastfeeding",
+            "description": "Online support for breastfeeding mothers"
+        }
+    }
+}
