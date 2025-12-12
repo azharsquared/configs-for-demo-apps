@@ -1,0 +1,46 @@
+{
+    "version": 1,
+    "messages": [
+        {
+            "id": "ayah_001",
+            "type": "ayah",
+            "title": "Daily Inspiration",
+            "arabic": "رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ الدُّعَاءِ",
+            "translation": "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.",
+            "reference": "Surah Al-Imran 3:38"
+        },
+        {
+            "id": "ayah_002",
+            "type": "ayah",
+            "title": "Verse of Comfort",
+            "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+            "translation": "And your Lord is going to give you, and you will be satisfied.",
+            "reference": "Surah Ad-Duhaa 93:5"
+        },
+        {
+            "id": "announcement_001",
+            "type": "announcement",
+            "title": "New Feature: Kick Counter",
+            "content": "Monitor your baby's health by tracking their movements. Try our new Kick Counter feature today!",
+            "actionLabel": "Try Now",
+            "actionLink": "KickCounter"
+        },
+        {
+            "id": "announcement_002",
+            "type": "announcement",
+            "title": "Update Available",
+            "content": "We have added new contraction timer features to help you prepare for the big day.",
+            "actionLabel": "Update",
+            "actionLink": "https://play.google.com/store/apps/details?id=com.noorparenting"
+        },
+        {
+            "id": "video_001",
+            "type": "video",
+            "title": "Wellness Tip",
+            "content": "5 Yoga poses for pregnancy back pain relief.",
+            "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+            "actionLabel": "Watch Video",
+            "actionLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+    ]
+}
