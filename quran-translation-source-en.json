@@ -4,7 +4,9 @@
      {
        "url":"http://api.alquran.cloud/v1/edition?type=translation",
        "priority":1,
-       "enable":"true"
+       "enable":"true",
+       "allowlist":[],
+       "ignore":[]
      }
   ]
 }
