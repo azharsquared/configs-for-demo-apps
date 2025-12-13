@@ -5,7 +5,7 @@
       "url": "http://api.alquran.cloud/v1/edition?type=translation",
       "priority": 1,
       "enable": "true",
-      "api_url": "https://api.alquran.cloud/v1/surah/{surah}/{edition}",
+      "download_api_url": "https://api.alquran.cloud/v1/surah/{surah}/{edition}",
       "allowlist": [],
       "ignore": []
     }
