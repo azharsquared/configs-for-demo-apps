@@ -1,0 +1,914 @@
+[
+  {
+    "number": 1,
+    "name": "سُورَةُ ٱلْفَاتِحَةِ",
+    "englishName": "അൽ-ഫാത്തിഹ",
+    "englishNameTranslation": "ആമുഖം",
+    "numberOfAyahs": 7,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 2,
+    "name": "سُورَةُ البَقَرَةِ",
+    "englishName": "അൽ-ബഖറ",
+    "englishNameTranslation": "പശു",
+    "numberOfAyahs": 286,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 3,
+    "name": "سُورَةُ آلِ عِمۡرَانَ",
+    "englishName": "ആലു ഇംറാൻ",
+    "englishNameTranslation": "ഇംറാൻ കുടുംബം",
+    "numberOfAyahs": 200,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 4,
+    "name": "سُورَةُ النِّسَاءِ",
+    "englishName": "അൻ-നിസാ",
+    "englishNameTranslation": "സ്ത്രീകൾ",
+    "numberOfAyahs": 176,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 5,
+    "name": "سُورَةُ المَائـِدَةِ",
+    "englishName": "അൽ-മാഇദ",
+    "englishNameTranslation": "ഭക്ഷണത്തളിക",
+    "numberOfAyahs": 120,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 6,
+    "name": "سُورَةُ الأَنۡعَامِ",
+    "englishName": "അൽ-അൻആം",
+    "englishNameTranslation": "കന്നുകാലികൾ",
+    "numberOfAyahs": 165,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 7,
+    "name": "سُورَةُ الأَعۡرَافِ",
+    "englishName": "അൽ-അഅ്റാഫ്",
+    "englishNameTranslation": "ഉന്നത സ്ഥലങ്ങൾ",
+    "numberOfAyahs": 206,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 8,
+    "name": "سُورَةُ الأَنفَالِ",
+    "englishName": "അൽ-അൻഫാൽ",
+    "englishNameTranslation": "യുദ്ധമുതലുകൾ",
+    "numberOfAyahs": 75,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 9,
+    "name": "سُورَةُ التَّوۡبَةِ",
+    "englishName": "അത്തൗബ",
+    "englishNameTranslation": "പശ്ചാത്താപം",
+    "numberOfAyahs": 129,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 10,
+    "name": "سُورَةُ يُونُسَ",
+    "englishName": "യൂനുസ്",
+    "englishNameTranslation": "പ്രവാചകൻ യൂനുസ്",
+    "numberOfAyahs": 109,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 11,
+    "name": "سُورَةُ هُودٍ",
+    "englishName": "ഹൂദ്",
+    "englishNameTranslation": "പ്രവാചകൻ ഹൂദ്",
+    "numberOfAyahs": 123,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 12,
+    "name": "سُورَةُ يُوسُفَ",
+    "englishName": "യൂസുഫ്",
+    "englishNameTranslation": "പ്രവാചകൻ യൂസുഫ്",
+    "numberOfAyahs": 111,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 13,
+    "name": "سُورَةُ الرَّعۡدِ",
+    "englishName": "അർ-റഅ്ദ്",
+    "englishNameTranslation": "ഇടിനാദം",
+    "numberOfAyahs": 43,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 14,
+    "name": "سُورَةُ إِبۡرَاهِيمَ",
+    "englishName": "ഇബ്രാഹിം",
+    "englishNameTranslation": "പ്രവാചകൻ ഇബ്രാഹിം",
+    "numberOfAyahs": 52,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 15,
+    "name": "سُورَةُ الحِجۡرِ",
+    "englishName": "അൽ-ഹിജ്ർ",
+    "englishNameTranslation": "പാറക്കെട്ട്",
+    "numberOfAyahs": 99,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 16,
+    "name": "سُورَةُ النَّحۡلِ",
+    "englishName": "അന്നഹ്ല്",
+    "englishNameTranslation": "തേനീച്ച",
+    "numberOfAyahs": 128,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 17,
+    "name": "سُورَةُ الإِسۡرَاءِ",
+    "englishName": "അൽ-ഇസ്റാഅ്",
+    "englishNameTranslation": "രാപ്രയാണം",
+    "numberOfAyahs": 111,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 18,
+    "name": "سُورَةُ الكَهۡفِ",
+    "englishName": "അൽ-കഹ്ഫ്",
+    "englishNameTranslation": "ഗുഹ",
+    "numberOfAyahs": 110,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 19,
+    "name": "سُورَةُ مَرۡيَمَ",
+    "englishName": "മർയം",
+    "englishNameTranslation": "ബീവി മർയം",
+    "numberOfAyahs": 98,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 20,
+    "name": "سُورَةُ طه",
+    "englishName": "ത്വാഹാ",
+    "englishNameTranslation": "ത്വാഹാ",
+    "numberOfAyahs": 135,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 21,
+    "name": "سُورَةُ الأَنبِيَاءِ",
+    "englishName": "അൽ-അൻബിയാ",
+    "englishNameTranslation": "പ്രവാചകന്മാർ",
+    "numberOfAyahs": 112,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 22,
+    "name": "سُورَةُ الحَجِّ",
+    "englishName": "അൽ-ഹജ്ജ്",
+    "englishNameTranslation": "തീർത്ഥാടനം",
+    "numberOfAyahs": 78,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 23,
+    "name": "سُورَةُ المُؤۡمِنُونَ",
+    "englishName": "അൽ-മുഅ്മിനൂൻ",
+    "englishNameTranslation": "സത്യവിശ്വാസികൾ",
+    "numberOfAyahs": 118,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 24,
+    "name": "سُورَةُ النُّورِ",
+    "englishName": "അന്നൂർ",
+    "englishNameTranslation": "പ്രകാശം",
+    "numberOfAyahs": 64,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 25,
+    "name": "سُورَةُ الفُرۡقَانِ",
+    "englishName": "അൽ-ഫുർഖാൻ",
+    "englishNameTranslation": "സത്യാസത്യവിവേചനം",
+    "numberOfAyahs": 77,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 26,
+    "name": "سُورَةُ الشُّعَرَاءِ",
+    "englishName": "അശ്ശുഅറാ",
+    "englishNameTranslation": "കവികൾ",
+    "numberOfAyahs": 227,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 27,
+    "name": "سُورَةُ النَّمۡلِ",
+    "englishName": "അന്നംല്",
+    "englishNameTranslation": "ഉറുമ്പ്",
+    "numberOfAyahs": 93,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 28,
+    "name": "سُورَةُ القَصَصِ",
+    "englishName": "അൽ-ഖസ്വസ്",
+    "englishNameTranslation": "ചരിത്രകഥകൾ",
+    "numberOfAyahs": 88,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 29,
+    "name": "سُورَةُ العَنكَبُوتِ",
+    "englishName": "അൽ-അൻകബൂത്ത്",
+    "englishNameTranslation": "എട്ടുകാലി",
+    "numberOfAyahs": 69,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 30,
+    "name": "سُورَةُ الرُّومِ",
+    "englishName": "അർ-റൂം",
+    "englishNameTranslation": "റോമക്കാർ",
+    "numberOfAyahs": 60,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 31,
+    "name": "سُورَةُ لُقۡمَانَ",
+    "englishName": "ലുഖ്മാൻ",
+    "englishNameTranslation": "ലുഖ്മാൻ",
+    "numberOfAyahs": 34,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 32,
+    "name": "سُورَةُ السَّجۡدَةِ",
+    "englishName": "അസ്സജദ",
+    "englishNameTranslation": "സാഷ്ടാംഗ പ്രണാമം",
+    "numberOfAyahs": 30,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 33,
+    "name": "سُورَةُ الأَحۡزَابِ",
+    "englishName": "അൽ-അഹ്സാബ്",
+    "englishNameTranslation": "സഖ്യകക്ഷികൾ",
+    "numberOfAyahs": 73,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 34,
+    "name": "سُورَةُ سَبَإٍ",
+    "englishName": "സബഅ്",
+    "englishNameTranslation": "സബഅ് ദേശം",
+    "numberOfAyahs": 54,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 35,
+    "name": "سُورَةُ فَاطِرٍ",
+    "englishName": "ഫാത്വിർ",
+    "englishNameTranslation": "പ്രപഞ്ചസ്രഷ്ടാവ്",
+    "numberOfAyahs": 45,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 36,
+    "name": "سُورَةُ يسٓ",
+    "englishName": "യാസീൻ",
+    "englishNameTranslation": "യാസീൻ",
+    "numberOfAyahs": 83,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 37,
+    "name": "سُورَةُ الصَّافَّاتِ",
+    "englishName": "അസ്വാഫാത്ത്",
+    "englishNameTranslation": "ണിനിരന്നവർ",
+    "numberOfAyahs": 182,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 38,
+    "name": "سُورَةُ صٓ",
+    "englishName": "സ്വാദ്",
+    "englishNameTranslation": "സ്വാദ്",
+    "numberOfAyahs": 88,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 39,
+    "name": "سُورَةُ الزُّمَرِ",
+    "englishName": "അസ്സുമർ",
+    "englishNameTranslation": "കൂട്ടങ്ങൾ",
+    "numberOfAyahs": 75,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 40,
+    "name": "سُورَةُ غَافِرٍ",
+    "englishName": "ഗാഫിർ",
+    "englishNameTranslation": "പാപം പൊറുക്കുന്നവൻ",
+    "numberOfAyahs": 85,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 41,
+    "name": "سُورَةُ فُصِّلَتۡ",
+    "englishName": "ഫുസ്സിലത്ത്",
+    "englishNameTranslation": "വിശദമാക്കപ്പെട്ടത്",
+    "numberOfAyahs": 54,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 42,
+    "name": "سُورَةُ الشُّورَىٰ",
+    "englishName": "അശ്ശൂറാ",
+    "englishNameTranslation": "കൂടിയാലോചന",
+    "numberOfAyahs": 53,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 43,
+    "name": "سُورَةُ الزُّخۡرُفِ",
+    "englishName": "അസ്സുഖ്റുഫ്",
+    "englishNameTranslation": "സ്വർണ്ണാലങ്കാരം",
+    "numberOfAyahs": 89,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 44,
+    "name": "سُورَةُ الدُّخَانِ",
+    "englishName": "അദ്ദുഖാൻ",
+    "englishNameTranslation": "പുക",
+    "numberOfAyahs": 59,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 45,
+    "name": "سُورَةُ الجَاثِيَةِ",
+    "englishName": "അൽ-ജാഥിയ",
+    "englishNameTranslation": "മുട്ടുകുത്തിയവർ",
+    "numberOfAyahs": 37,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 46,
+    "name": "سُورَةُ الأَحۡقَافِ",
+    "englishName": "അൽ-അഹ്ഖാഫ്",
+    "englishNameTranslation": "മണൽക്കൂനകൾ",
+    "numberOfAyahs": 35,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 47,
+    "name": "سُورَةُ مُحَمَّدٍ",
+    "englishName": "മുഹമ്മദ്‌",
+    "englishNameTranslation": "മുഹമ്മദ്‌",
+    "numberOfAyahs": 38,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 48,
+    "name": "سُورَةُ الفَتۡحِ",
+    "englishName": "അൽ-ഫത്ഹ്",
+    "englishNameTranslation": "വിജയം",
+    "numberOfAyahs": 29,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 49,
+    "name": "سُورَةُ الحُجُرَاتِ",
+    "englishName": "അൽ-ഹുജുറാത്ത്",
+    "englishNameTranslation": "അറകൾ",
+    "numberOfAyahs": 18,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 50,
+    "name": "سُورَةُ قٓ",
+    "englishName": "ഖാഫ്",
+    "englishNameTranslation": "ഖാഫ്",
+    "numberOfAyahs": 45,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 51,
+    "name": "سُورَةُ الذَّارِيَاتِ",
+    "englishName": "അദ്ധാരിയാത്ത്",
+    "englishNameTranslation": "കാറ്റുകൾ",
+    "numberOfAyahs": 60,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 52,
+    "name": "سُورَةُ الطُّورِ",
+    "englishName": "അത്തൂർ",
+    "englishNameTranslation": "പർവ്വതം",
+    "numberOfAyahs": 49,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 53,
+    "name": "سُورَةُ النَّجۡمِ",
+    "englishName": "അന്നജ്മ്",
+    "englishNameTranslation": "നക്ഷത്രം",
+    "numberOfAyahs": 62,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 54,
+    "name": "سُورَةُ القَمَرِ",
+    "englishName": "അൽ-ഖമർ",
+    "englishNameTranslation": "ചന്ദ്രൻ",
+    "numberOfAyahs": 55,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 55,
+    "name": "سُورَةُ الرَّحۡمَٰن",
+    "englishName": "അർ-റഹ്മാൻ",
+    "englishNameTranslation": "പരമകാരുണികൻ",
+    "numberOfAyahs": 78,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 56,
+    "name": "سُورَةُ الوَاقِعَةِ",
+    "englishName": "അൽ-വാഖിഅ",
+    "englishNameTranslation": "സംഭവിക്കാനുള്ളത്",
+    "numberOfAyahs": 96,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 57,
+    "name": "سُورَةُ الحَدِيدِ",
+    "englishName": "അൽ-ഹദീദ്",
+    "englishNameTranslation": "ഇരുമ്പ്",
+    "numberOfAyahs": 29,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 58,
+    "name": "سُورَةُ المُجَادلَةِ",
+    "englishName": "അൽ-മുജാദില",
+    "englishNameTranslation": "തർക്കിക്കുന്നവൾ",
+    "numberOfAyahs": 22,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 59,
+    "name": "سُورَةُ الحَشۡرِ",
+    "englishName": "അൽ-ഹഷർ",
+    "englishNameTranslation": "തുരത്തിയോടിക്കൽ",
+    "numberOfAyahs": 24,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 60,
+    "name": "سُورَةُ المُمۡتَحنَةِ",
+    "englishName": "അൽ-മുംതഹന",
+    "englishNameTranslation": "പരീക്ഷിക്കപ്പെടുന്നവൾ",
+    "numberOfAyahs": 13,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 61,
+    "name": "سُورَةُ الصَّفِّ",
+    "englishName": "അസ്വഫ്",
+    "englishNameTranslation": "അണിനിരക്കൽ",
+    "numberOfAyahs": 14,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 62,
+    "name": "سُورَةُ الجُمُعَةِ",
+    "englishName": "അൽ-ജുമുഅ",
+    "englishNameTranslation": "വെള്ളിയാഴ്ച",
+    "numberOfAyahs": 11,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 63,
+    "name": "سُورَةُ المُنَافِقُونَ",
+    "englishName": "അൽ-മുനാഫിഖൂൻ",
+    "englishNameTranslation": "കപടവിശ്വാസികൾ",
+    "numberOfAyahs": 11,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 64,
+    "name": "سُورَةُ التَّغَابُنِ",
+    "englishName": "അത്തഗാബുൻ",
+    "englishNameTranslation": "നഷ്ടം വെളിപ്പെടൽ",
+    "numberOfAyahs": 18,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 65,
+    "name": "سُورَةُ الطَّلَاقِ",
+    "englishName": "അത്തലാഖ്",
+    "englishNameTranslation": "വിവാഹമോചനം",
+    "numberOfAyahs": 12,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 66,
+    "name": "سُورَةُ التَّحۡرِيمِ",
+    "englishName": "അത്തഹ്രീം",
+    "englishNameTranslation": "നിഷിദ്ധമാക്കൽ",
+    "numberOfAyahs": 12,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "അൽ-മുൽക്ക്",
+    "englishNameTranslation": "ആധിപത്യം",
+    "numberOfAyahs": 30,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 68,
+    "name": "سُورَةُ القَلَمِ",
+    "englishName": "അൽ-ഖലം",
+    "englishNameTranslation": "പേന",
+    "numberOfAyahs": 52,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 69,
+    "name": "سُورَةُ الحَاقَّةِ",
+    "englishName": "അൽ-ഹാഖ",
+    "englishNameTranslation": "യഥാർത്ഥ സംഭവം",
+    "numberOfAyahs": 52,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 70,
+    "name": "سُورَةُ المَعَارِجِ",
+    "englishName": "അൽ-മആരിജ്",
+    "englishNameTranslation": "കയറുന്ന വഴികൾ",
+    "numberOfAyahs": 44,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "നൂഹ്",
+    "englishNameTranslation": "നൂഹ്",
+    "numberOfAyahs": 28,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 72,
+    "name": "سُورَةُ الجِنِّ",
+    "englishName": "അൽ-ജിന്ന്",
+    "englishNameTranslation": "ജിന്നുകൾ",
+    "numberOfAyahs": 28,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 73,
+    "name": "سُورَةُ المُزَّمِّلِ",
+    "englishName": "അൽ-മുസ്സമ്മിൽ",
+    "englishNameTranslation": "പുതച്ചു മൂടിയവൻ",
+    "numberOfAyahs": 20,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 74,
+    "name": "سُورَةُ المُدَّثِّرِ",
+    "englishName": "അൽ-മുദ്ദസ്സിർ",
+    "englishNameTranslation": "വസ്ത്രം പൊതിഞ്ഞവൻ",
+    "numberOfAyahs": 56,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 75,
+    "name": "سُورَةُ القِيَامَةِ",
+    "englishName": "അൽ-ഖിയാമ",
+    "englishNameTranslation": "ഉയിർത്തെഴുന്നേൽപ്പ്",
+    "numberOfAyahs": 40,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 76,
+    "name": "سُورَةُ الإِنسَانِ",
+    "englishName": "അൽ-ഇൻസാൻ",
+    "englishNameTranslation": "മനുഷ്യൻ",
+    "numberOfAyahs": 31,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 77,
+    "name": "سُورَةُ المُرۡسَلَاتِ",
+    "englishName": "അൽ-മുർസലാത്ത്",
+    "englishNameTranslation": "അയക്കപ്പെടുന്നവ",
+    "numberOfAyahs": 50,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 78,
+    "name": "سُورَةُ النَّبَإِ",
+    "englishName": "അന്നബഅ്",
+    "englishNameTranslation": "വാർത്ത",
+    "numberOfAyahs": 40,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 79,
+    "name": "سُورَةُ النَّازِعَاتِ",
+    "englishName": "അന്നാസിആത്ത്",
+    "englishNameTranslation": "ഊരിയെടുക്കുന്നവർ",
+    "numberOfAyahs": 46,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 80,
+    "name": "سُورَةُ عَبَسَ",
+    "englishName": "അബസ",
+    "englishNameTranslation": "മുഖം ചുളിച്ചു",
+    "numberOfAyahs": 42,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 81,
+    "name": "سُورَةُ التَّكۡوِيرِ",
+    "englishName": "അത്തക്വീർ",
+    "englishNameTranslation": " ചുരുട്ടിപ്പൊതിയൽ",
+    "numberOfAyahs": 29,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 82,
+    "name": "سُورَةُ الانفِطَارِ",
+    "englishName": "അൽ-ഇൻഫിതാർ",
+    "englishNameTranslation": "പൊട്ടിപ്പിലരൽ",
+    "numberOfAyahs": 19,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 83,
+    "name": "سُورَةُ المُطَفِّفِينَ",
+    "englishName": "അൽ-മുത്വഫ്ഫിഫീൻ",
+    "englishNameTranslation": "അളവിൽ കുറക്കുന്നവർ",
+    "numberOfAyahs": 36,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 84,
+    "name": "سُورَةُ الانشِقَاقِ",
+    "englishName": "അൽ-ഇൻഷിഖാഖ്",
+    "englishNameTranslation": "പൊട്ടിപ്പിളരൽ",
+    "numberOfAyahs": 25,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 85,
+    "name": "سُورَةُ البُرُوجِ",
+    "englishName": "അൽ-ബുറൂജ്",
+    "englishNameTranslation": "നക്ഷത്രമണ്ഡലങ്ങൾ",
+    "numberOfAyahs": 22,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 86,
+    "name": "سُورَةُ الطَّارِقِ",
+    "englishName": "അത്താരിഖ്",
+    "englishNameTranslation": "രാത്രി വരുന്നവൻ",
+    "numberOfAyahs": 17,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 87,
+    "name": "سُورَةُ الأَعۡلَىٰ",
+    "englishName": "അൽ-അഅ്‌ലാ",
+    "englishNameTranslation": "അത്യുന്നതൻ",
+    "numberOfAyahs": 19,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 88,
+    "name": "سُورَةُ الغَاشِيَةِ",
+    "englishName": "അൽ-ഗാശിയ",
+    "englishNameTranslation": "മൂടിക്കളയുന്ന സംഭവം",
+    "numberOfAyahs": 26,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 89,
+    "name": "سُورَةُ الفَجۡرِ",
+    "englishName": "അൽ-ഫജ്ർ",
+    "englishNameTranslation": "പ്രഭാതം",
+    "numberOfAyahs": 30,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 90,
+    "name": "سُورَةُ البَلَدِ",
+    "englishName": "അൽ-ബലദ്",
+    "englishNameTranslation": "നാട് (പട്ടണം)",
+    "numberOfAyahs": 20,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 91,
+    "name": "سُورَةُ الشَّمۡسِ",
+    "englishName": "അശ്ശംസ്",
+    "englishNameTranslation": "സൂര്യൻ",
+    "numberOfAyahs": 15,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 92,
+    "name": "سُورَةُ اللَّيۡلِ",
+    "englishName": "അല്ലൈൽ",
+    "englishNameTranslation": "രാത്രി",
+    "numberOfAyahs": 21,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 93,
+    "name": "سُورَةُ الضُّحَىٰ",
+    "englishName": "അള്ളുഹാ",
+    "englishNameTranslation": "പൂർവ്വാഹ്നം",
+    "numberOfAyahs": 11,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 94,
+    "name": "سُورَةُ الشَّرۡحِ",
+    "englishName": "അശ്ശർഹ്",
+    "englishNameTranslation": "വിശാലമാക്കൽ",
+    "numberOfAyahs": 8,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 95,
+    "name": "سُورَةُ التِّينِ",
+    "englishName": "അത്തീൻ",
+    "englishNameTranslation": "അത്തിപ്പഴം",
+    "numberOfAyahs": 8,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 96,
+    "name": "سُورَةُ العَلَقِ",
+    "englishName": "അൽ-അലഖ്",
+    "englishNameTranslation": "രക്തക്കട്ട",
+    "numberOfAyahs": 19,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 97,
+    "name": "سُورَةُ القَدۡرِ",
+    "englishName": "അൽ-ഖദ്ർ",
+    "englishNameTranslation": "നിർണ്ണയം",
+    "numberOfAyahs": 5,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 98,
+    "name": "سُورَةُ البَيِّنَةِ",
+    "englishName": "അൽ-ബയ്യിന",
+    "englishNameTranslation": "വ്യക്തമായ തെളിവ്",
+    "numberOfAyahs": 8,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 99,
+    "name": "سُورَةُ الزَّلۡزَلَةِ",
+    "englishName": "അസ്സൽസല",
+    "englishNameTranslation": "ഭൂകമ്പം",
+    "numberOfAyahs": 8,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 100,
+    "name": "سُورَةُ العَادِيَاتِ",
+    "englishName": "അൽ-ആദിയാത്ത്",
+    "englishNameTranslation": "ഓടിക്കിതക്കുന്നവ",
+    "numberOfAyahs": 11,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 101,
+    "name": "سُورَةُ القَارِعَةِ",
+    "englishName": "അൽ-ഖാരിഅ",
+    "englishNameTranslation": "ഭയങ്കരമായ സംഭവം",
+    "numberOfAyahs": 11,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 102,
+    "name": "سُورَةُ التَّكَاثُرِ",
+    "englishName": "അത്തകാഥുർ",
+    "englishNameTranslation": "പെരുമ നടിക്കൽ",
+    "numberOfAyahs": 8,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 103,
+    "name": "سُورَةُ العَصۡرِ",
+    "englishName": "അൽ-അസ്വ്‌ർ",
+    "englishNameTranslation": "കാലം",
+    "numberOfAyahs": 3,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 104,
+    "name": "سُورَةُ الهُمَزَةِ",
+    "englishName": "അൽ-ഹുമസ",
+    "englishNameTranslation": "കുത്തുവാക്ക് പറയുന്നവൻ",
+    "numberOfAyahs": 9,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 105,
+    "name": "سُورَةُ الفِيلِ",
+    "englishName": "അൽ-ഫീൽ",
+    "englishNameTranslation": "ആന",
+    "numberOfAyahs": 5,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 106,
+    "name": "سُورَةُ قُرَيۡشٍ",
+    "englishName": "ഖുറൈശ്",
+    "englishNameTranslation": "ഖുറൈശികൾ",
+    "numberOfAyahs": 4,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 107,
+    "name": "سُورَةُ المَاعُونِ",
+    "englishName": "അൽ-മാഊൻ",
+    "englishNameTranslation": "പരോപകാരവസ്തുക്കൾ",
+    "numberOfAyahs": 7,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 108,
+    "name": "سُورَةُ الكَوۡثَرِ",
+    "englishName": "അൽ-കൗഥർ",
+    "englishNameTranslation": "ധാരാളം നന്മ",
+    "numberOfAyahs": 3,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 109,
+    "name": "سُورَةُ الكَافِرُونَ",
+    "englishName": "അൽ-കാഫിറൂൻ",
+    "englishNameTranslation": "സത്യനിഷേധികൾ",
+    "numberOfAyahs": 6,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 110,
+    "name": "سُورَةُ النَّصۡرِ",
+    "englishName": "അന്നസ്വ്‌ർ",
+    "englishNameTranslation": "സഹായം",
+    "numberOfAyahs": 3,
+    "revelationType": "മദീന"
+  },
+  {
+    "number": 111,
+    "name": "سُورَةُ المَسَدِ",
+    "englishName": "അൽ-മസദ്",
+    "englishNameTranslation": "ഈന്തപ്പനനാര്",
+    "numberOfAyahs": 5,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "englishName": "അൽ-ഇഖ്ലാസ്",
+    "englishNameTranslation": "നിഷ്കളങ്കത",
+    "numberOfAyahs": 4,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 113,
+    "name": "سُورَةُ الفَلَقِ",
+    "englishName": "അൽ-ഫലഖ്",
+    "englishNameTranslation": "പുലരി",
+    "numberOfAyahs": 5,
+    "revelationType": "മക്ക"
+  },
+  {
+    "number": 114,
+    "name": "سُورَةُ النَّاسِ",
+    "englishName": "അന്നാസ്",
+    "englishNameTranslation": "ജനങ്ങൾ",
+    "numberOfAyahs": 6,
+    "revelationType": "മക്ക"
+  }
+]
