@@ -1,12 +1,13 @@
 {
-  "version":1,
-  "sources":[
-     {
-       "url":"http://api.alquran.cloud/v1/edition?type=translation",
-       "priority":1,
-       "enable":"true",
-       "allowlist":[],
-       "ignore":[]
-     }
+  "version": 1,
+  "sources": [
+    {
+      "url": "http://api.alquran.cloud/v1/edition?type=translation",
+      "priority": 1,
+      "enable": "true",
+      "api_url": "https://api.alquran.cloud/v1/surah/{surah}/{edition}",
+      "allowlist": [],
+      "ignore": []
+    }
   ]
 }
