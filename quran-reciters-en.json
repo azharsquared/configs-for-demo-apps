@@ -1,0 +1,22 @@
+{
+    "reciters": {
+        "list_url": "http://api.alquran.cloud/v1/edition?format=audio&type=versebyverse",
+        "method": "GET",
+        "description": "Fetch list of available audio reciters"
+    },
+    "translations": {
+        "config_source_url": "https://raw.githubusercontent.com/azharsquared/configs-for-demo-apps/refs/heads/main/quran-translation-source-en.json",
+        "list_url_fallback": "http://api.alquran.cloud/v1/edition?type=translation",
+        "text_download_url_template": "https://api.alquran.cloud/v1/surah/{surah}/{edition}",
+        "full_download_url_template": "https://api.alquran.cloud/v1/quran/{edition}"
+    },
+    "metadata": {
+        "surah_list_url_template": "https://raw.githubusercontent.com/azharsquared/configs-for-demo-apps/refs/heads/main/quran-metadata-{lang}.json"
+    },
+    "audio": {
+        "surah_stream_url_template": "https://cdn.islamic.network/quran/audio-surah/128/{reciter}/{surah}.mp3",
+        "ayah_stream_url_template": "https://cdn.islamic.network/quran/audio/128/{reciter}/{global_ayah_id}.mp3",
+        "ayah_api_url_template": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/{reciter}",
+        "note": "global_ayah_id is the cumulative ayah number (1-6236). ayah_api_url returns the audio URL in response."
+    }
+}
