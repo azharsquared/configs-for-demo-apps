@@ -1,4 +1,5 @@
-[
+{
+  "categories": [
   {
     "categoryId": "44",
     "nameInEnglish": " category with id [ph]44",
@@ -687,3 +688,4 @@
     "assumedTime": "01:30"
   }
 ]
+}
