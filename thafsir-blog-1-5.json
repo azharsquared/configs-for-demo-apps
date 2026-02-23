@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "data": {
+    "surah": 1,
+    "ayah": 5,
+    "content": [
+      {
+        "id": "vid_101",
+        "type": "video",
+        "title": "Deep Dive: The Greatness of Ayatul Kursi",
+        "author": "Sheikh Example",
+        "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "mediaUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "metadata": "15 min watch",
+        "summary": "A comprehensive linguistic breakdown of the most powerful verse."
+      },
+      {
+        "id": "blog_205",
+        "type": "article",
+        "title": "Understanding the Throne (Al-Kursi)",
+        "author": "QuranWeekly",
+        "thumbnailUrl": "https://example.com/images/throne-article.jpg",
+        "mediaUrl": "https://ayath.org/ml",
+        "metadata": "6 min read",
+        "summary": "Exploring the theological themes of this verse."
+      }
+    ]
+  }
+}
