@@ -1,0 +1,278 @@
+{
+  "version": "1.0.0",
+  "status": "success",
+  "message": "Data retrieved successfully",
+  "updatedAt": "2026-02-23T10:11:49.210Z",
+  "data": [
+    {
+      "id": "bn-tafisr-fathul-majid",
+      "name": "Tafsir Fathul Majid",
+      "author": "AbdulRahman Bin Hasan Al-Alshaikh",
+      "language": "bengali",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/bn-tafisr-fathul-majid/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/bn-tafisr-fathul-majid/{surah}.json"
+    },
+    {
+      "id": "en-tafisr-ibn-kathir",
+      "name": "Tafsir Ibn Kathir (abridged)",
+      "author": "Hafiz Ibn Kathir",
+      "language": "english",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-tafisr-ibn-kathir/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-tafisr-ibn-kathir/{surah}.json"
+    },
+    {
+      "id": "ar-tafsir-ibn-kathir",
+      "name": "Tafsir Ibn Kathir",
+      "author": "Hafiz Ibn Kathir",
+      "language": "arabic",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafsir-ibn-kathir/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafsir-ibn-kathir/{surah}.json"
+    },
+    {
+      "id": "bn-tafseer-ibn-e-kaseer",
+      "name": "Tafseer ibn Kathir",
+      "author": "Tawheed Publication",
+      "language": "bengali",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/bn-tafseer-ibn-e-kaseer/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/bn-tafseer-ibn-e-kaseer/{surah}.json"
+    },
+    {
+      "id": "bn-tafsir-ahsanul-bayaan",
+      "name": "Tafsir Ahsanul Bayaan",
+      "author": "Bayaan Foundation",
+      "language": "bengali",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/bn-tafsir-ahsanul-bayaan/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/bn-tafsir-ahsanul-bayaan/{surah}.json"
+    },
+    {
+      "id": "bn-tafsir-abu-bakr-zakaria",
+      "name": "Tafsir Abu Bakr Zakaria",
+      "author": "King Fahd Quran Printing Complex",
+      "language": "bengali",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/bn-tafsir-abu-bakr-zakaria/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/bn-tafsir-abu-bakr-zakaria/{surah}.json"
+    },
+    {
+      "id": "en-tafsir-maarif-ul-quran",
+      "name": "Maarif-ul-Quran",
+      "author": "Mufti Muhammad Shafi",
+      "language": "english",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-tafsir-maarif-ul-quran/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-tafsir-maarif-ul-quran/{surah}.json"
+    },
+    {
+      "id": "ru-tafseer-al-saddi",
+      "name": "Tafseer Al Saddi",
+      "author": "Saddi",
+      "language": "russian",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ru-tafseer-al-saddi/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ru-tafseer-al-saddi/{surah}.json"
+    },
+    {
+      "id": "ar-tafseer-al-saddi",
+      "name": "Tafseer Al Saddi",
+      "author": "Saddi",
+      "language": "arabic",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafseer-al-saddi/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafseer-al-saddi/{surah}.json"
+    },
+    {
+      "id": "ar-tafsir-al-baghawi",
+      "name": "Tafseer Al-Baghawi",
+      "author": "Baghawy",
+      "language": "arabic",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafsir-al-baghawi/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafsir-al-baghawi/{surah}.json"
+    },
+    {
+      "id": "ar-tafseer-tanwir-al-miqbas",
+      "name": "Tafseer Tanwir al-Miqbas",
+      "author": "Tanweer",
+      "language": "arabic",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafseer-tanwir-al-miqbas/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafseer-tanwir-al-miqbas/{surah}.json"
+    },
+    {
+      "id": "ar-tafsir-al-wasit",
+      "name": "Tafsir Al Wasit",
+      "author": "Waseet",
+      "language": "arabic",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafsir-al-wasit/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafsir-al-wasit/{surah}.json"
+    },
+    {
+      "id": "ar-tafsir-al-tabari",
+      "name": "Tafsir al-Tabari",
+      "author": "Tabari",
+      "language": "arabic",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafsir-al-tabari/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafsir-al-tabari/{surah}.json"
+    },
+    {
+      "id": "ar-tafsir-muyassar",
+      "name": "Tafsir Muyassar",
+      "author": "المیسر",
+      "language": "arabic",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafsir-muyassar/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafsir-muyassar/{surah}.json"
+    },
+    {
+      "id": "ar-tafseer-al-qurtubi",
+      "name": "Tafseer Al Qurtubi",
+      "author": "Qurtubi",
+      "language": "arabic",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafseer-al-qurtubi/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ar-tafseer-al-qurtubi/{surah}.json"
+    },
+    {
+      "id": "kurd-tafsir-rebar",
+      "name": "Rebar Kurdish Tafsir",
+      "author": "Rebar Kurdish Tafsir",
+      "language": "Kurdish",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/kurd-tafsir-rebar/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/kurd-tafsir-rebar/{surah}.json"
+    },
+    {
+      "id": "ur-tafseer-ibn-e-kaseer",
+      "name": "Tafsir Ibn Kathir",
+      "author": "Hafiz Ibn Kathir",
+      "language": "urdu",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ur-tafseer-ibn-e-kaseer/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ur-tafseer-ibn-e-kaseer/{surah}.json"
+    },
+    {
+      "id": "ur-tafsir-bayan-ul-quran",
+      "name": "Tafsir Bayan ul Quran",
+      "author": "Dr. Israr Ahmad",
+      "language": "urdu",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ur-tafsir-bayan-ul-quran/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ur-tafsir-bayan-ul-quran/{surah}.json"
+    },
+    {
+      "id": "ur-tazkirul-quran",
+      "name": "Tazkirul Quran(Maulana Wahiduddin Khan)",
+      "author": "Maulana Wahid Uddin Khan",
+      "language": "urdu",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ur-tazkirul-quran/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/ur-tazkirul-quran/{surah}.json"
+    },
+    {
+      "id": "en-tazkirul-quran",
+      "name": "Tazkirul Quran(Maulana Wahiduddin Khan)",
+      "author": "Maulana Wahid Uddin Khan",
+      "language": "english",
+      "direction": "rtl",
+      "source": "https://quran.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-tazkirul-quran/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-tazkirul-quran/{surah}.json"
+    },
+    {
+      "id": "en-kashf-al-asrar-tafsir",
+      "name": "Kashf Al-Asrar Tafsir",
+      "author": "Kashf Al-Asrar Tafsir",
+      "language": "english",
+      "direction": "rtl",
+      "source": "https://www.altafsir.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-kashf-al-asrar-tafsir/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-kashf-al-asrar-tafsir/{surah}.json"
+    },
+    {
+      "id": "en-al-qushairi-tafsir",
+      "name": "Al Qushairi Tafsir",
+      "author": "Al Qushairi Tafsir",
+      "language": "english",
+      "direction": "rtl",
+      "source": "https://www.altafsir.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-al-qushairi-tafsir/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-al-qushairi-tafsir/{surah}.json"
+    },
+    {
+      "id": "en-kashani-tafsir",
+      "name": "Kashani Tafsir",
+      "author": "Kashani Tafsir",
+      "language": "english",
+      "direction": "rtl",
+      "source": "https://www.altafsir.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-kashani-tafsir/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-kashani-tafsir/{surah}.json"
+    },
+    {
+      "id": "en-tafsir-al-tustari",
+      "name": "Tafsir al-Tustari",
+      "author": "Tafsir al-Tustari",
+      "language": "english",
+      "direction": "rtl",
+      "source": "https://www.altafsir.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-tafsir-al-tustari/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-tafsir-al-tustari/{surah}.json"
+    },
+    {
+      "id": "en-asbab-al-nuzul-by-al-wahidi",
+      "name": "Asbab Al-Nuzul by Al-Wahidi",
+      "author": "Asbab Al-Nuzul by Al-Wahidi",
+      "language": "english",
+      "direction": "rtl",
+      "source": "https://www.altafsir.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-asbab-al-nuzul-by-al-wahidi/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-asbab-al-nuzul-by-al-wahidi/{surah}.json"
+    },
+    {
+      "id": "en-tafsir-ibn-abbas",
+      "name": "Tanwîr al-Miqbâs min Tafsîr Ibn ‘Abbâs",
+      "author": "Tanwîr al-Miqbâs min Tafsîr Ibn ‘Abbâs",
+      "language": "english",
+      "direction": "rtl",
+      "source": "https://www.altafsir.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-tafsir-ibn-abbas/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-tafsir-ibn-abbas/{surah}.json"
+    },
+    {
+      "id": "en-al-jalalayn",
+      "name": "Al-Jalalayn",
+      "author": "Al-Jalalayn",
+      "language": "english",
+      "direction": "rtl",
+      "source": "https://www.altafsir.com/",
+      "ayah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-al-jalalayn/{surah}/{ayah}.json",
+      "surah_api": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/en-al-jalalayn/{surah}.json"
+    }
+  ]
+}
