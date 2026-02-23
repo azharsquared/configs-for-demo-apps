@@ -1,0 +1,215 @@
+{
+  "version": "1.0.0",
+  "status": "success",
+  "message": "Data retrieved successfully",
+  "updatedAt": "2026-02-23T10:11:49.210Z",
+  "data": [
+    {
+      "id": "ar.abdullahbasfar",
+      "name": "Abdullah Basfar",
+      "language": "ar",
+      "englishName": "Abdullah Basfar",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.abdullahbasfar",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.abdullahbasfar/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.abdurrahmaansudais",
+      "name": "Abdurrahmaan As-Sudais",
+      "language": "ar",
+      "englishName": "Abdurrahmaan As-Sudais",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.abdurrahmaansudais",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.abdulsamad",
+      "name": "Abdul Samad",
+      "language": "ar",
+      "englishName": "Abdul Samad",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.abdulsamad",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.shaatree",
+      "name": "Abu Bakr Ash-Shaatree",
+      "language": "ar",
+      "englishName": "Abu Bakr Ash-Shaatree",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.shaatree",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.shaatree/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.ahmedajamy",
+      "name": "Ahmed ibn Ali al-Ajamy",
+      "language": "ar",
+      "englishName": "Ahmed ibn Ali al-Ajamy",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.ahmedajamy",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.ahmedajamy/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.alafasy",
+      "name": "Alafasy",
+      "language": "ar",
+      "englishName": "Alafasy",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.alafasy",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.alafasy/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.hanirifai",
+      "name": "Hani Rifai",
+      "language": "ar",
+      "englishName": "Hani Rifai",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.hanirifai",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.hanirifai/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.husary",
+      "name": "Husary",
+      "language": "ar",
+      "englishName": "Husary",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.husary",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.husary/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.husarymujawwad",
+      "name": "Husary (Mujawwad)",
+      "language": "ar",
+      "englishName": "Husary (Mujawwad)",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.husarymujawwad",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.husarymujawwad/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.hudhaify",
+      "name": "Hudhaify",
+      "language": "ar",
+      "englishName": "Hudhaify",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.hudhaify",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.hudhaify/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.ibrahimakhbar",
+      "name": "Ibrahim Akhdar",
+      "language": "ar",
+      "englishName": "Ibrahim Akhdar",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.ibrahimakhbar",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.ibrahimakhbar/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.mahermuaiqly",
+      "name": "Maher Al Muaiqly",
+      "language": "ar",
+      "englishName": "Maher Al Muaiqly",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.mahermuaiqly",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.mahermuaiqly/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.muhammadayyoub",
+      "name": "Muhammad Ayyoub",
+      "language": "ar",
+      "englishName": "Muhammad Ayyoub",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.muhammadayyoub",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.muhammadayyoub/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.muhammadjibreel",
+      "name": "Muhammad Jibreel",
+      "language": "ar",
+      "englishName": "Muhammad Jibreel",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.muhammadjibreel",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.muhammadjibreel/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.saoodshuraym",
+      "name": "Saood bin Ibraaheem Ash-Shuraym",
+      "language": "ar",
+      "englishName": "Saood bin Ibraaheem Ash-Shuraym",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.saoodshuraym",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.saoodshuraym/{global_ayah}.mp3"
+    },
+    {
+      "id": "en.walk",
+      "name": "Ibrahim Walk",
+      "language": "en",
+      "englishName": "Ibrahim Walk",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/en.walk",
+      "stream": "https://cdn.islamic.network/quran/audio/64/en.walk/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.parhizgar",
+      "name": "Parhizgar",
+      "language": "ar",
+      "englishName": "Parhizgar",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.parhizgar",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.parhizgar/{global_ayah}.mp3"
+    },
+    {
+      "id": "ur.khan",
+      "name": "Shamshad Ali Khan",
+      "language": "ur",
+      "englishName": "Shamshad Ali Khan",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ur.khan",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ur.khan/{global_ayah}.mp3"
+    },
+    {
+      "id": "zh.chinese",
+      "name": "Chinese",
+      "language": "zh",
+      "englishName": "Chinese",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/zh.chinese",
+      "stream": "https://cdn.islamic.network/quran/audio/64/zh.chinese/{global_ayah}.mp3"
+    },
+    {
+      "id": "fr.leclerc",
+      "name": "Youssouf Leclerc",
+      "language": "fr",
+      "englishName": "Youssouf Leclerc",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/fr.leclerc",
+      "stream": "https://cdn.islamic.network/quran/audio/64/fr.leclerc/{global_ayah}.mp3"
+    },
+    {
+      "id": "ar.aymanswoaid",
+      "name": "Ayman Sowaid",
+      "language": "ar",
+      "englishName": "Ayman Sowaid",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ar.aymanswoaid",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ar.aymanswoaid/{global_ayah}.mp3"
+    },
+    {
+      "id": "ru.kuliev-audio",
+      "name": "Elmir Kuliev by 1MuslimApp",
+      "language": "ru",
+      "englishName": "Elmir Kuliev by 1MuslimApp",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ru.kuliev-audio",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ru.kuliev-audio/{global_ayah}.mp3"
+    },
+    {
+      "id": "ru.kuliev-audio-2",
+      "name": "Elmir Kuliev 2 by 1MuslimApp",
+      "language": "ru",
+      "englishName": "Elmir Kuliev 2 by 1MuslimApp",
+      "format": "audio",
+      "api": "http://api.alquran.cloud/v1/ayah/{surah}:{ayah}/ru.kuliev-audio-2",
+      "stream": "https://cdn.islamic.network/quran/audio/64/ru.kuliev-audio-2/{global_ayah}.mp3"
+    }
+  ]
+}
