@@ -1,0 +1,984 @@
+{
+  "version": "1.0.0",
+  "status": "success",
+  "message": "Data retrieved successfully",
+  "updatedAt": "2026-02-23T10:11:49.210Z",
+  "data": [
+    {
+      "id": "az.mammadaliyev",
+      "name": "Məmmədəliyev & Bünyadov",
+      "author": "Vasim Mammadaliyev and Ziya Bunyadov",
+      "language": "az",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/az.mammadaliyev"
+    },
+    {
+      "id": "az.musayev",
+      "name": "Musayev",
+      "author": "Alikhan Musayev",
+      "language": "az",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/az.musayev"
+    },
+    {
+      "id": "bn.bengali",
+      "name": "মুহিউদ্দীন খান",
+      "author": "Muhiuddin Khan",
+      "language": "bn",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/bn.bengali"
+    },
+    {
+      "id": "cs.hrbek",
+      "name": "Hrbek",
+      "author": "Preklad I. Hrbek",
+      "language": "cs",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/cs.hrbek"
+    },
+    {
+      "id": "cs.nykl",
+      "name": "Nykl",
+      "author": "A. R. Nykl",
+      "language": "cs",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/cs.nykl"
+    },
+    {
+      "id": "de.aburida",
+      "name": "Abu Rida",
+      "author": "Abu Rida Muhammad ibn Ahmad ibn Rassoul",
+      "language": "de",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/de.aburida"
+    },
+    {
+      "id": "de.bubenheim",
+      "name": "Bubenheim & Elyas",
+      "author": "A. S. F. Bubenheim and N. Elyas",
+      "language": "de",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/de.bubenheim"
+    },
+    {
+      "id": "de.khoury",
+      "name": "Khoury",
+      "author": "Adel Theodor Khoury",
+      "language": "de",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/de.khoury"
+    },
+    {
+      "id": "de.zaidan",
+      "name": "Zaidan",
+      "author": "Amir Zaidan",
+      "language": "de",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/de.zaidan"
+    },
+    {
+      "id": "dv.divehi",
+      "name": "ދިވެހި",
+      "author": "Office of the President of Maldives",
+      "language": "dv",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/dv.divehi"
+    },
+    {
+      "id": "en.ahmedali",
+      "name": "Ahmed Ali",
+      "author": "Ahmed Ali",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.ahmedali"
+    },
+    {
+      "id": "en.ahmedraza",
+      "name": "Ahmed Raza Khan",
+      "author": "Ahmed Raza Khan",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.ahmedraza"
+    },
+    {
+      "id": "en.arberry",
+      "name": "Arberry",
+      "author": "A. J. Arberry",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.arberry"
+    },
+    {
+      "id": "en.asad",
+      "name": "Asad",
+      "author": "Muhammad Asad",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.asad"
+    },
+    {
+      "id": "en.daryabadi",
+      "name": "Daryabadi",
+      "author": "Abdul Majid Daryabadi",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.daryabadi"
+    },
+    {
+      "id": "en.hilali",
+      "name": "Hilali & Khan",
+      "author": "Muhammad Taqi-ud-Din al-Hilali and Muhammad Muhsin Khan",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.hilali"
+    },
+    {
+      "id": "en.pickthall",
+      "name": "Pickthall",
+      "author": "Mohammed Marmaduke William Pickthall",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.pickthall"
+    },
+    {
+      "id": "en.qaribullah",
+      "name": "Qaribullah & Darwish",
+      "author": "Hasan al-Fatih Qaribullah and Ahmad Darwish",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.qaribullah"
+    },
+    {
+      "id": "en.sahih",
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.sahih"
+    },
+    {
+      "id": "en.sarwar",
+      "name": "Sarwar",
+      "author": "Muhammad Sarwar",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.sarwar"
+    },
+    {
+      "id": "en.yusufali",
+      "name": "Yusuf Ali",
+      "author": "Abdullah Yusuf Ali",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.yusufali"
+    },
+    {
+      "id": "fa.ayati",
+      "name": "آیتی",
+      "author": "AbdolMohammad Ayati",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.ayati"
+    },
+    {
+      "id": "fa.fooladvand",
+      "name": "فولادوند",
+      "author": "Mohammad Mahdi Fooladvand",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.fooladvand"
+    },
+    {
+      "id": "fa.ghomshei",
+      "name": "الهی قمشه‌ای",
+      "author": "Mahdi Elahi Ghomshei",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.ghomshei"
+    },
+    {
+      "id": "fa.makarem",
+      "name": "مکارم شیرازی",
+      "author": "Naser Makarem Shirazi",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.makarem"
+    },
+    {
+      "id": "fr.hamidullah",
+      "name": "Hamidullah",
+      "author": "Muhammad Hamidullah",
+      "language": "fr",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fr.hamidullah"
+    },
+    {
+      "id": "ha.gumi",
+      "name": "Gumi",
+      "author": "Abubakar Mahmoud Gumi",
+      "language": "ha",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ha.gumi"
+    },
+    {
+      "id": "hi.hindi",
+      "name": "फ़ारूक़ ख़ान & नदवी",
+      "author": "Suhel Farooq Khan and Saifur Rahman Nadwi",
+      "language": "hi",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/hi.hindi"
+    },
+    {
+      "id": "id.indonesian",
+      "name": "Bahasa Indonesia",
+      "author": "Unknown",
+      "language": "id",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/id.indonesian"
+    },
+    {
+      "id": "it.piccardo",
+      "name": "Piccardo",
+      "author": "Hamza Roberto Piccardo",
+      "language": "it",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/it.piccardo"
+    },
+    {
+      "id": "ja.japanese",
+      "name": "Japanese",
+      "author": "Unknown",
+      "language": "ja",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ja.japanese"
+    },
+    {
+      "id": "ko.korean",
+      "name": "Korean",
+      "author": "Unknown",
+      "language": "ko",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ko.korean"
+    },
+    {
+      "id": "ku.asan",
+      "name": "ته‌فسیری ئاسان",
+      "author": "Burhan Muhammad-Amin",
+      "language": "ku",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ku.asan"
+    },
+    {
+      "id": "ml.abdulhameed",
+      "name": "അബ്ദുല്‍ ഹമീദ് & പറപ്പൂര്‍",
+      "author": "Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
+      "language": "ml",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ml.abdulhameed"
+    },
+    {
+      "id": "nl.keyzer",
+      "name": "Keyzer",
+      "author": "Salomo Keyzer",
+      "language": "nl",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/nl.keyzer"
+    },
+    {
+      "id": "no.berg",
+      "name": "Einar Berg",
+      "author": "Einar Berg",
+      "language": "no",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/no.berg"
+    },
+    {
+      "id": "pl.bielawskiego",
+      "name": "Bielawskiego",
+      "author": "Józefa Bielawskiego",
+      "language": "pl",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/pl.bielawskiego"
+    },
+    {
+      "id": "pt.elhayek",
+      "name": "El-Hayek",
+      "author": "Samir El-Hayek",
+      "language": "pt",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/pt.elhayek"
+    },
+    {
+      "id": "ro.grigore",
+      "name": "Grigore",
+      "author": "George Grigore",
+      "language": "ro",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ro.grigore"
+    },
+    {
+      "id": "ru.kuliev",
+      "name": "Кулиев",
+      "author": "Elmir Kuliev",
+      "language": "ru",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ru.kuliev"
+    },
+    {
+      "id": "ru.osmanov",
+      "name": "Османов",
+      "author": "Magomed-Nuri Osmanovich Osmanov",
+      "language": "ru",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ru.osmanov"
+    },
+    {
+      "id": "ru.porokhova",
+      "name": "Порохова",
+      "author": "V. Porokhova",
+      "language": "ru",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ru.porokhova"
+    },
+    {
+      "id": "sd.amroti",
+      "name": "امروٽي",
+      "author": "Taj Mehmood Amroti",
+      "language": "sd",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/sd.amroti"
+    },
+    {
+      "id": "so.abduh",
+      "name": "Abduh",
+      "author": "Mahmud Muhammad Abduh",
+      "language": "so",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/so.abduh"
+    },
+    {
+      "id": "sq.ahmeti",
+      "name": "Sherif Ahmeti",
+      "author": "Sherif Ahmeti",
+      "language": "sq",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/sq.ahmeti"
+    },
+    {
+      "id": "sq.mehdiu",
+      "name": "Feti Mehdiu",
+      "author": "Feti Mehdiu",
+      "language": "sq",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/sq.mehdiu"
+    },
+    {
+      "id": "sq.nahi",
+      "name": "Efendi Nahi",
+      "author": "Hasan Efendi Nahi",
+      "language": "sq",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/sq.nahi"
+    },
+    {
+      "id": "sv.bernstrom",
+      "name": "Bernström",
+      "author": "Knut Bernström",
+      "language": "sv",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/sv.bernstrom"
+    },
+    {
+      "id": "sw.barwani",
+      "name": "Al-Barwani",
+      "author": "Ali Muhsin Al-Barwani",
+      "language": "sw",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/sw.barwani"
+    },
+    {
+      "id": "ta.tamil",
+      "name": "ஜான் டிரஸ்ட்",
+      "author": "Jan Turst Foundation",
+      "language": "ta",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ta.tamil"
+    },
+    {
+      "id": "tg.ayati",
+      "name": "Оятӣ",
+      "author": "AbdolMohammad Ayati",
+      "language": "tg",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/tg.ayati"
+    },
+    {
+      "id": "th.thai",
+      "name": "ภาษาไทย",
+      "author": "King Fahad Quran Complex",
+      "language": "th",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/th.thai"
+    },
+    {
+      "id": "tr.ates",
+      "name": "Süleyman Ateş",
+      "author": "Suleyman Ates",
+      "language": "tr",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/tr.ates"
+    },
+    {
+      "id": "tr.bulac",
+      "name": "Alİ Bulaç",
+      "author": "Alİ Bulaç",
+      "language": "tr",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/tr.bulac"
+    },
+    {
+      "id": "tr.diyanet",
+      "name": "Diyanet İşleri",
+      "author": "Diyanet Isleri",
+      "language": "tr",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/tr.diyanet"
+    },
+    {
+      "id": "tr.golpinarli",
+      "name": "Abdulbakî Gölpınarlı",
+      "author": "Abdulbaki Golpinarli",
+      "language": "tr",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/tr.golpinarli"
+    },
+    {
+      "id": "tr.ozturk",
+      "name": "Öztürk",
+      "author": "Yasar Nuri Ozturk",
+      "language": "tr",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/tr.ozturk"
+    },
+    {
+      "id": "tr.vakfi",
+      "name": "Diyanet Vakfı",
+      "author": "Diyanet Vakfi",
+      "language": "tr",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/tr.vakfi"
+    },
+    {
+      "id": "tr.yazir",
+      "name": "Elmalılı Hamdi Yazır",
+      "author": "Elmalili Hamdi Yazir",
+      "language": "tr",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/tr.yazir"
+    },
+    {
+      "id": "tr.yildirim",
+      "name": "Suat Yıldırım",
+      "author": "Suat Yildirim",
+      "language": "tr",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/tr.yildirim"
+    },
+    {
+      "id": "tr.yuksel",
+      "name": "Edip Yüksel",
+      "author": "Edip Yüksel",
+      "language": "tr",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/tr.yuksel"
+    },
+    {
+      "id": "tt.nugman",
+      "name": "Yakub Ibn Nugman",
+      "author": "Yakub Ibn Nugman",
+      "language": "tt",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/tt.nugman"
+    },
+    {
+      "id": "ug.saleh",
+      "name": "محمد صالح",
+      "author": "Muhammad Saleh",
+      "language": "ug",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ug.saleh"
+    },
+    {
+      "id": "ur.ahmedali",
+      "name": "احمد علی",
+      "author": "Ahmed Ali",
+      "language": "ur",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ur.ahmedali"
+    },
+    {
+      "id": "ur.jalandhry",
+      "name": "جالندہری",
+      "author": "Fateh Muhammad Jalandhry",
+      "language": "ur",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ur.jalandhry"
+    },
+    {
+      "id": "ur.jawadi",
+      "name": "علامہ جوادی",
+      "author": "Syed Zeeshan Haider Jawadi",
+      "language": "ur",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ur.jawadi"
+    },
+    {
+      "id": "ur.kanzuliman",
+      "name": "احمد رضا خان",
+      "author": "Ahmed Raza Khan",
+      "language": "ur",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ur.kanzuliman"
+    },
+    {
+      "id": "ur.qadri",
+      "name": "طاہر القادری",
+      "author": "Tahir ul Qadri",
+      "language": "ur",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ur.qadri"
+    },
+    {
+      "id": "uz.sodik",
+      "name": "Мухаммад Содик",
+      "author": "Muhammad Sodik Muhammad Yusuf",
+      "language": "uz",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/uz.sodik"
+    },
+    {
+      "id": "en.maududi",
+      "name": "Maududi",
+      "author": "Abul Ala Maududi",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.maududi"
+    },
+    {
+      "id": "en.shakir",
+      "name": "Shakir",
+      "author": "Mohammad Habib Shakir",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.shakir"
+    },
+    {
+      "id": "es.cortes",
+      "name": "Cortes",
+      "author": "Julio Cortes",
+      "language": "es",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/es.cortes"
+    },
+    {
+      "id": "fa.ansarian",
+      "name": "انصاریان",
+      "author": "Hussain Ansarian",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.ansarian"
+    },
+    {
+      "id": "bg.theophanov",
+      "name": "Теофанов",
+      "author": "Tzvetan Theophanov",
+      "language": "bg",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/bg.theophanov"
+    },
+    {
+      "id": "bs.mlivo",
+      "name": "Mlivo",
+      "author": "Mustafa Mlivo",
+      "language": "bs",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/bs.mlivo"
+    },
+    {
+      "id": "fa.bahrampour",
+      "name": "بهرام پور",
+      "author": "Abolfazl Bahrampour",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.bahrampour"
+    },
+    {
+      "id": "es.asad",
+      "name": "Asad",
+      "author": "Muhammad Asad - Abdurrasak Pérez",
+      "language": "es",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/es.asad"
+    },
+    {
+      "id": "fa.khorramshahi",
+      "name": "خرمشاهی",
+      "author": "Baha'oddin Khorramshahi",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.khorramshahi"
+    },
+    {
+      "id": "fa.mojtabavi",
+      "name": "مجتبوی",
+      "author": "Sayyed Jalaloddin Mojtabavi",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.mojtabavi"
+    },
+    {
+      "id": "hi.farooq",
+      "name": "फ़ारूक़ ख़ान & अहमद",
+      "author": "Muhammad Farooq Khan and Muhammad Ahmed",
+      "language": "hi",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/hi.farooq"
+    },
+    {
+      "id": "id.muntakhab",
+      "name": "Quraish Shihab",
+      "author": "Muhammad Quraish Shihab et al.",
+      "language": "id",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/id.muntakhab"
+    },
+    {
+      "id": "ms.basmeih",
+      "name": "Basmeih",
+      "author": "Abdullah Muhammad Basmeih",
+      "language": "ms",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ms.basmeih"
+    },
+    {
+      "id": "ru.abuadel",
+      "name": "Абу Адель",
+      "author": "Abu Adel",
+      "language": "ru",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ru.abuadel"
+    },
+    {
+      "id": "ru.krachkovsky",
+      "name": "Крачковский",
+      "author": "Ignaty Yulianovich Krachkovsky",
+      "language": "ru",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ru.krachkovsky"
+    },
+    {
+      "id": "ru.muntahab",
+      "name": "Аль-Мунтахаб",
+      "author": "Ministry of Awqaf, Egypt",
+      "language": "ru",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ru.muntahab"
+    },
+    {
+      "id": "ru.sablukov",
+      "name": "Саблуков",
+      "author": "Gordy Semyonovich Sablukov",
+      "language": "ru",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ru.sablukov"
+    },
+    {
+      "id": "ur.junagarhi",
+      "name": "محمد جوناگڑھی",
+      "author": "Muhammad Junagarhi",
+      "language": "ur",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ur.junagarhi"
+    },
+    {
+      "id": "ur.maududi",
+      "name": "ابوالاعلی مودودی",
+      "author": "Abul A'ala Maududi",
+      "language": "ur",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ur.maududi"
+    },
+    {
+      "id": "zh.jian",
+      "name": "Ma Jian",
+      "author": "Ma Jian",
+      "language": "zh",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/zh.jian"
+    },
+    {
+      "id": "zh.majian",
+      "name": "Ma Jian (Traditional)",
+      "author": "Ma Jian",
+      "language": "zh",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/zh.majian"
+    },
+    {
+      "id": "fa.khorramdel",
+      "name": "خرمدل",
+      "author": "Mostafa Khorramdel",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.khorramdel"
+    },
+    {
+      "id": "fa.moezzi",
+      "name": "معزی",
+      "author": "Mohammad Kazem Moezzi",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.moezzi"
+    },
+    {
+      "id": "bs.korkut",
+      "name": "Korkut",
+      "author": "Besim Korkut",
+      "language": "bs",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/bs.korkut"
+    },
+    {
+      "id": "ar.abdulbasitmurattal",
+      "name": "عبد الباسط عبد الصمد المرتل",
+      "author": "Abdul Basit",
+      "language": "ar",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ar.abdulbasitmurattal"
+    },
+    {
+      "id": "ar.minshawi",
+      "name": "محمد صديق المنشاوي",
+      "author": "Minshawi",
+      "language": "ar",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ar.minshawi"
+    },
+    {
+      "id": "ar.minshawimujawwad",
+      "name": "محمد صديق المنشاوي (المجود)",
+      "author": "Minshawy (Mujawwad)",
+      "language": "ar",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ar.minshawimujawwad"
+    },
+    {
+      "id": "fa.hedayatfarfooladvand",
+      "name": "Fooladvand - Hedayatfar",
+      "author": "Fooladvand - Hedayatfar",
+      "language": "fa",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.hedayatfarfooladvand"
+    },
+    {
+      "id": "si.naseemismail",
+      "name": "Naseem Ismail",
+      "author": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "language": "si",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/si.naseemismail"
+    },
+    {
+      "id": "quran-buck",
+      "name": "Buck",
+      "author": "Buck",
+      "language": "ar",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/quran-buck"
+    },
+    {
+      "id": "zh.mazhonggang",
+      "name": "Ma Zhong Gang",
+      "author": "马仲刚",
+      "language": "zh",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/zh.mazhonggang"
+    },
+    {
+      "id": "ba.mehanovic",
+      "name": "Kur'an - sa prevodom (značenja) na bosanski jezik, utemeljen na Ibn Kesirovom tumačenju, i kratki komentar",
+      "author": "Quran translation by Muhamed Mehanovic",
+      "language": "ba",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ba.mehanovic"
+    },
+    {
+      "id": "en.itani",
+      "name": "Clear Qur'an - Talal Itani",
+      "author": "Clear Qur'an by Talal Itani",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.itani"
+    },
+    {
+      "id": "my.ghazi",
+      "name": "Ghazi Muhammed Hashim",
+      "author": "Translation by Ghazi Muhammed Hashim",
+      "language": "my",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/my.ghazi"
+    },
+    {
+      "id": "en.mubarakpuri",
+      "name": "Mubarakpuri",
+      "author": "Mubarakpuri",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.mubarakpuri"
+    },
+    {
+      "id": "am.sadiq",
+      "name": "ሳዲቅ & ሳኒ ሐቢብ",
+      "author": "ሳዲቅ & ሳኒ ሐቢብ",
+      "language": "am",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/am.sadiq"
+    },
+    {
+      "id": "ber.mensur",
+      "name": "At Mensur",
+      "author": "At Mensur",
+      "language": "ber",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ber.mensur"
+    },
+    {
+      "id": "bn.hoque",
+      "name": "জহুরুল হক",
+      "author": "জহুরুল হক",
+      "language": "bn",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/bn.hoque"
+    },
+    {
+      "id": "en.qarai",
+      "name": "Qarai",
+      "author": "Qarai",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.qarai"
+    },
+    {
+      "id": "en.wahiduddin",
+      "name": "Wahiduddin Khan",
+      "author": "Wahiduddin Khan",
+      "language": "en",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/en.wahiduddin"
+    },
+    {
+      "id": "es.bornez",
+      "name": "Bornez",
+      "author": "Bornez",
+      "language": "es",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/es.bornez"
+    },
+    {
+      "id": "es.garcia",
+      "name": "Garcia",
+      "author": "Garcia",
+      "language": "es",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/es.garcia"
+    },
+    {
+      "id": "ur.najafi",
+      "name": "محمد حسین نجفی",
+      "author": "محمد حسین نجفی",
+      "language": "ur",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ur.najafi"
+    },
+    {
+      "id": "fa.gharaati",
+      "name": "قرائتی",
+      "author": "قرائتی",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.gharaati"
+    },
+    {
+      "id": "fa.sadeqi",
+      "name": "صادقی تهرانی",
+      "author": "صادقی تهرانی",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.sadeqi"
+    },
+    {
+      "id": "fa.safavi",
+      "name": "صفوی",
+      "author": "صفوی",
+      "language": "fa",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/fa.safavi"
+    },
+    {
+      "id": "id.jalalayn",
+      "name": "Tafsir Jalalayn",
+      "author": "Tafsir Jalalayn",
+      "language": "id",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/id.jalalayn"
+    },
+    {
+      "id": "ml.karakunnu",
+      "name": "കാരകുന്ന് & എളയാവൂര്",
+      "author": "കാരകുന്ന് & എളയാവൂര്",
+      "language": "ml",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ml.karakunnu"
+    },
+    {
+      "id": "nl.leemhuis",
+      "name": "Leemhuis",
+      "author": "Leemhuis",
+      "language": "nl",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/nl.leemhuis"
+    },
+    {
+      "id": "nl.siregar",
+      "name": "Siregar",
+      "author": "Siregar",
+      "language": "nl",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/nl.siregar"
+    },
+    {
+      "id": "ps.abdulwali",
+      "name": "عبدالولي",
+      "author": "عبدالولي",
+      "language": "ps",
+      "direction": "rtl",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ps.abdulwali"
+    },
+    {
+      "id": "ru.kuliev-alsaadi",
+      "name": "Кулиев + ас-Саади",
+      "author": "Кулиев + ас-Саади",
+      "language": "ru",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ru.kuliev-alsaadi"
+    },
+    {
+      "id": "ce.magomedov",
+      "name": "Chechen by Magomedov",
+      "author": "Chechen by Magomedov",
+      "language": "ce",
+      "direction": "ltr",
+      "api": "https://api.alquran.cloud/v1/surah/{surah}/ce.magomedov"
+    }
+  ]
+}
