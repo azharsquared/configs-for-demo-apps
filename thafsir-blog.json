@@ -14,37 +14,22 @@
       "author": "Sheikh Example",
       "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
       "mediaUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-      "relatedSurah": 2,
-      "relatedAyah": 255,
+      "relatedSurah": 1,
+      "relatedAyah": 5,
       "metadata": "15 min watch",
-      "summary": "A comprehensive linguistic breakdown of the most powerful verse in the Quran.",
-      "publishedAt": "2024-05-12T10:00:00Z"
+      "summary": "A comprehensive linguistic breakdown of the most powerful verse."
     },
     {
       "id": "blog_205",
       "type": "article",
-      "title": "Understanding the Throne",
+      "title": "Understanding the Throne (Al-Kursi)",
       "author": "QuranWeekly",
       "thumbnailUrl": "https://example.com/images/throne-article.jpg",
-      "mediaUrl": "https://example.com/blogs/ayatul-kursi-meaning",
-      "relatedSurah": 2,
-      "relatedAyah": 255,
+      "mediaUrl": "https://ayath.org/ml",
+      "relatedSurah": 1,
+      "relatedAyah": 5,
       "metadata": "6 min read",
-      "summary": "Exploring the theological themes and profound meanings of Allah's Throne.",
-      "publishedAt": "2024-06-01T14:30:00Z"
-    },
-    {
-      "id": "blog_802",
-      "type": "article",
-      "title": "The Meaning of An-Nur",
-      "author": "Light Of Quran",
-      "thumbnailUrl": "https://example.com/images/light-article.jpg",
-      "mediaUrl": "https://example.com/blogs/surah-noor-verse-35",
-      "relatedSurah": 24,
-      "relatedAyah": 35,
-      "metadata": "10 min read",
-      "summary": "Tafsir and reflections on the Verse of Light.",
-      "publishedAt": "2024-06-15T09:15:00Z"
+      "summary": "Exploring the theological themes of this verse."
     }
   ]
 }
