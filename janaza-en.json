@@ -1,4 +1,6 @@
 {
+  "version":"0.0.1",
+ "data":{
   "QUICK_ACTIONS": [
     {
       "id": "4",
@@ -1532,4 +1534,5 @@
       "description": "Complete visual guide on performing the Janazah prayer"
     }
   }
+}
 }
