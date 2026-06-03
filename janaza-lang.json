@@ -1,6 +1,7 @@
 {
   "version":"0.0.1",
   "en":{
+    "name":"English",
     "content":"https://raw.githubusercontent.com/azharsquared/configs-for-demo-apps/refs/heads/main/janaza-en.json"
   }
 }
