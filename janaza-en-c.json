@@ -4,7 +4,7 @@
     "QUICK_ACTIONS": [
       {
         "id": "4",
-        "title": "Duas-new",
+        "title": "Duas - new",
         "description": "Prayers for the deceased",
         "icon": "favorite",
         "screen": "Duas"
@@ -1420,188 +1420,48 @@
     "FUNERAL_SERVICES": [
       {
         "id": "1",
-        "name": "Islamic Society Funeral Services",
-        "type": "Full Service",
-        "services": [
-          "Ghusl",
-          "Kafan",
-          "Janazah Prayer",
-          "Burial"
-        ],
-        "contact": "(555) 123-4567",
-        "address": "123 Community Center Dr",
-        "available24_7": true,
-        "media": [
-          {
-            "type": "video",
-            "title": "Sample Video Guide",
-            "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
-            "description": "Visual demonstration"
-          },
-          {
-            "type": "audio",
-            "title": "Listen to Audio",
-            "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-          },
-          {
-            "type": "document",
-            "title": "Download Related Document",
-            "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
-          },
-          {
-            "type": "link",
-            "title": "Learn More",
-            "url": "https://islamqa.info"
-          }
-        ],
-        "city": "New York"
+        "location_name": "Islamic Society Funeral Services",
+        "service": "Full Service",
+        "phone": "(555) 123-4567",
+        "pincode": "10001",
+        "lat": 40.70338956116451,
+        "long": -74.03570803395924
       },
       {
         "id": "2",
-        "name": "Green Pastures Islamic Cemetery",
-        "type": "Cemetery",
-        "services": [
-          "Burial",
-          "Grave Maintenance"
-        ],
-        "contact": "(555) 234-5678",
-        "address": "456 Memorial Rd",
-        "available24_7": false,
-        "media": [
-          {
-            "type": "video",
-            "title": "Sample Video Guide",
-            "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
-            "description": "Visual demonstration"
-          },
-          {
-            "type": "audio",
-            "title": "Listen to Audio",
-            "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-          },
-          {
-            "type": "document",
-            "title": "Download Related Document",
-            "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
-          },
-          {
-            "type": "link",
-            "title": "Learn More",
-            "url": "https://islamqa.info"
-          }
-        ],
-        "city": "Chicago"
+        "location_name": "Green Pastures Islamic Cemetery",
+        "service": "Cemetery",
+        "phone": "(555) 234-5678",
+        "pincode": "60601",
+        "lat": 41.87709319603397,
+        "long": -87.6414398313699
       },
       {
         "id": "3",
-        "name": "Masjid Al-Rahman Janazah Services",
-        "type": "Mosque Services",
-        "services": [
-          "Ghusl",
-          "Janazah Prayer",
-          "Coordination"
-        ],
-        "contact": "(555) 345-6789",
-        "address": "789 Faith Ave",
-        "available24_7": true,
-        "media": [
-          {
-            "type": "video",
-            "title": "Sample Video Guide",
-            "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
-            "description": "Visual demonstration"
-          },
-          {
-            "type": "audio",
-            "title": "Listen to Audio",
-            "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-          },
-          {
-            "type": "document",
-            "title": "Download Related Document",
-            "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
-          },
-          {
-            "type": "link",
-            "title": "Learn More",
-            "url": "https://islamqa.info"
-          }
-        ],
-        "city": "New York"
+        "location_name": "Masjid Al-Rahman Janazah Services",
+        "service": "Mosque Services",
+        "phone": "(555) 345-6789",
+        "pincode": "90001",
+        "lat": 34.04707525735729,
+        "long": -118.20784145477492
       },
       {
         "id": "4",
-        "name": "Al-Madinah Islamic Supplies",
-        "type": "Supplies",
-        "services": [
-          "Kafan (Shrouds)",
-          "Camphor & Fragrances",
-          "Janazah Literature"
-        ],
-        "contact": "(555) 456-7890",
-        "address": "321 Market St",
-        "available24_7": false,
-        "media": [
-          {
-            "type": "video",
-            "title": "Sample Video Guide",
-            "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
-            "description": "Visual demonstration"
-          },
-          {
-            "type": "audio",
-            "title": "Listen to Audio",
-            "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-          },
-          {
-            "type": "document",
-            "title": "Download Related Document",
-            "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
-          },
-          {
-            "type": "link",
-            "title": "Learn More",
-            "url": "https://islamqa.info"
-          }
-        ],
-        "city": "Dallas"
+        "location_name": "Al-Madinah Islamic Supplies",
+        "service": "Supplies",
+        "phone": "(555) 456-7890",
+        "pincode": "77001",
+        "lat": 29.80021359362394,
+        "long": -95.40072086245453
       },
       {
         "id": "5",
-        "name": "Rahma Funeral Transport",
-        "type": "Transport",
-        "services": [
-          "Hearse Rental",
-          "Body Transfer (Hospital to Mosque)",
-          "Body Transfer (Mosque to Cemetery)"
-        ],
-        "contact": "(555) 567-8901",
-        "address": "654 Logistics Way",
-        "available24_7": true,
-        "media": [
-          {
-            "type": "video",
-            "title": "Sample Video Guide",
-            "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
-            "description": "Visual demonstration"
-          },
-          {
-            "type": "audio",
-            "title": "Listen to Audio",
-            "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-          },
-          {
-            "type": "document",
-            "title": "Download Related Document",
-            "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
-          },
-          {
-            "type": "link",
-            "title": "Learn More",
-            "url": "https://islamqa.info"
-          }
-        ],
-        "city": "Chicago"
+        "location_name": "Rahma Funeral Transport",
+        "service": "Transport",
+        "phone": "(555) 567-8901",
+        "pincode": "10001",
+        "lat": 40.717783691590675,
+        "long": -74.00577457241506
       }
     ],
     "VIDEOS": {
