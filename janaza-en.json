@@ -1,0 +1,1535 @@
+{
+  "QUICK_ACTIONS": [
+    {
+      "id": "4",
+      "title": "Duas",
+      "description": "Prayers for the deceased",
+      "icon": "favorite",
+      "screen": "Duas"
+    },
+    {
+      "id": "7",
+      "title": "Janazah Prayer",
+      "description": "Complete prayer guide with steps",
+      "icon": "mosque",
+      "screen": "JanazahPrayer"
+    },
+    {
+      "id": "2",
+      "title": "Janazah Steps",
+      "description": "Prayer and burial procedures",
+      "icon": "book",
+      "screen": "JanazahSteps"
+    },
+    {
+      "id": "1",
+      "title": "What to Do First",
+      "description": "Immediate steps when someone passes",
+      "icon": "checklist",
+      "screen": "Guide"
+    },
+    {
+      "id": "3",
+      "title": "Washing Guide",
+      "description": "How to perform Ghusl al-Mayyit",
+      "icon": "water-drop",
+      "screen": "WashingGuide"
+    },
+    {
+      "id": "5",
+      "title": "Find Services",
+      "description": "Locate funeral services nearby",
+      "icon": "location-on",
+      "screen": "Services"
+    },
+    {
+      "id": "6",
+      "title": "Paperwork",
+      "description": "Required documents checklist",
+      "icon": "description",
+      "screen": "Paperwork"
+    }
+  ],
+  "IMMEDIATE_STEPS": [
+    {
+      "id": "1",
+      "title": "Recite Shahada",
+      "description": "If the person is able, help them recite the Shahada. If not, recite it near them.",
+      "arabic": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللَّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللَّٰهِ",
+      "importance": "critical",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Contact Family",
+      "description": "Inform immediate family members and close relatives about the passing.",
+      "importance": "high",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Contact Imam or Islamic Center",
+      "description": "Reach out to your local mosque or Islamic center for guidance and support.",
+      "importance": "high",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Obtain Death Certificate",
+      "description": "Contact a medical professional to officially certify the death.",
+      "importance": "critical",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Prepare the Body",
+      "description": "Close the eyes, straighten the limbs, and cover the body with a clean sheet.",
+      "importance": "high",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Expedite Burial",
+      "description": "In Islam, burial should occur as soon as possible, ideally within 24 hours.",
+      "importance": "high",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    }
+  ],
+  "JANAZAH_PROCEDURE": [
+    {
+      "id": "1",
+      "step": "Ghusl (Washing)",
+      "description": "The body must be washed by people of the same gender (ideally family members or designated washers). This is a mandatory act of respect.",
+      "details": [
+        "Performed in a private, clean space",
+        "Body is washed an odd number of times (3, 5, or 7)",
+        "Started with wudu-like washing",
+        "Use clean water and soap/sidr leaves"
+      ],
+      "rulings": "Fard Kifayah (communal obligation)",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "step": "Kafan (Shrouding)",
+      "description": "The body is wrapped in simple white cloth (kafan). Men: 3 pieces of cloth. Women: 5 pieces of cloth.",
+      "details": [
+        "Use simple, white, clean cloth",
+        "No elaborate or expensive materials",
+        "Tied at head and feet",
+        "Should cover entire body"
+      ],
+      "rulings": "Fard Kifayah",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "step": "Salat al-Janazah (Funeral Prayer)",
+      "description": "A specific prayer performed in congregation for the deceased. This is performed standing (no ruku or sujud).",
+      "details": [
+        "Takbir (Allahu Akbar) - 4 times",
+        "First Takbir: Recite Al-Fatihah",
+        "Second Takbir: Send blessings on Prophet (PBUH)",
+        "Third Takbir: Make dua for the deceased",
+        "Fourth Takbir: Make general dua and give salam"
+      ],
+      "rulings": "Fard Kifayah",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "step": "Burial (Dafan)",
+      "description": "The deceased is buried directly in the earth, without a coffin if possible, laid on their right side facing the Qibla.",
+      "details": [
+        "Body placed on right side facing Qibla",
+        "Grave depth: approx. 6 feet",
+        "No coffin (if local law permits)",
+        "Simple grave markers allowed",
+        "No elaborate tombstones or decorations"
+      ],
+      "rulings": "Fard Kifayah",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    }
+  ],
+  "DUAS_COLLECTION": [
+    {
+      "id": "1",
+      "title": "At the time of passing",
+      "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+      "transliteration": "Inna lillahi wa inna ilayhi raji'un",
+      "translation": "Indeed we belong to Allah, and indeed to Him we will return.",
+      "reference": "Quran 2:156",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Dua for the deceased",
+      "arabic": "اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ",
+      "transliteration": "Allahumma ighfir lahu warhamhu wa 'afihi wa'fu 'anhu",
+      "translation": "O Allah, forgive him, have mercy on him, grant him wellness, and pardon him.",
+      "reference": "Sahih Muslim",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Dua during Janazah prayer",
+      "arabic": "اللَّهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا وَشَاهِدِنَا وَغَائِبِنَا وَصَغِيرِنَا وَكَبِيرِنَا وَذَكَرِنَا وَأُنْثَانَا",
+      "transliteration": "Allahumma ighfir lihayyina wa mayyitina wa shahidina wa gha'ibina wa saghirina wa kabirina wa dhakarina wa unthana",
+      "translation": "O Allah, forgive our living and our dead, those present and those absent, our young and our old, our males and our females.",
+      "reference": "Abu Dawud",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "At the grave",
+      "arabic": "اللَّهُمَّ أَنْزِلْهُ مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ",
+      "transliteration": "Allahumma anzilhu munzalan mubarakan wa anta khayrul munzilin",
+      "translation": "O Allah, give him a blessed abode, and You are the Best of those who provide dwelling.",
+      "reference": "Islamic tradition",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "For parents",
+      "arabic": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+      "transliteration": "Rabbi rhamhuma kama rabbayani saghira",
+      "translation": "My Lord, have mercy upon them as they brought me up when I was small.",
+      "reference": "Quran 17:24",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "General dua for forgiveness",
+      "arabic": "اللَّهُمَّ اغْفِرْ لَهُ وَارْفَعْ دَرَجَتَهُ فِي الْمَهْدِيِّينَ وَاخْلُفْهُ فِي عَقِبِهِ فِي الْغَابِرِينَ",
+      "transliteration": "Allahumma-ghfir lahu warfa' darajatahu fil-mahdiyyin, wakhlufhu fi 'aqibihi fil-ghabirin",
+      "translation": "O Allah, forgive him and raise his rank among the rightly guided, and be a successor to whom he has left behind.",
+      "reference": "Sahih Muslim",
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    }
+  ],
+  "WASHING_STEPS": [
+    {
+      "id": "1",
+      "title": "Preparation",
+      "description": "Prepare the washing area and gather necessary items",
+      "items": [
+        "Clean, private space",
+        "Water (preferably warm)",
+        "Soap or Sidr (lotus) leaves",
+        "Clean cloths for washing",
+        "Clean sheets to cover body"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Positioning",
+      "description": "Place the deceased on a raised surface, covered except for the area being washed",
+      "items": [
+        "Raised washing table/surface",
+        "Body remains covered with cloth",
+        "Only expose area being washed",
+        "Ensure privacy is maintained"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Begin with intention",
+      "description": "Make intention (niyyah) to wash the deceased for the sake of Allah",
+      "items": [
+        "Silent intention in the heart",
+        "Done for the sake of Allah",
+        "With respect and dignity"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Wudu-like washing",
+      "description": "Start with washing as you would for wudu",
+      "items": [
+        "Wash hands",
+        "Wash face",
+        "Wash arms",
+        "Wipe head",
+        "Wash feet"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Full body washing",
+      "description": "Wash the entire body an odd number of times (3, 5, or 7)",
+      "items": [
+        "Start with right side",
+        "Then left side",
+        "Be thorough but gentle",
+        "Use water and soap/sidr",
+        "Repeat odd number of times"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Final touches",
+      "description": "Dry the body and apply perfume (for men)",
+      "items": [
+        "Gently dry with clean cloth",
+        "Apply perfume/musk (for men)",
+        "Camphor may be used",
+        "Keep body covered"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    }
+  ],
+  "PAPERWORK_CHECKLIST": [
+    {
+      "id": "1",
+      "category": "Medical Documents",
+      "items": [
+        {
+          "id": "1-1",
+          "title": "Medical Certificate of Death",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "title": "Autopsy Report (if applicable)",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "title": "Medical Examiner's Report",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "category": "Legal Documents",
+      "items": [
+        {
+          "id": "2-1",
+          "title": "Death Certificate (multiple copies)",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "2-2",
+          "title": "Will and Testament",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "2-3",
+          "title": "Power of Attorney documents",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "2-4",
+          "title": "Marriage Certificate",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "2-5",
+          "title": "Birth Certificate of deceased",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "category": "Financial Documents",
+      "items": [
+        {
+          "id": "3-1",
+          "title": "Life Insurance Policies",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "3-2",
+          "title": "Bank Account Information",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "3-3",
+          "title": "Property Deeds",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "3-4",
+          "title": "Investment Documents",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "3-5",
+          "title": "Pension/Retirement Documents",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "category": "Funeral Arrangements",
+      "items": [
+        {
+          "id": "4-1",
+          "title": "Burial Permit",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "4-2",
+          "title": "Cemetery Plot Documentation",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "4-3",
+          "title": "Funeral Home Contract",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "4-4",
+          "title": "Transport Permits (if applicable)",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "category": "Government & Services",
+      "items": [
+        {
+          "id": "5-1",
+          "title": "Social Security Notification",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "5-2",
+          "title": "Passport Cancellation",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "5-3",
+          "title": "Driver's License Cancellation",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "5-4",
+          "title": "Utility Account Transfers",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        },
+        {
+          "id": "5-5",
+          "title": "Voter Registration Removal",
+          "completed": false,
+          "media": [
+            {
+              "type": "video",
+              "title": "Sample Video Guide",
+              "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+              "description": "Visual demonstration"
+            },
+            {
+              "type": "audio",
+              "title": "Listen to Audio",
+              "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            },
+            {
+              "type": "document",
+              "title": "Download Related Document",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            },
+            {
+              "type": "link",
+              "title": "Learn More",
+              "url": "https://islamqa.info"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "FUNERAL_SERVICES": [
+    {
+      "id": "1",
+      "name": "Islamic Society Funeral Services",
+      "type": "Full Service",
+      "services": [
+        "Ghusl",
+        "Kafan",
+        "Janazah Prayer",
+        "Burial"
+      ],
+      "contact": "(555) 123-4567",
+      "address": "123 Community Center Dr",
+      "available24_7": true,
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Green Pastures Islamic Cemetery",
+      "type": "Cemetery",
+      "services": [
+        "Burial",
+        "Grave Maintenance"
+      ],
+      "contact": "(555) 234-5678",
+      "address": "456 Memorial Rd",
+      "available24_7": false,
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Masjid Al-Rahman Janazah Services",
+      "type": "Mosque Services",
+      "services": [
+        "Ghusl",
+        "Janazah Prayer",
+        "Coordination"
+      ],
+      "contact": "(555) 345-6789",
+      "address": "789 Faith Ave",
+      "available24_7": true,
+      "media": [
+        {
+          "type": "video",
+          "title": "Sample Video Guide",
+          "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+          "description": "Visual demonstration"
+        },
+        {
+          "type": "audio",
+          "title": "Listen to Audio",
+          "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+        },
+        {
+          "type": "document",
+          "title": "Download Related Document",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+          "type": "link",
+          "title": "Learn More",
+          "url": "https://islamqa.info"
+        }
+      ]
+    }
+  ],
+  "VIDEOS": {
+    "janazah_prayer": {
+      "url": "https://www.youtube.com/watch?v=mDvqVqgK7Cs",
+      "title": "Janazah Prayer Demonstration",
+      "description": "Complete visual guide on performing the Janazah prayer"
+    }
+  }
+}
